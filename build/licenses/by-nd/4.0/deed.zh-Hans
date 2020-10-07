@@ -4,9 +4,9 @@
 
 
 <html lang="zh-hans" class="no-js" dir="ltr">
-<head about="https://lopez-myers.com/">
+<head about="http://creativecommons.org/licenses/by-nd/4.0/">
     <meta charset="utf-8">
-    <title>Creative Commons &mdash; INVALID_VARIABLE(title) </title>
+    <title>Creative Commons &mdash;  </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -115,51 +115,295 @@ a.skip-link:focus, a.skip-link:active {
 }
 </style>
 
-          
-<nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
-  <ul>
-      
-      <li><a href="#">首页</a></li>
-      <li><a href="#">Child page</a></li>
-      <li><a href="#">Child child page</a></li>
-      
-        <li class="is-active"><a href="#" aria-current="page displayed">
+          <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
+            <ul>
+                <li><a href="#">首页</a></li>
+                <li><a href="#">License</a></li>
+                <li class="is-active"><a href="#" aria-current="page displayed">
+  License Deed for 
 
 
-Attribution-NoDerivatives 4.0 International
+署名—禁止演绎 4.0 协议国际版
+
 
 </a></li>
-      
-      
-  </ul>
-</nav>
-
-<style>
-  html[dir="rtl"] nav.breadcrumb>ul li+li:before {
-    transform: scaleX(-1);
-  }
-
-  html[dir="rtl"] .breadcrumb li:first-child a {
-      padding-right: 0;
-      padding-left: .5rem;
-  }
-</style>
-
+            </ul>
+          </nav>
           
+            
 
 
 <div class="locale level-right level-item has-text-black" >
   Languages available
   <div class="control margin-left-small">
     <div class="select">
-      <select>
+      <select id="languages-dropdown">
         
         <option disabled>Select</option>
-        <option selected>英语 - English</option>
-        <option>法语 - le Français</option>
-        <option>日语 - 日本語</option>
-        <option>俄语 - Русский</option>
-        <option>西班牙语 - Español</option>
+
+        
+          <option
+            id="option-id"
+            
+            value="id"
+            data-link="/licenses/by-nd/4.0/deed.id"
+          >
+            Bahasa Indonesia
+          </option>
+        
+          <option
+            id="option-eu"
+            
+            value="eu"
+            data-link="/licenses/by-nd/4.0/deed.eu"
+          >
+            Basque
+          </option>
+        
+          <option
+            id="option-de"
+            
+            value="de"
+            data-link="/licenses/by-nd/4.0/deed.de"
+          >
+            Deutsch
+          </option>
+        
+          <option
+            id="option-en"
+            
+            value="en"
+            data-link="/licenses/by-nd/4.0/"
+          >
+            English
+          </option>
+        
+          <option
+            id="option-es"
+            
+            value="es"
+            data-link="/licenses/by-nd/4.0/deed.es"
+          >
+            español
+          </option>
+        
+          <option
+            id="option-fr"
+            
+            value="fr"
+            data-link="/licenses/by-nd/4.0/deed.fr"
+          >
+            français
+          </option>
+        
+          <option
+            id="option-hr"
+            
+            value="hr"
+            data-link="/licenses/by-nd/4.0/deed.hr"
+          >
+            Hrvatski
+          </option>
+        
+          <option
+            id="option-it"
+            
+            value="it"
+            data-link="/licenses/by-nd/4.0/deed.it"
+          >
+            italiano
+          </option>
+        
+          <option
+            id="option-lv"
+            
+            value="lv"
+            data-link="/licenses/by-nd/4.0/deed.lv"
+          >
+            latviešu
+          </option>
+        
+          <option
+            id="option-lt"
+            
+            value="lt"
+            data-link="/licenses/by-nd/4.0/deed.lt"
+          >
+            Lietuviškai
+          </option>
+        
+          <option
+            id="option-mi"
+            
+            value="mi"
+            data-link="/licenses/by-nd/4.0/deed.mi"
+          >
+            Māori
+          </option>
+        
+          <option
+            id="option-nl"
+            
+            value="nl"
+            data-link="/licenses/by-nd/4.0/deed.nl"
+          >
+            Nederlands
+          </option>
+        
+          <option
+            id="option-no"
+            
+            value="no"
+            data-link="/licenses/by-nd/4.0/deed.no"
+          >
+            norsk
+          </option>
+        
+          <option
+            id="option-pl"
+            
+            value="pl"
+            data-link="/licenses/by-nd/4.0/deed.pl"
+          >
+            polski
+          </option>
+        
+          <option
+            id="option-pt"
+            
+            value="pt"
+            data-link="/licenses/by-nd/4.0/deed.pt"
+          >
+            Português
+          </option>
+        
+          <option
+            id="option-ro"
+            
+            value="ro"
+            data-link="/licenses/by-nd/4.0/deed.ro"
+          >
+            Română
+          </option>
+        
+          <option
+            id="option-sl"
+            
+            value="sl"
+            data-link="/licenses/by-nd/4.0/deed.sl"
+          >
+            Slovenščina
+          </option>
+        
+          <option
+            id="option-fi"
+            
+            value="fi"
+            data-link="/licenses/by-nd/4.0/deed.fi"
+          >
+            suomi
+          </option>
+        
+          <option
+            id="option-sv"
+            
+            value="sv"
+            data-link="/licenses/by-nd/4.0/deed.sv"
+          >
+            svenska
+          </option>
+        
+          <option
+            id="option-tr"
+            
+            value="tr"
+            data-link="/licenses/by-nd/4.0/deed.tr"
+          >
+            Türkçe
+          </option>
+        
+          <option
+            id="option-cs"
+            
+            value="cs"
+            data-link="/licenses/by-nd/4.0/deed.cs"
+          >
+            česky
+          </option>
+        
+          <option
+            id="option-el"
+            
+            value="el"
+            data-link="/licenses/by-nd/4.0/deed.el"
+          >
+            Ελληνικά
+          </option>
+        
+          <option
+            id="option-ru"
+            
+            value="ru"
+            data-link="/licenses/by-nd/4.0/deed.ru"
+          >
+            Русский
+          </option>
+        
+          <option
+            id="option-uk"
+            
+            value="uk"
+            data-link="/licenses/by-nd/4.0/deed.uk"
+          >
+            Українська
+          </option>
+        
+          <option
+            id="option-ar"
+            
+            value="ar"
+            data-link="/licenses/by-nd/4.0/deed.ar"
+          >
+            العربيّة
+          </option>
+        
+          <option
+            id="option-ja"
+            
+            value="ja"
+            data-link="/licenses/by-nd/4.0/deed.ja"
+          >
+            日本語
+          </option>
+        
+          <option
+            id="option-zh-Hans"
+            selected
+            value="zh-Hans"
+            data-link="/licenses/by-nd/4.0/deed.zh-Hans"
+          >
+            简体中文
+          </option>
+        
+          <option
+            id="option-zh-Hant"
+            
+            value="zh-Hant"
+            data-link="/licenses/by-nd/4.0/deed.zh-Hant"
+          >
+            繁體中文
+          </option>
+        
+          <option
+            id="option-ko"
+            
+            value="ko"
+            data-link="/licenses/by-nd/4.0/deed.ko"
+          >
+            한국어
+          </option>
+        
+
         
       </select>
     </div>
@@ -169,6 +413,17 @@ Attribution-NoDerivatives 4.0 International
   </div>
 </div>
 
+<script>
+  const select = document.getElementById("languages-dropdown")
+
+  select.addEventListener("input", function () {
+    const language_code = select.value
+    const option = document.getElementById("option-" + language_code)
+    window.location.href = option.dataset.link
+  })
+</script>
+
+          
     </div>
     <section id="content" class="padding-horizontal-larger">
       
@@ -376,13 +631,13 @@ Attribution-NoDerivatives 4.0 International
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-Attribution-NoDerivatives 4.0 International
+署名—禁止演绎 4.0 协议国际版
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-Attribution-NoDerivatives 4.0 International
+署名—禁止演绎 4.0 协议国际版
 
 </h3>
 
@@ -409,10 +664,10 @@ Attribution-NoDerivatives 4.0 International
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch INVALID_VARIABLE(additional_classes)"
+  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
 ></i>
 <i
-  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop INVALID_VARIABLE(additional_classes)"
+  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
 ></i>
 
 
@@ -433,10 +688,10 @@ Attribution-NoDerivatives 4.0 International
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch INVALID_VARIABLE(additional_classes)"
+  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop INVALID_VARIABLE(additional_classes)"
+  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
 ></i>
 
 
@@ -456,10 +711,10 @@ Attribution-NoDerivatives 4.0 International
 
 
 <i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch INVALID_VARIABLE(additional_classes)"
+  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
 ></i>
 <i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop INVALID_VARIABLE(additional_classes)"
+  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
 ></i>
 
 
@@ -710,5 +965,14 @@ Attribution-NoDerivatives 4.0 International
 <style>
 body {
   background-color: rgb(245, 245, 245);
+}
+
+html[dir="rtl"] nav.breadcrumb>ul li+li:before {
+  transform: scaleX(-1);
+}
+
+html[dir="rtl"] .breadcrumb li:first-child a {
+    padding-right: 0;
+    padding-left: .5rem;
 }
 </style>
