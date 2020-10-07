@@ -1,11 +1,16 @@
+# Translators:
+# Dan Poirier <dpoirier@caktusgroup.com>, 2020
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: by-nc-nd-4.0\n"
+"Last-Translator: Dan Poirier <dpoirier@caktusgroup.com>, 2020\n"
+"Language-Team: Dutch (https://www.transifex.com/creativecommons/teams/11342/nl/)\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Attribution-NonCommercial-NoDerivatives 4.0 International"
 msgstr ""
@@ -435,15 +440,6 @@ msgstr ""
 "context waarin je het Gelicenseerde Materiaal Deelt. Het kan bijvoorbeeld "
 "redelijk zijn om aan de voorwaarden te voldoen door een URI of hyperlink te "
 "plaatsen naar een bron die de vereiste informatie bevat."
-
-msgid ""
-"If You Share Adapted Material You produce, the Adapter's License You apply "
-"must not prevent recipients of the Adapted Material from complying with this"
-" Public License."
-msgstr ""
-"Op verzoek van de Licentiegever, ben je verplicht alle informatie vermeld in"
-" Artikel <a href=\"#s3a1A\">3(a)(1)(A)</a> te verwijderen voor zover dit "
-"redelijkerwijs mogelijk is."
 
 msgid "Section 4 – Sui Generis Database Rights."
 msgstr "<strong>Artikel 4 – Sui Generis Databankenrechten</strong>."
