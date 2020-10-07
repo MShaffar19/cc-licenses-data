@@ -434,6 +434,8 @@ Priznanje avtorstva-Brez predelav 4.0 Mednarodna
       Version 4.0 &#8226;
       See the <a href="#">errata page</a> for any corrections and the date of change
       
+        &#8226; Translation published 2020/10/05
+      
     </div>
     <div class="column">
       <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.sl">See the deed</button>
