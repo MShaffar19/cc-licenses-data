@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="pl" class="no-js" dir="ltr">
 <head about="http://creativecommons.org/licenses/by-nd/4.0/">
     <meta charset="utf-8">
     <title>Creative Commons &mdash; INVALID_VARIABLE(title) </title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Skip to content</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Strona główna</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-<li class="is-active"><a href="/licenses/by-nd/4.0/deed.zh-Hans" aria-current="page displayed">License Deed for CC BY-ND 4.0</a></li>
+<li class="is-active"><a href="/licenses/by-nd/4.0/deed.pl" aria-current="page displayed">License Deed for CC BY-ND 4.0</a></li>
 
             </ul>
           </nav>
@@ -256,7 +256,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-pl"
-            
+            selected
             value="pl"
             data-link="/licenses/by-nd/4.0/deed.pl"
           >
@@ -373,7 +373,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
             data-link="/licenses/by-nd/4.0/deed.zh-Hans"
           >
@@ -424,7 +424,7 @@ a.skip-link:focus, a.skip-link:active {
       
 <div class="level container">
   <div class="level-item level-right">
-    <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/legalcode.zh-Hans">See the legal code</button>
+    <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/legalcode.pl">See the legal code</button>
   </div>
 </div>
 
@@ -626,28 +626,28 @@ a.skip-link:focus, a.skip-link:active {
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Uznanie autorstwa - Bez Utworów Zależnych 4.0 Międzynarodowa
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Uznanie autorstwa - Bez Utworów Zależnych 4.0 Międzynarodowa
 
 </h3>
 
   
   
-  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">您可以自由地：</h3>
-  <p class="has-text-black body-big padding-bottom-normal"><strong>共享</strong> &mdash; 在任何媒介以任何形式复制、发行本作品
+  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Wolno:</h3>
+  <p class="has-text-black body-big padding-bottom-normal"><strong>Dzielenie się</strong> &mdash; kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie
   </p>
-  <p class="has-text-black body-big padding-bottom-small"><strong>演绎</strong> &mdash; 修改、转换或以本作品为基础进行创作
+  <p class="has-text-black body-big padding-bottom-small"><strong>Adaptacje</strong> &mdash; remiksuj, zmieniaj i twórz na bazie utworu
   </p>
   <p class="has-text-black body-big padding-bottom-small">
-    只要你遵守许可协议条款，许可人就无法收回你的这些权利。
+    Licencjodawca nie może odwołać udzielonych praw, o ile są przestrzegane warunki licencji.
   </p>
   <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">
-    惟须遵守下列条件：
+    Na następujących warunkach:
   </h3>
   <div class="columns is-multiline">
     
@@ -669,9 +669,9 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">署名</span> -
+        <span style="font-weight: bold;">Uznanie autorstwa</span> -
 
-        您必须给出<a href="#" id="appropriate_credit_popup" class="helpLink">适当的署名</a></span>，提供指向本许可协议的链接，同时<span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">标明是否（对原始作品）作了修改</a></span>。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+        Utwór należy <a href="#" id="appropriate_credit_popup" class="helpLink">odpowiednio oznaczyć</a></span>, podać link do licencji i <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">wskazać jeśli zostały dokonane w nim zmiany </a></span>. Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór. 
       </p>
     </div>
     
@@ -693,9 +693,9 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">非商业性使用</span> -
+        <span style="font-weight: bold;">Użycie niekomercyjne</span> -
 
-        您不得将本作品用于<a href="#" id="commercial_purposes_popup" class="helpLink">商业目的</a>。
+        Nie należy wykorzystywać utworu do <a href="#" id="commercial_purposes_popup" class="helpLink">celów komercyjnych</a>
       </p>
     </div>
     <div class="column is-1">
@@ -716,23 +716,23 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">相同方式共享</span> - 如果您再混合、转换或者基于本作品进行创作，您必须基于<a href="#" id="same_license_popup" class="helpLink">与原先许可协议相同的许可协议</a> 分发您贡献的作品。
+        <span style="font-weight: bold;">Na tych samych warunkach</span> - Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na <a href="#" id="same_license_popup" class="helpLink">tej samej licencji</a>, co oryginał.
       </p>
     </div>
     <div class="column is-1">
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">没有附加限制</span> - 您不得适用法律术语或者 <a href="#" id="technological_measures_popup" class="helpLink">技术措施</a> 从而限制其他人做许可协议允许的事情。
+        <span style="font-weight: bold;">Brak dodatkowych ograniczeń</span> - Nie możesz korzystać ze środków prawnych <a href="#" id="technological_measures_popup" class="helpLink">lub technologicznych</a>, które ograniczają innych w korzystaniu z utworu na warunkach określonych w licencji.
       </p>
     </div>
   </div>
-  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">声明：</h3>
+  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Uwagi:</h3>
   <p class="has-text-black body-big padding-bottom-normal">
-    您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 <a href="#" id="exception_or_limitation_popup" class="helpLink">例外或限制</a>所允许。
+    Warunki licencyjne nie muszą być przestrzegane w odniesieniu do tych fragmentów licencjonowanych treści, które znajdują się w domenie publicznej, lub w przypadku sposobów korzystania dozwolonych przez odpowiednie <a href="#" id="exception_or_limitation_popup" class="helpLink">wyjątki lub ograniczenia prawa autorskiego</a>.
   </p>
   <p class="has-text-black body-big padding-bottom-normal">
-    不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如<a href="#" id="publicity_privacy_or_moral_rights_popup" class="helpLink">形象权、隐私权或人格权</a>可能限制您如何使用作品。
+    Licencjodawca nie daje żadnych gwarancji. Licencja może nie zapewniać wszystkich niezbędnych zgód dla niektórych użyć utworu. Dotyczy to w szczególności innych praw, takich jak <a href="#" id="publicity_privacy_or_moral_rights_popup" class="helpLink">ochrona wizerunku, prywatności czy autorskie prawa osobiste</a>. Mogą one ograniczać możliwości wykorzystania utworu.
   </p>
 </div>
 
@@ -754,12 +754,12 @@ a.skip-link:focus, a.skip-link:active {
 
 
 <div id="disclaimer-info-section" class="padding-bigger has-background-info-light" >
-  <h4 class="padding-bottom-normal is-vcentered b-header"><i class="info icon padding-right-normal"></i>免责声明</h4>
+  <h4 class="padding-bottom-normal is-vcentered b-header"><i class="info icon padding-right-normal"></i>Klauzula ograniczenia odpowiedzialności</h4>
   <p class="has-text-black padding-left-big">
-    本文本仅仅强调部分核心特征和真正许可协议的部分条款，不是许可协议，也没有法律意义。您应当在使用授权作品前，仔细审阅真正许可协议的所有条款。
+    Przystępne podsumowanie licencji opisuje jedynie wybrane warunki i zapisy licencji Creative Commons. Niniejszy tekst nie jest licencją prawnoautorską i nie posiada wartości prawnej. Przed użyciem licencjonowanego utworu należy dokładnie zapoznać się z warunkami licencyjnymi zawartymi w licencji.
   </p>
   <p class="has-text-black padding-left-big padding-top-normal">
-    知识共享组织不是律师事务所，也不提供法律服务。分发、展示或链接到本文本或进行总结的许可协议并不意味着产生律师与客户的服务关系或其他类型的关系。
+    Creative Commons is not a law firm and does not provide legal services. Distributing, displaying, or linking to this deed or the license that it summarizes does not create a lawyer-client or any other relationship.
   </p>
 </div>
 

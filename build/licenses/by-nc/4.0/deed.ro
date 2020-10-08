@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
-<head about="http://creativecommons.org/licenses/by-nd/4.0/">
+<html lang="ro" class="no-js" dir="ltr">
+<head about="http://creativecommons.org/licenses/by-nc/4.0/">
     <meta charset="utf-8">
     <title>Creative Commons &mdash; INVALID_VARIABLE(title) </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Mergi la conținut</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Acasă</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-<li class="is-active"><a href="/licenses/by-nd/4.0/deed.zh-Hans" aria-current="page displayed">License Deed for CC BY-ND 4.0</a></li>
+<li class="is-active"><a href="/licenses/by-nc/4.0/deed.ro" aria-current="page displayed">License Deed for CC BY-NC 4.0</a></li>
 
             </ul>
           </nav>
@@ -141,7 +141,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-id"
             
             value="id"
-            data-link="/licenses/by-nd/4.0/deed.id"
+            data-link="/licenses/by-nc/4.0/deed.id"
           >
             Bahasa Indonesia
           </option>
@@ -150,7 +150,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-eu"
             
             value="eu"
-            data-link="/licenses/by-nd/4.0/deed.eu"
+            data-link="/licenses/by-nc/4.0/deed.eu"
           >
             Basque
           </option>
@@ -159,7 +159,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-de"
             
             value="de"
-            data-link="/licenses/by-nd/4.0/deed.de"
+            data-link="/licenses/by-nc/4.0/deed.de"
           >
             Deutsch
           </option>
@@ -168,7 +168,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-en"
             
             value="en"
-            data-link="/licenses/by-nd/4.0/"
+            data-link="/licenses/by-nc/4.0/"
           >
             English
           </option>
@@ -177,7 +177,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-es"
             
             value="es"
-            data-link="/licenses/by-nd/4.0/deed.es"
+            data-link="/licenses/by-nc/4.0/deed.es"
           >
             español
           </option>
@@ -186,7 +186,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fr"
             
             value="fr"
-            data-link="/licenses/by-nd/4.0/deed.fr"
+            data-link="/licenses/by-nc/4.0/deed.fr"
           >
             français
           </option>
@@ -195,7 +195,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-hr"
             
             value="hr"
-            data-link="/licenses/by-nd/4.0/deed.hr"
+            data-link="/licenses/by-nc/4.0/deed.hr"
           >
             Hrvatski
           </option>
@@ -204,7 +204,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-it"
             
             value="it"
-            data-link="/licenses/by-nd/4.0/deed.it"
+            data-link="/licenses/by-nc/4.0/deed.it"
           >
             italiano
           </option>
@@ -213,7 +213,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lv"
             
             value="lv"
-            data-link="/licenses/by-nd/4.0/deed.lv"
+            data-link="/licenses/by-nc/4.0/deed.lv"
           >
             latviešu
           </option>
@@ -222,7 +222,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lt"
             
             value="lt"
-            data-link="/licenses/by-nd/4.0/deed.lt"
+            data-link="/licenses/by-nc/4.0/deed.lt"
           >
             Lietuviškai
           </option>
@@ -231,7 +231,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-mi"
             
             value="mi"
-            data-link="/licenses/by-nd/4.0/deed.mi"
+            data-link="/licenses/by-nc/4.0/deed.mi"
           >
             Māori
           </option>
@@ -240,7 +240,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-nl"
             
             value="nl"
-            data-link="/licenses/by-nd/4.0/deed.nl"
+            data-link="/licenses/by-nc/4.0/deed.nl"
           >
             Nederlands
           </option>
@@ -249,7 +249,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-no"
             
             value="no"
-            data-link="/licenses/by-nd/4.0/deed.no"
+            data-link="/licenses/by-nc/4.0/deed.no"
           >
             norsk
           </option>
@@ -258,7 +258,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pl"
             
             value="pl"
-            data-link="/licenses/by-nd/4.0/deed.pl"
+            data-link="/licenses/by-nc/4.0/deed.pl"
           >
             polski
           </option>
@@ -267,16 +267,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pt"
             
             value="pt"
-            data-link="/licenses/by-nd/4.0/deed.pt"
+            data-link="/licenses/by-nc/4.0/deed.pt"
           >
             Português
           </option>
         
           <option
             id="option-ro"
-            
+            selected
             value="ro"
-            data-link="/licenses/by-nd/4.0/deed.ro"
+            data-link="/licenses/by-nc/4.0/deed.ro"
           >
             Română
           </option>
@@ -285,7 +285,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-sl"
             
             value="sl"
-            data-link="/licenses/by-nd/4.0/deed.sl"
+            data-link="/licenses/by-nc/4.0/deed.sl"
           >
             Slovenščina
           </option>
@@ -294,7 +294,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fi"
             
             value="fi"
-            data-link="/licenses/by-nd/4.0/deed.fi"
+            data-link="/licenses/by-nc/4.0/deed.fi"
           >
             suomi
           </option>
@@ -303,7 +303,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-sv"
             
             value="sv"
-            data-link="/licenses/by-nd/4.0/deed.sv"
+            data-link="/licenses/by-nc/4.0/deed.sv"
           >
             svenska
           </option>
@@ -312,7 +312,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-tr"
             
             value="tr"
-            data-link="/licenses/by-nd/4.0/deed.tr"
+            data-link="/licenses/by-nc/4.0/deed.tr"
           >
             Türkçe
           </option>
@@ -321,7 +321,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-cs"
             
             value="cs"
-            data-link="/licenses/by-nd/4.0/deed.cs"
+            data-link="/licenses/by-nc/4.0/deed.cs"
           >
             česky
           </option>
@@ -330,7 +330,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-el"
             
             value="el"
-            data-link="/licenses/by-nd/4.0/deed.el"
+            data-link="/licenses/by-nc/4.0/deed.el"
           >
             Ελληνικά
           </option>
@@ -339,7 +339,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ru"
             
             value="ru"
-            data-link="/licenses/by-nd/4.0/deed.ru"
+            data-link="/licenses/by-nc/4.0/deed.ru"
           >
             Русский
           </option>
@@ -348,7 +348,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-uk"
             
             value="uk"
-            data-link="/licenses/by-nd/4.0/deed.uk"
+            data-link="/licenses/by-nc/4.0/deed.uk"
           >
             Українська
           </option>
@@ -357,7 +357,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ar"
             
             value="ar"
-            data-link="/licenses/by-nd/4.0/deed.ar"
+            data-link="/licenses/by-nc/4.0/deed.ar"
           >
             العربيّة
           </option>
@@ -366,16 +366,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ja"
             
             value="ja"
-            data-link="/licenses/by-nd/4.0/deed.ja"
+            data-link="/licenses/by-nc/4.0/deed.ja"
           >
             日本語
           </option>
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
-            data-link="/licenses/by-nd/4.0/deed.zh-Hans"
+            data-link="/licenses/by-nc/4.0/deed.zh-Hans"
           >
             简体中文
           </option>
@@ -384,7 +384,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-zh-Hant"
             
             value="zh-Hant"
-            data-link="/licenses/by-nd/4.0/deed.zh-Hant"
+            data-link="/licenses/by-nc/4.0/deed.zh-Hant"
           >
             繁體中文
           </option>
@@ -393,7 +393,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ko"
             
             value="ko"
-            data-link="/licenses/by-nd/4.0/deed.ko"
+            data-link="/licenses/by-nc/4.0/deed.ko"
           >
             한국어
           </option>
@@ -424,7 +424,7 @@ a.skip-link:focus, a.skip-link:active {
       
 <div class="level container">
   <div class="level-item level-right">
-    <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/legalcode.zh-Hans">See the legal code</button>
+    <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nc/4.0/legalcode.ro">See the legal code</button>
   </div>
 </div>
 
@@ -495,7 +495,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-  CC BY-ND 4.0
+  CC BY-NC 4.0
 </h3>
 <h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
   
@@ -558,7 +558,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-    CC BY-ND 4.0
+    CC BY-NC 4.0
 </h3>
 <h3 class="is-hidden-tablet has-text-centered">
   
@@ -622,32 +622,32 @@ a.skip-link:focus, a.skip-link:active {
 
     </span>
 </h3>
-<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-ND 4.0</h4>
+<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-NC 4.0</h4>
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Atribuire-NeComercial 4.0 Internațional
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Atribuire-NeComercial 4.0 Internațional
 
 </h3>
 
   
   
-  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">您可以自由地：</h3>
-  <p class="has-text-black body-big padding-bottom-normal"><strong>共享</strong> &mdash; 在任何媒介以任何形式复制、发行本作品
+  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Poți să:</h3>
+  <p class="has-text-black body-big padding-bottom-normal"><strong>Distribuie</strong> &mdash; copiază și redistribuie această operă în orice mediu sau format
   </p>
-  <p class="has-text-black body-big padding-bottom-small"><strong>演绎</strong> &mdash; 修改、转换或以本作品为基础进行创作
+  <p class="has-text-black body-big padding-bottom-small"><strong>Adaptezi</strong> &mdash; remixezi, transformi, și construiești pe baza operei
   </p>
   <p class="has-text-black body-big padding-bottom-small">
-    只要你遵守许可协议条款，许可人就无法收回你的这些权利。
+    Licențiatorul nu poate revoca aceste drepturi atât timp cât respectați termenii licenței. 
   </p>
   <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">
-    惟须遵守下列条件：
+    Sub următorii termeni:
   </h3>
   <div class="columns is-multiline">
     
@@ -669,9 +669,9 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">署名</span> -
+        <span style="font-weight: bold;">Atribuire</span> -
 
-        您必须给出<a href="#" id="appropriate_credit_popup" class="helpLink">适当的署名</a></span>，提供指向本许可协议的链接，同时<span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">标明是否（对原始作品）作了修改</a></span>。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+        Trebuie să acorzi <a href="#" id="appropriate_credit_popup" class="helpLink">creditul potrivit</a></span>, să faci un link spre licență și <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">să indici dacă s-au făcut modificări</a></span>. Poți face aceste lucruri în orice manieră rezonabilă, dar nu în vreun mod care să sugereze că licențiatorul te sprijină pe tine sau modul tău de folosire a operei.
       </p>
     </div>
     
@@ -693,9 +693,9 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">非商业性使用</span> -
+        <span style="font-weight: bold;">Necomercial</span> -
 
-        您不得将本作品用于<a href="#" id="commercial_purposes_popup" class="helpLink">商业目的</a>。
+        Nu poți folosi această operă în <a href="#" id="commercial_purposes_popup" class="helpLink">scopuri comerciale</a>.
       </p>
     </div>
     <div class="column is-1">
@@ -716,23 +716,23 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">相同方式共享</span> - 如果您再混合、转换或者基于本作品进行创作，您必须基于<a href="#" id="same_license_popup" class="helpLink">与原先许可协议相同的许可协议</a> 分发您贡献的作品。
+        <span style="font-weight: bold;">Partajare în Condiții Identice</span> - Daca remixezi, transformi, sau construiești pe baza operei, trebuie să distribui contribuțiile tale sub <a href="#" id="same_license_popup" class="helpLink">aceeași licență</a> precum originalul.
       </p>
     </div>
     <div class="column is-1">
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">没有附加限制</span> - 您不得适用法律术语或者 <a href="#" id="technological_measures_popup" class="helpLink">技术措施</a> 从而限制其他人做许可协议允许的事情。
+        <span style="font-weight: bold;">Fără restricții suplimentare</span> - Nu poți impune termeni juridici sau  <a href="#" id="technological_measures_popup" class="helpLink">măsuri tehnologice</a> t care restricționează din punct de vedere legal acțiunile altor utilizatori care sunt permise de către licență. 
       </p>
     </div>
   </div>
-  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">声明：</h3>
+  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Notificări:</h3>
   <p class="has-text-black body-big padding-bottom-normal">
-    您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 <a href="#" id="exception_or_limitation_popup" class="helpLink">例外或限制</a>所允许。
+    Nu trebuie să te supui licenței pentru elementele materialului aflate în domeniul public sau dacă folosirea adoptată de tine este permisă printr-o <a href="#" id="exception_or_limitation_popup" class="helpLink">excepție sau limitare</a> aplicabile.
   </p>
   <p class="has-text-black body-big padding-bottom-normal">
-    不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如<a href="#" id="publicity_privacy_or_moral_rights_popup" class="helpLink">形象权、隐私权或人格权</a>可能限制您如何使用作品。
+    Nu sunt oferite garanții. Licența este posibil să nu-ți dea toate permisiunile necesare folosirii intenționate de tine. De exemplu, alte drepturi precum <a href="#" id="publicity_privacy_or_moral_rights_popup" class="helpLink">publicitatea, viața privată sau drepturile morale</a> ar putea limita modul în care folosești materialul.
   </p>
 </div>
 
@@ -754,12 +754,12 @@ a.skip-link:focus, a.skip-link:active {
 
 
 <div id="disclaimer-info-section" class="padding-bigger has-background-info-light" >
-  <h4 class="padding-bottom-normal is-vcentered b-header"><i class="info icon padding-right-normal"></i>免责声明</h4>
+  <h4 class="padding-bottom-normal is-vcentered b-header"><i class="info icon padding-right-normal"></i>Exonerare de răspundere</h4>
   <p class="has-text-black padding-left-big">
-    本文本仅仅强调部分核心特征和真正许可协议的部分条款，不是许可协议，也没有法律意义。您应当在使用授权作品前，仔细审阅真正许可协议的所有条款。
+    Acest text subliniază doar câteva din caracteristicile și termenii cheie ale licenței actuale. Nu este o licență și nu are nici o valoare din punct de vedere legal. Ar trebui să analizezi cu atenție toți termenii și toate condițiile licenței actuale înainte de începerea utilizării acesteia.
   </p>
   <p class="has-text-black padding-left-big padding-top-normal">
-    知识共享组织不是律师事务所，也不提供法律服务。分发、展示或链接到本文本或进行总结的许可协议并不意味着产生律师与客户的服务关系或其他类型的关系。
+    Creative Commons nu este o firmă de avocatură și nu oferă servicii juridice. Distribuirea, afișarea ori trimiterea către acest act ori către rezumatul licenței nu creează o relație de tip avocat-client ori de oricare alt fel. 
   </p>
 </div>
 

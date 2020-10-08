@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="nl" class="no-js" dir="ltr">
 <head about=" ">
     <meta charset="utf-8">
     <title></title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Spring naar de content</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Voorpagina</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.zh-Hans" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
+  <li class="is-active"><a href="/licenses/by-nc-nd/4.0/legalcode.nl" aria-current="page displayed">Legal Code for CC BY-NC-ND 4.0</a></li>
 
             </ul>
           </nav>
@@ -141,7 +141,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-id"
             
             value="id"
-            data-link="/licenses/by-nd/4.0/legalcode.id"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.id"
           >
             Bahasa Indonesia
           </option>
@@ -150,7 +150,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-eu"
             
             value="eu"
-            data-link="/licenses/by-nd/4.0/legalcode.eu"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.eu"
           >
             Basque
           </option>
@@ -159,7 +159,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-de"
             
             value="de"
-            data-link="/licenses/by-nd/4.0/legalcode.de"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.de"
           >
             Deutsch
           </option>
@@ -168,7 +168,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-en"
             
             value="en"
-            data-link="/licenses/by-nd/4.0/legalcode"
+            data-link="/licenses/by-nc-nd/4.0/legalcode"
           >
             English
           </option>
@@ -177,7 +177,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-es"
             
             value="es"
-            data-link="/licenses/by-nd/4.0/legalcode.es"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.es"
           >
             español
           </option>
@@ -186,7 +186,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fr"
             
             value="fr"
-            data-link="/licenses/by-nd/4.0/legalcode.fr"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.fr"
           >
             français
           </option>
@@ -195,7 +195,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-hr"
             
             value="hr"
-            data-link="/licenses/by-nd/4.0/legalcode.hr"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.hr"
           >
             Hrvatski
           </option>
@@ -204,7 +204,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-it"
             
             value="it"
-            data-link="/licenses/by-nd/4.0/legalcode.it"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.it"
           >
             italiano
           </option>
@@ -213,7 +213,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lv"
             
             value="lv"
-            data-link="/licenses/by-nd/4.0/legalcode.lv"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.lv"
           >
             latviešu
           </option>
@@ -222,7 +222,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lt"
             
             value="lt"
-            data-link="/licenses/by-nd/4.0/legalcode.lt"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.lt"
           >
             Lietuviškai
           </option>
@@ -231,16 +231,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-mi"
             
             value="mi"
-            data-link="/licenses/by-nd/4.0/legalcode.mi"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.mi"
           >
             Māori
           </option>
         
           <option
             id="option-nl"
-            
+            selected
             value="nl"
-            data-link="/licenses/by-nd/4.0/legalcode.nl"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.nl"
           >
             Nederlands
           </option>
@@ -249,7 +249,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-no"
             
             value="no"
-            data-link="/licenses/by-nd/4.0/legalcode.no"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.no"
           >
             norsk
           </option>
@@ -258,7 +258,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pl"
             
             value="pl"
-            data-link="/licenses/by-nd/4.0/legalcode.pl"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.pl"
           >
             polski
           </option>
@@ -267,7 +267,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pt"
             
             value="pt"
-            data-link="/licenses/by-nd/4.0/legalcode.pt"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.pt"
           >
             Português
           </option>
@@ -276,7 +276,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ro"
             
             value="ro"
-            data-link="/licenses/by-nd/4.0/legalcode.ro"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.ro"
           >
             Română
           </option>
@@ -285,7 +285,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-sl"
             
             value="sl"
-            data-link="/licenses/by-nd/4.0/legalcode.sl"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.sl"
           >
             Slovenščina
           </option>
@@ -294,7 +294,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fi"
             
             value="fi"
-            data-link="/licenses/by-nd/4.0/legalcode.fi"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.fi"
           >
             suomi
           </option>
@@ -303,7 +303,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-sv"
             
             value="sv"
-            data-link="/licenses/by-nd/4.0/legalcode.sv"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.sv"
           >
             svenska
           </option>
@@ -312,7 +312,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-tr"
             
             value="tr"
-            data-link="/licenses/by-nd/4.0/legalcode.tr"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.tr"
           >
             Türkçe
           </option>
@@ -321,7 +321,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-cs"
             
             value="cs"
-            data-link="/licenses/by-nd/4.0/legalcode.cs"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.cs"
           >
             česky
           </option>
@@ -330,7 +330,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-el"
             
             value="el"
-            data-link="/licenses/by-nd/4.0/legalcode.el"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.el"
           >
             Ελληνικά
           </option>
@@ -339,7 +339,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ru"
             
             value="ru"
-            data-link="/licenses/by-nd/4.0/legalcode.ru"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.ru"
           >
             Русский
           </option>
@@ -348,7 +348,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-uk"
             
             value="uk"
-            data-link="/licenses/by-nd/4.0/legalcode.uk"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.uk"
           >
             Українська
           </option>
@@ -357,7 +357,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ar"
             
             value="ar"
-            data-link="/licenses/by-nd/4.0/legalcode.ar"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.ar"
           >
             العربيّة
           </option>
@@ -366,16 +366,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ja"
             
             value="ja"
-            data-link="/licenses/by-nd/4.0/legalcode.ja"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.ja"
           >
             日本語
           </option>
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
-            data-link="/licenses/by-nd/4.0/legalcode.zh-Hans"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.zh-Hans"
           >
             简体中文
           </option>
@@ -384,7 +384,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-zh-Hant"
             
             value="zh-Hant"
-            data-link="/licenses/by-nd/4.0/legalcode.zh-Hant"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.zh-Hant"
           >
             繁體中文
           </option>
@@ -393,7 +393,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ko"
             
             value="ko"
-            data-link="/licenses/by-nd/4.0/legalcode.ko"
+            data-link="/licenses/by-nc-nd/4.0/legalcode.ko"
           >
             한국어
           </option>
@@ -431,7 +431,7 @@ a.skip-link:focus, a.skip-link:active {
       
     </div>
     <div class="column">
-      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.zh-Hans">See the deed</button>
+      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nc-nd/4.0/deed.nl">See the deed</button>
     </div>
   </div>
 </div>
@@ -445,7 +445,7 @@ a.skip-link:focus, a.skip-link:active {
     <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
 
 
-署名—禁止演绎 4.0 协议国际版
+Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal
 
 </a>
     <ul class="menu-list" >
@@ -454,35 +454,35 @@ a.skip-link:focus, a.skip-link:active {
           
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s1">第一条  定义</a>
+            <a class="is-block column" href="#s1">Artikel 1 – Definities.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s2">第二条 授权范围</a>
+            <a class="is-block column" href="#s2">Artikel 2 – Omvang.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s3">第三条 授权条件</a>
+            <a class="is-block column" href="#s3">Artikel 3 – Licentievoorwaarden.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s4">第四条  数据库特别权利</a>
+            <a class="is-block column" href="#s4"><strong>Artikel 4 – Sui Generis Databankenrechten</strong>.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s5">第五条  免责声明及责任限制条款</a>
+            <a class="is-block column" href="#s5">Artikel 5 – Uitsluiting van garanties en beperking van aansprakelijkheid.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s6">第六条 期限与终止</a>
+            <a class=" is-block column" href="#s6">Artikel 6 – Termijn en beëindiging.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s7">第七条 其他条款和条件</a>
+            <a class="is-block column" href="#s7">Artikel 7 – Andere voorwaarden en condities.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s8">第八条 解释</a>
+            <a class=" is-block column" href="#s8">Artikel 8 – Interpretatie.</a>
           </li>
         </ul>
       </li>
@@ -559,13 +559,13 @@ a.skip-link:focus, a.skip-link:active {
       
       </span>
 
-    CC BY-ND 4.0 
+    CC BY-NC-ND 4.0 
   </h2>
   
   <h1 class="b-header">
 
 
-署名—禁止演绎 4.0 协议国际版
+Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal
 
 </h1>
 </div>
@@ -634,13 +634,13 @@ a.skip-link:focus, a.skip-link:active {
       
       </span>
   </h2>
-  <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-ND 4.0</h2>
-  <h3 class="has-text-centered is-hidden-touch">CC BY-ND 4.0</h3>
-  <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-ND 4.0</h4>
+  <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-NC-ND 4.0</h2>
+  <h3 class="has-text-centered is-hidden-touch">CC BY-NC-ND 4.0</h3>
+  <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-NC-ND 4.0</h4>
   <h2 class="b-header has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal
 
 </h2>
 </div>
@@ -769,7 +769,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-  CC BY-ND 4.0
+  CC BY-NC-ND 4.0
 </h3>
 <h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
   
@@ -832,7 +832,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-    CC BY-ND 4.0
+    CC BY-NC-ND 4.0
 </h3>
 <h3 class="is-hidden-tablet has-text-centered">
   
@@ -896,43 +896,43 @@ a.skip-link:focus, a.skip-link:active {
 
     </span>
 </h3>
-<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-ND 4.0</h4>
+<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-NC-ND 4.0</h4>
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal
 
 </h3>
 
   <div>
     <h3 class="padding-bottom-normal b-header">
       
-        知识共享 (Creative Commons) 署名—禁止演绎 4.0公共许可协议国际版
+        Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationale Publieke Licentie
       
     </h3>
     <p class="body-big padding-bottom-larger">
     
-    通过行使本协议所授予的权利（定义如下），您接受并同意受到知识共享(Creative Commons)署名—禁止演绎4.0国际公共许可协议（以下简称“本公共许可协议”）的约束。从合同解释的角度来看，您获得授权的对价是接受本协议的条款，许可人授予您这些权利的对价是可以通过采用本协议条款发布授权作品(material)而获得利益。
+Door het uitoefenen van de door de licentie verleende rechten (zoals hieronder omschreven), ga Je akkoord met de voorwaarden en condities van deze Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationale Publieke Licentie (“Publieke Licentie”). Voor zover deze Publieke Licentie geïnterpreteerd kan worden als een contract, worden Jou de gelicenseerde rechten verleend met inachtneming van Jouw aanvaarding van deze voorwaarden en condities, en de Licentiegever verleent Jou deze rechten met inachtneming van de voordelen die de Licentiegever ontvangt door het beschikbaar stellen van het Gelicenseerde Materiaal onder deze voorwaarden en condities.
     
     </p>
     
 
     <!-- Section 1. Definitions. -->
     <div class="padding-bottom-larger">
-      <p id="s1" class="body-bigger padding-bottom-normal"><strong>第一条  定义</strong></p>
+      <p id="s1" class="body-bigger padding-bottom-normal"><strong>Artikel 1 – Definities.</strong></p>
       
       <ol type="a" class="body-big padding-left-normal">
 
           
 
           <li id="s1a_adapted_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">演绎作品(Adapted Material)：</span> 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Afgeleid Materiaal</span> betekent materiaal dat is beschermd door Auteursrecht en Soortgelijke Rechten, dat is afgeleid van of gebaseerd op het Gelicenseerde Materiaal en waarin het Gelicenseerde Materiaal is vertaald, aangepast, gearrangeerd, gewijzigd of anderszins aangepast op een manier die toestemming vereist op grond van het Auteursrecht en Soortgelijke Rechten van de Licentiegever. Voor de toepassing van deze Publieke Licentie, wordt er altijd Afgeleid Materiaal geproduceerd wanneer het Gelicenseerde Materiaal wordt gesynchroniseerd in getimede relatie met een bewegend beeld waar het gaat om een muziekwerk, uitvoering of geluidsopname.</div>
           </li>
 
           
@@ -942,15 +942,15 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1b_copyright_and_similar_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">著作权与类似权利：</span> 指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的， <a href="#s2b">第二条b款第(1)项与第(2)项</a> 所列权利不属于著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Auteursrecht en Soortgelijke Rechten</span> zijn het auteursrecht en rechten die nauw verwant zijn aan het auteursrecht, waaronder maar niet gelimiteerd tot, uitvoeringen, uitzending, geluidsopname en Sui Generis Databankenrecht, ongeacht de manier waarop de rechten zijn gelabeld of gecategoriseerd. Voor de doeleinden van deze Publieke Licentie, vallen de rechten omschreven onder Artikel <a href="#s2b">2(b)(1)-(2)</a> niet onder Auteursrecht en Soortgelijke Rechten.</div>
           </li>
 
           <li id="s1c_effective_technological_measures" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">有效的技术措施：</span> 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Doeltreffende Technische Maatregelen</span> betekenen maatregelen die, bij het ontbreken van de juiste bevoegdheid, niet omzeild mogen worden wegens wetten ter implementatie van de verplichtingen van Artikel 11 van het WIPO-verdrag inzake het auteursrecht aangenomen op 20 december 1996, en/of soortgelijke internationale overeenkomsten.</div>
           </li>
 
           <li id="s1d_exceptions_and_limitations" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">例外与限制：</span> 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Uitzonderingen en Beperkingen</span> betekent ‘fair use’, ‘fair dealing’, en/of enige andere uitzondering of beperking van het Auteursrecht en Soortgelijke Rechten die van toepassing zijn op Jouw gebruik van het Gelicenseerde Materiaal.</div>
           </li>
 
           
@@ -958,79 +958,83 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1e_licensed_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">授权作品(Licensed Material)：</span> 指许可人通过本公共许可协议授权的文学、艺术作品(artistic or literary work)，数据库或其他作品(material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Gelicenseerde Materiaal</span> betekent het artistieke of literaire werk, databank, of ander materiaal waarop de Licentiegever deze Publieke Licentie toepast.</div>
           </li>
 
           <li id="s1f_licensed_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">协议所授予的权利：</span> 指依据本公共许可协议的条款和条件所授予您的各项权利，限于适用于您对授权作品(Licensed Material)的使用且许可人有权许可的著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Gelicenseerde Rechten</span> betekent de rechten aan Jou verleend, beperkt door de voorwaarden en condities van deze Publieke Licentie, welke in verband staan met het Auteursrecht en de Soortgelijke Rechten die van toepassing zijn op het gebruik van het Gelicenseerde Materiaal en waarvan de Licentiegever de bevoegdheid heeft om ze te licenseren.</div>
           </li>
 
           <li id="s1g_licensor" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">许可人：</span> 指通过本公共许可协议进行授权的个人或组织。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Licentiegever</span> betekent de persoon/personen of entiteit(en) die rechten verlenen onder deze Publieke Licentie.</div>
           </li>
 
           
+            <li id="s1h_noncommercial" class="padding-bottom-normal">
+              <div class="padding-left-normal"><span style="text-decoration: underline;">NietCommercieel</span> betekent niet primair bedoeld voor of gericht op zakelijke of financiële compensatie. Voor toepassing van deze Publieke Licentie is de uitwisseling van het Gelicenseerde Materiaal voor ander materiaal dat volgens het Auteursrecht of Soortgelijke rechten is beschermd, bij het digitaal of op soortgelijke wijze delen van bestanden (file-sharing) NietCommercieel, tenzij de betaling van een geldelijke vergoeding heeft plaatsgevonden bij de uitwisseling.</div>
+            </li>
+          
 
-          <li id="s1h_share" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">分享：</span> 指以需要“协议所授予的权利”许可的任何方法或程序向公众提供作品(material)，包括复制、公共展示、公开表演、发行、散布、传播、进口或提供作品(material)给公众以便其能在其选定的时间和地点接收作品(material)。</div>
+          <li id="s1i_share" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Delen</span> betekent het aanbieden van materiaal aan het publiek door alle middelen of werkwijzen die toestemming vereisen onder de Gelicenseerde Rechten, zoals reproductie, openbare vertoning, openbare uitvoering, distributie, verspreiding, communicatie of invoer, en het beschikbaar maken aan het publiek op zodanige wijze dat leden van het publiek daartoe op een door hen individueel gekozen plaats en tijd toegang toe hebben.</div>
           </li>
 
-          <li id="s1i_sui_generis_database_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">数据库特别权利：</span> 指除了著作权之外，衍生于1996年3月11日通过的《欧洲议会与欧盟理事会关于数据库法律保护的指令》(Directive 96/9/EC)及其修改或后续版本的权利，或其他国家或地区本质上与之等同的权利。</div>
+          <li id="s1j_sui_generis_database_rights" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Sui Generis Databankenrecht</span> betekent rechten anders dan het auteursrecht als gevolg van Richtlijn 96/9/EC van het Europees Parlement en de Europese Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken, zoals gewijzigd en/of opgevolgd, evenals andere in essentie gelijkwaardige rechten overal ter wereld.</div>
           </li>
 
-          <li id="s1j_you" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">您：</span> 指依据本公共许可协议行使其所获得授予之权利的个人或机构。 <strong>“您的”</strong> 有相应的含义。</div>
+          <li id="s1k_you" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Je</span> staat voor de persoon of entiteit die de Gelicenseerde Rechten uitoefent onder deze Publieke Licentie. <strong>Jou</strong>, <strong>Jouw</strong> en <strong>Je</strong> hebben een overeenkomstige betekenis.</div>
           </li>
       </ol>
     </div>
 
     <!-- Section 2. Scope. -->
     <div class="padding-bottom-larger">
-      <p id="s2" class="body-bigger padding-bottom-normal"><strong>第二条 授权范围</strong></p>
+      <p id="s2" class="body-bigger padding-bottom-normal"><strong>Artikel 2 – Omvang.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s2a" class="padding-left-normal"><strong>授权</strong>.
+        <li id="s2a" class="padding-left-normal"><strong>Licentieverlening</strong>.
         <ol class="padding-left-normal padding-vertical-normal">
-          <li id="s2a1" class="padding-left-normal padding-bottom-normal">根据本公共许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：
+          <li id="s2a1" class="padding-left-normal padding-bottom-normal">Met inachtneming van de voorwaarden en condities van deze Publieke Licentie verleent de Licentiegever hierbij aan Jou een wereldwijde, royalty-vrije, niet in sublicentie te geven, niet-exclusieve, onherroepelijke licentie om de Gelicenseerde Rechten met betrekking tot het Gelicenseerde Materiaal uit te oefenen:
             <ol type="A" class="padding-left-normal padding-vertical-normal">
             
-              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">复制和分享授权作品(Licensed Material)的全部或部分；以及</li>
+              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">het reproduceren en Delen van het gehele of gedeeltes van het Gelicenseerde Materiaal alleen voor NietCommerciële doeleinden; en</li>
             
 
             
-              <li id="s2a1B" class="padding-left-normal padding-bottom-small">produce, reproduce, and Share Adapted Material.</li>
+              <li id="s2a1B" class="padding-left-normal padding-bottom-small">produce, reproduce, and Share Adapted Material for NonCommercial purposes only.</li>
             
 
             </ol>
           </li>
-          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>例外和限制</strong>为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</li>
-          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>期限</strong>本公共许可协议的期限规定于<a href="#s6a">第六条 a</a> 款。</li>
-          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>媒介和形式；允许的技术修改</strong>许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于<a href="#s2a4">第二条a款第(4)项</a> 进行的技术修改不构成演绎作品(Adapted Material)。</li>
+          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>Uitzonderingen en Beperkingen</strong>. Om twijfel te voorkomen: waar de Uitzonderingen en Beperkingen van toepassing zijn op Jouw gebruik is deze Publieke Licentie niet van toepassing en je hoeft dan niet te voldoen aan de voorwaarden en condities.</li>
+          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>Termijn</strong>. De termijn van deze Publieke Licentie wordt omschreven in Artikel <a href="#s6a">6(a)</a>.</li>
+          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>Media en formaten; technische wijzigingen toegestaan</strong>. De Licentiegever geeft Jou de bevoegdheid om de Gelicenseerde Rechten op alle media en formaten, zowel reeds bestaande als toekomstige, uit te oefenen, en om deze van de benodigde technische wijzigingen te voorzien om dit te doen. De Licentiegever doet afstand van en/of gaat ermee akkoord om afstand te doen van alle rechten of bevoegdheden die Jou verbieden om technische wijzigingen door te voeren die noodzakelijk zijn om de Gelicenseerde Rechten uit te oefenen, inclusief de technische wijzigingen die noodzakelijk zijn om Doeltreffende Technologische Maatregelen te omzeilen. Voor toepassing van deze Publieke Licentie leidt het simpelweg wijzigen zoals toegestaan in Artikel <a href="#s2a4">2(a)(4)</a> nooit tot Afgeleid Materiaal.</li>
           <li id="s2a5" class="padding-left-normal padding-bottom-small">
-            <span style="text-decoration: underline;">后续接受者</span>.
+            <span style="text-decoration: underline;">Verdere ontvangers</span>.
             <div class="para">
               <ol type="A" class="padding-left-normal padding-vertical-normal">
 
                   
 
-                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">来自许可人的要约——授权作品(Licensed Material)</span>本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。</li>
+                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">Aanbod van de Licentiegever – Gelicenseerde Materiaal</span>. Iedere ontvanger van het Gelicenseerde Materiaal krijgt automatisch een aanbod van de Licentiegever om de Gelicenseerde Rechten uit te oefenen volgens de voorwaarden en condities van deze Publieke Licentie.</li>
 
                   
 
-                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">禁止下游限制</span>若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</li>
+                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Geen verdere beperkingen</span>. Je mag geen aanvullende of afwijkende voorwaarden of condities aanbieden of opleggen, noch enige Doeltreffende Technologische Maatregelen toepassen, als daardoor de uitoefening van de Gelicenseerde Rechten door de ontvanger van het Gelicenseerde Materiaal wordt beperkt.</li>
 
               </ol>
             </div>
           </li>
-          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">并非背书</span>. 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 <a href="#s3a1Ai">第三条a款第(1)项(A)目(i)</a>所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。</li>
+          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Geen goedkeuring</span>. . Niets in deze Publieke Licentie kan worden opgevat als of vestigt toestemming om te beweren of te impliceren dat Jij verbonden bent, of dat Jouw gebruik van het Gelicenseerde Materiaal is verbonden, gesponsord, goedgekeurd of een officiële status heeft verkregen door de Licentiegever of andere daartoe aangewezen personen om Naamsvermelding te ontvangen als bedoeld in artikel <a href="#s3a1Ai">3(a)(1)(A)(i)</a>.</li>
         </ol>
 
-        <li id="s2b" class="padding-left-normal"><strong>其他权利</strong>.
+        <li id="s2b" class="padding-left-normal"><strong>Andere rechten</strong>.
           <ol class="padding-left-normal padding-vertical-normal">
-            <li id="s2b1" class="padding-left-normal padding-bottom-normal">依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。</li>
-            <li id="s2b2" class="padding-left-normal padding-bottom-normal">本公共许可协议不适用于任何专利权或商标权许可。</li>
+            <li id="s2b1" class="padding-left-normal padding-bottom-normal">Morele rechten, zoals het recht op integriteit, zijn niet gelicenseerd onder deze Publieke Licentie, noch publiciteit, privacy en/of andere soortgelijke persoonlijkheidsrechten; echter, voor zover mogelijk, doet de Licentiegever afstand en/of gaat akkoord met het niet inroepen van enige van zulke rechten gehouden door de Licentiegever tot in hoeverre dit noodzakelijk is om Jou de Gelicenseerde Rechten te kunnen laten uitoefenen, maar niet op andere wijze.</li>
+            <li id="s2b2" class="padding-left-normal padding-bottom-normal">Octrooi- en merkenrecht vallen niet onder deze Publieke Licentie.</li>
           
-            <li id="s2b3" class="padding-left-normal padding-bottom-small">在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下，许可人明确保留收取使用费的任何权利。</li>
+            <li id="s2b3" class="padding-left-normal padding-bottom-small">Voor zover mogelijk doet de Licentiegever afstand van enig recht op royalty's van Jou voor het uitoefenen van de Gelicenseerde Rechten, rechtstreeks of via een collectieve beheersorganisatie op grond van een vrijwillige of voor afstand vatbaar wettelijk- of dwanglicentiesysteem. In alle andere gevallen behoudt de Licentiegever nadrukkelijk het recht om royalty’s te innen, ook wanneer het Gelicenseerde Materiaal anders dan voor NietCommerciële doeleinden is gebruikt.</li>
           
           </ol>
         </li>
@@ -1039,32 +1043,32 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 3. License Conditions. -->
     <div class="padding-bottom-larger">
-      <p id="s3" class="body-bigger padding-bottom-normal"><strong>第三条 授权条件</strong></p>
+      <p id="s3" class="body-bigger padding-bottom-normal"><strong>Artikel 3 – Licentievoorwaarden.</strong></p>
 
-      <p class="body-big padding-bottom-normal">您行使被许可的权利明确受以下条件限制：</p>
+      <p class="body-big padding-bottom-normal">Jouw uitoefening van de Gelicenseerde Rechten is uitdrukkelijk onderworpen aan de volgende voorwaarden.</p>
 
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>署名</strong>.</p>
+        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>Naamsvermelding</strong>.</p>
           <ol type="1" class="padding-left-normal padding-vertical-normal">
             <li id="s3a1" class="padding-left-normal padding-bottom-normal">
               <p>If You Share the Licensed Material (including in modified form), You must:</p>
               <ol type="A" class="padding-left-normal padding-vertical-normal">
-                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：
+                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">Het volgende te behouden indien het door de Licentiegever bij het Gelicenseerde Materiaal wordt aangeleverd:
                     <ol type="i" class="padding-left-normal padding-vertical-normal">
-                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</li>
-                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">著作权声明；</li>
-                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">有关本公共许可协议的声明；</li>
-                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">有关免责的声明；</li>
-                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；</li>
+                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">identificatie van de maker(s) van het Gelicenseerde Materiaal en alle andere aangewezenen voor het ontvangen van naamsvermelding, die op redelijke wijze door de Licentiegever worden gevraagd (inclusief bij wijze van pseudoniem indien deze is aangewezen);</li>
+                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">een auteursrechtvermelding;</li>
+                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">een verwijzing naar deze Publieke Licentie;</li>
+                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">een verwijzing naar de uitsluiting van garanties;</li>
+                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">een URI of hyperlink naar het Gelicenseerde Materiaal voor zover dit redelijkerwijs mogelijk is;</li>
                     </ol>
                   </li>
-                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及</li>
-                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。</li>
+                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">Aan te geven of Je het Gelicenseerde Materiaal bewerkt hebt, en een indicatie van eventuele eerdere wijzigingen te behouden; en</li>
+                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">Aan te geven dat het Gelicenseerde Materiaal onder deze Publieke Licentie staat, en de tekst bijvoegen van, of de URI of hyperlink naar, deze Publieke Licentie.</li>
               </ol>
             </li>
-            <li id="s3a2" class="padding-left-normal padding-bottom-normal">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足<a href="#s3a1">第三条a款第(1)项</a>的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</li>
+            <li id="s3a2" class="padding-left-normal padding-bottom-normal">Om twijfel te voorkomen: Je hebt geen toestemming om Afgeleid Materiaal te Delen op grond van deze Publieke Licentie.</li>
             
-              <li id="s3a3" class="padding-left-normal padding-bottom-small">如果许可人要求，您必须在合理可行的范围内移除<a href="#s3a1A">第三条a款第(1)项(A)目</a> 所要求的任何信息。</li>
+              <li id="s3a3" class="padding-left-normal padding-bottom-small">Je kunt voldoen aan de voorwaarden in Artikel <a href="#s3a1">3(a)(1)</a> op elke redelijke wijze met inachtneming van het medium, de middelen, en context waarin je het Gelicenseerde Materiaal Deelt. Het kan bijvoorbeeld redelijk zijn om aan de voorwaarden te voldoen door een URI of hyperlink te plaatsen naar een bron die de vereiste informatie bevat.</li>
               
             
           </ol>
@@ -1076,72 +1080,72 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 4. Sui Generis Database Rights. -->
     <div class="padding-bottom-larger">
-      <p id="s4" class="body-bigger padding-bottom-normal"><strong>第四条  数据库特别权利</strong></p>
-      <p class="body-big padding-bottom-normal">当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：</p>
+      <p id="s4" class="body-bigger padding-bottom-normal"><strong><strong>Artikel 4 – Sui Generis Databankenrechten</strong>.</strong></p>
+      <p class="body-big padding-bottom-normal">Waar de Gelicenseerde Rechten, Sui Generis Databankenrechten omvatten is bij het gebruik van het Gelicenseerde Materiaal door Jou van toepassing:</p>
       <ol type="a" class="body-big padding-left-normal">
           <li id="s4a" class="padding-left-normal padding-bottom-normal">
           
-            for the avoidance of doubt, Section <a href="#s2a1">2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
-            
+            for the avoidance of doubt, Section <a href="#s2a1">2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
+          
           </li>
           <li id="s4b" class="padding-left-normal padding-bottom-normal">
             
-              如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)；
+              Als je alle, of een substantieel deel van de, inhoud van de databank samenvoegt tot een databank waarop je het Sui Generis Databankrecht hebt (maar niet de individuele onderdelen ervan), dan is de databank waarop je dit recht hebt Afgeleid Materiaal; en
             
           </li>
-          <li id="s4c" class="padding-left-normal padding-bottom-small">如果您分享全部或大部分该数据库的资料，您必须遵守 <a href="#s3a">第三条a款</a> 规定的条件。</li>
+          <li id="s4c" class="padding-left-normal padding-bottom-small">Je dient te voldoen aan de voorwaarden gesteld in Artikel <a href="#s3a">3(a)</a> bij het Delen van alle, of een substantieel deel van de, inhoud van de databank.</li>
       </ol>
 
-      <span class="body-big">为避免疑义，当协议所授予的权利包含其他著作权与类似权利时， <a href="#s4">第四条</a> 补充且不取代本公共许可协议所规定的您的义务。</span>
+      <span class="body-big">Om twijfel te voorkomen: Artikel <a href="#s4">4</a> dient ter aanvulling en niet ter vervanging van Jouw verplichtingen onder deze Publieke Licentie, waar de Gelicenseerde Rechten ook andere Auteursrechten en Soortgelijke Rechten omvatten.</span>
     </div>
 
     <!-- Section 5. Disclaimer -->
     <div class="padding-bottom-larger">
-      <p id="s5" class="body-bigger padding-bottom-normal"><strong>第五条  免责声明及责任限制条款</strong></p>
+      <p id="s5" class="body-bigger padding-bottom-normal"><strong>Artikel 5 – Uitsluiting van garanties en beperking van aansprakelijkheid.</strong></p>
       <ol style="font-weight: bold;" type="a" class="body-big padding-left-normal">
-        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。</strong></li>
-        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>在最大可能范围内， 对于任何因本公共许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。</strong></li>
+        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>Tenzij anders dan afzonderlijk uitgevoerd door de Licentiegever en voor zover mogelijk, biedt de Licentiegever het Gelicenseerde Materiaal aan ‘zonder garantie’ en zoals deze beschikbaar is gesteld, en geeft hiervoor geen verklaringen of garanties van welk aard dan ook, zowel expliciet, impliciet, statutair of anders. Dit omvat, zonder beperking, garanties van titel, verkoopbaarheid, geschiktheid voor een bepaald doel, niet-inbreuk, afwezigheid van latente of andere gebreken, nauwkeurigheid of de aanwezigheid of afwezigheid van fouten, al dan niet bekend of vindbaar. Wanneer beperkingen en garanties geheel of gedeeltelijk niet toegestaan zijn, is dit niet op Jou van toepassing.</strong></li>
+        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>Voor zover mogelijk, is de Licentiegever in geen geval aansprakelijk voor Jou, of op enige juridische grondslag (Inclusief, zonder beperking, nalatigheid) of anderszins voor enige directe, bijzondere, indirecte, incidentele, punitieve, exemplarische of andere verliezen, kosten, uitgaven of schade die voortvloeien uit deze Publieke Licentie, of bij het gebruik van het Gelicenseerde Materiaal, zelfs indien de Licentiegever op de hoogte is gesteld van het risico op dergelijke verliezen, kosten, of uitgaven op schade. Waar een beperking van aansprakelijkheid geheel of gedeeltelijk niet is toegestaan, is deze beperking niet op Jou van toepassing.</strong></li>
       </ol>
       <ol start="3" type="a" class="body-big padding-left-normal">
-        <li id="s5c" class="padding-left-normal padding-bottom-small">前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。</li>
+        <li id="s5c" class="padding-left-normal padding-bottom-small">De uitsluiting van garantie en beperking van aansprakelijkheid zoals hierboven vermeld, zal worden uitgelegd op een wijze die, voor zover mogelijk, het meest in de buurt komt van een absolute vrijwaring en verklaring van afstand van alle aansprakelijkheid.</li>
       </ol>
     </div>
 
     <!-- Section 6. Term and Termination -->
     <div class="padding-bottom-larger">
-      <p id="s6" class="body-bigger padding-bottom-normal"><strong>第六条 期限与终止</strong></p>
+      <p id="s6" class="body-bigger padding-bottom-normal"><strong>Artikel 6 – Termijn en beëindiging.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s6a" class="padding-left-normal padding-bottom-normal">本公共许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。</li>
+        <li id="s6a" class="padding-left-normal padding-bottom-normal">Deze Publieke Licentie geldt voor de beschermingstermijn van het Auteursrecht en Soortgelijke Rechten die hier gelicenseerd worden. Echter, als Je niet voldoet aan de voorwaarden van deze Publieke Licentie, dan eindigen Jouw rechten ingevolge deze Publieke Licentie van rechtswege.</li>
         <li id="s6b" class="padding-left-normal padding-bottom-normal">
-          <p class="body-big padding-bottom-normal">当您使用本授权作品(Licensed Material)的权利根据第六条a款终止时，您的权利在下述情况下恢复：</p>
+          <p class="body-big padding-bottom-normal">Waar Jouw recht van gebruik op het Gelicenseerde Materiaal ingevolge van Artikel 6(a) is geëindigd, wordt dit hersteld:</p>
           <ol class="body-big padding-left-normal">
-            <li id="s6b1" class="padding-left-normal padding-bottom-normal">自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</li>
-            <li id="s6b2" class="padding-left-normal padding-bottom-small">根据许可人明示恢复权利的意思表达。</li>
+            <li id="s6b1" class="padding-left-normal padding-bottom-normal">automatisch met ingang van de datum waarop de overtreding is recht gezet, mits deze rechtzetting binnen 30 dagen na ontdekking van de overtreding heeft plaatsgevonden; of</li>
+            <li id="s6b2" class="padding-left-normal padding-bottom-small">na uitdrukkelijke herstel door de Licentiegever.</li>
           </ol>
-          为避免疑义，本公共许可协议<a href="#s6b">第六条b款</a> 不影响许可人就您违反本公共许可协议的行为寻求法律救济。
+          Om twijfel te voorkomen: Artikel <a href="#s6b">6(b)</a> doet geen afbreuk aan het recht van de Licentiegever om rechtsmiddelen aan te wenden voor de overtredingen van deze Publieke Licentie.
         </li>
-        <li id="s6c" class="padding-left-normal padding-bottom-normal">为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</li>
-        <li id="s6d" class="padding-left-normal padding-bottom-small">本协议<a href="#s1">第一</a>、<a href="#s5">五</a>、<a href="#s6">六</a>、<a href="#s7">七</a>及第<a href="#s8">八</a>条，不因本公共许可协议终止而失效。</li>
+        <li id="s6c" class="padding-left-normal padding-bottom-normal">Om twijfel te voorkomen: de Licentiegever kan op elk gewenst moment het Gelicenseerde Materiaal onder afzonderlijke voorwaarden of condities aanbieden, of stoppen met de distributie van het Gelicenseerde Materiaal. Hierdoor zal deze Publieke Licentie echter niet beëindigd worden.</li>
+        <li id="s6d" class="padding-left-normal padding-bottom-small">Artikel <a href="#s1">1</a>, <a href="#s5">5</a>, <a href="#s6">6</a>, <a href="#s7">7</a>, en <a href="#s8">8</a> blijven geldig na beëindiging van deze Publieke Licentie.</li>
       </ol>
     </div>
 
     <!-- Section 7. Other terms and conditions -->
     <div class="padding-bottom-larger">
-      <p id="s7" class="body-bigger padding-bottom-normal"><strong>第七条 其他条款和条件</strong></p>
+      <p id="s7" class="body-bigger padding-bottom-normal"><strong>Artikel 7 – Andere voorwaarden en condities.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s7a" class="padding-left-normal padding-bottom-normal">除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。</li>
-        <li id="s7b" class="padding-left-normal padding-bottom-small">本公共许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本公共许可协议的条款及条件。</li>
+        <li id="s7a" class="padding-left-normal padding-bottom-normal">De Licentiegever is niet gebonden aan enige aanvullende of andere voorwaarden of condities die gecommuniceerd zijn door Jou, tenzij dit uitdrukkelijk is overeengekomen.</li>
+        <li id="s7b" class="padding-left-normal padding-bottom-small">Eventuele afspraken of overeenkomsten met betrekking tot het Gelicenseerde Materiaal die hierin niet is vermeld, zijn onafhankelijk en staan los van de voorwaarden en condities van deze Publieke Licentie.</li>
       </ol>
     </div>
 
     <!-- Section 8. Interpretation -->
     <div class="padding-bottom-normal">
-      <p id="s8" class="body-bigger padding-bottom-normal"><strong>第八条 解释</strong></p>
+      <p id="s8" class="body-bigger padding-bottom-normal"><strong>Artikel 8 – Interpretatie.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s8a" class="padding-left-normal padding-bottom-normal">为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本公共许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。</li>
-        <li id="s8b" class="padding-left-normal padding-bottom-normal">在最大可能范围内，如果本公共许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本公共许可协议中排除适用，不影响其余条款的效力。</li>
-        <li id="s8c" class="padding-left-normal padding-bottom-normal">除非许可人明示同意，本公共许可协议的任何条款或条件均不得放弃。</li>
-        <li id="s8d" class="padding-left-normal">本公共许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。</li>
+        <li id="s8a" class="padding-left-normal padding-bottom-normal">Om twijfel te voorkomen, deze Publieke Licentie wordt niet en kan (ook) niet opgevat worden ter vermindering, beperking of begrenzing van, of als voorwaarden stellend aan, elk gebruik van het Gelicenseerd Materiaal dat (sowieso) rechtmatig kan plaatsvinden zonder toestemming onder deze Publieke Licentie.</li>
+        <li id="s8b" class="padding-left-normal padding-bottom-normal">Voor zover mogelijk, indien een bepaling van deze Publieke Licentie onafdwingbaar wordt geacht, zal de bepaling automatisch hervormd worden tot het noodzakelijke minimum om deze wel afdwingbaar te maken. Indien de bepaling niet hervormd kan worden, zal deze gescheiden worden van deze Publieke Licentie, zonder dat de afdwingbaarheid van de overige voorwaarden en condities wordt aangetast.</li>
+        <li id="s8c" class="padding-left-normal padding-bottom-normal">Van geen enkele voorwaarde of conditie van deze Publieke Licentie wordt afstand gedaan en geen gebrek aan naleving wordt toegestaan, tenzij dit expliciet met de Licentiegever is overeengekomen.</li>
+        <li id="s8d" class="padding-left-normal">Niets in deze Publieke Licentie betekent, of kan worden geïnterpreteerd als een beperking op, of als afstandsverklaring van, enige voorrechten en immuniteiten die gelden voor de Licentiegever of voor Jou, inclusief van de juridische processen van enig rechtsgebied of enige autoriteit.</li>
       </ol>
     </div>
   </div>

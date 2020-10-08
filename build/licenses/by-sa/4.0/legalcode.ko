@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="ko" class="no-js" dir="ltr">
 <head about=" ">
     <meta charset="utf-8">
     <title></title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Skip to content</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">홈</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.zh-Hans" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
+  <li class="is-active"><a href="/licenses/by-sa/4.0/legalcode.ko" aria-current="page displayed">Legal Code for CC BY-SA 4.0</a></li>
 
             </ul>
           </nav>
@@ -141,7 +141,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-id"
             
             value="id"
-            data-link="/licenses/by-nd/4.0/legalcode.id"
+            data-link="/licenses/by-sa/4.0/legalcode.id"
           >
             Bahasa Indonesia
           </option>
@@ -150,7 +150,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-eu"
             
             value="eu"
-            data-link="/licenses/by-nd/4.0/legalcode.eu"
+            data-link="/licenses/by-sa/4.0/legalcode.eu"
           >
             Basque
           </option>
@@ -159,7 +159,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-de"
             
             value="de"
-            data-link="/licenses/by-nd/4.0/legalcode.de"
+            data-link="/licenses/by-sa/4.0/legalcode.de"
           >
             Deutsch
           </option>
@@ -168,7 +168,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-en"
             
             value="en"
-            data-link="/licenses/by-nd/4.0/legalcode"
+            data-link="/licenses/by-sa/4.0/legalcode"
           >
             English
           </option>
@@ -177,7 +177,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-es"
             
             value="es"
-            data-link="/licenses/by-nd/4.0/legalcode.es"
+            data-link="/licenses/by-sa/4.0/legalcode.es"
           >
             español
           </option>
@@ -186,7 +186,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fr"
             
             value="fr"
-            data-link="/licenses/by-nd/4.0/legalcode.fr"
+            data-link="/licenses/by-sa/4.0/legalcode.fr"
           >
             français
           </option>
@@ -195,7 +195,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-hr"
             
             value="hr"
-            data-link="/licenses/by-nd/4.0/legalcode.hr"
+            data-link="/licenses/by-sa/4.0/legalcode.hr"
           >
             Hrvatski
           </option>
@@ -204,7 +204,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-it"
             
             value="it"
-            data-link="/licenses/by-nd/4.0/legalcode.it"
+            data-link="/licenses/by-sa/4.0/legalcode.it"
           >
             italiano
           </option>
@@ -213,7 +213,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lv"
             
             value="lv"
-            data-link="/licenses/by-nd/4.0/legalcode.lv"
+            data-link="/licenses/by-sa/4.0/legalcode.lv"
           >
             latviešu
           </option>
@@ -222,7 +222,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lt"
             
             value="lt"
-            data-link="/licenses/by-nd/4.0/legalcode.lt"
+            data-link="/licenses/by-sa/4.0/legalcode.lt"
           >
             Lietuviškai
           </option>
@@ -231,7 +231,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-mi"
             
             value="mi"
-            data-link="/licenses/by-nd/4.0/legalcode.mi"
+            data-link="/licenses/by-sa/4.0/legalcode.mi"
           >
             Māori
           </option>
@@ -240,7 +240,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-nl"
             
             value="nl"
-            data-link="/licenses/by-nd/4.0/legalcode.nl"
+            data-link="/licenses/by-sa/4.0/legalcode.nl"
           >
             Nederlands
           </option>
@@ -249,7 +249,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-no"
             
             value="no"
-            data-link="/licenses/by-nd/4.0/legalcode.no"
+            data-link="/licenses/by-sa/4.0/legalcode.no"
           >
             norsk
           </option>
@@ -258,7 +258,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pl"
             
             value="pl"
-            data-link="/licenses/by-nd/4.0/legalcode.pl"
+            data-link="/licenses/by-sa/4.0/legalcode.pl"
           >
             polski
           </option>
@@ -267,7 +267,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pt"
             
             value="pt"
-            data-link="/licenses/by-nd/4.0/legalcode.pt"
+            data-link="/licenses/by-sa/4.0/legalcode.pt"
           >
             Português
           </option>
@@ -276,7 +276,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ro"
             
             value="ro"
-            data-link="/licenses/by-nd/4.0/legalcode.ro"
+            data-link="/licenses/by-sa/4.0/legalcode.ro"
           >
             Română
           </option>
@@ -285,7 +285,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-sl"
             
             value="sl"
-            data-link="/licenses/by-nd/4.0/legalcode.sl"
+            data-link="/licenses/by-sa/4.0/legalcode.sl"
           >
             Slovenščina
           </option>
@@ -294,7 +294,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fi"
             
             value="fi"
-            data-link="/licenses/by-nd/4.0/legalcode.fi"
+            data-link="/licenses/by-sa/4.0/legalcode.fi"
           >
             suomi
           </option>
@@ -303,7 +303,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-sv"
             
             value="sv"
-            data-link="/licenses/by-nd/4.0/legalcode.sv"
+            data-link="/licenses/by-sa/4.0/legalcode.sv"
           >
             svenska
           </option>
@@ -312,7 +312,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-tr"
             
             value="tr"
-            data-link="/licenses/by-nd/4.0/legalcode.tr"
+            data-link="/licenses/by-sa/4.0/legalcode.tr"
           >
             Türkçe
           </option>
@@ -321,7 +321,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-cs"
             
             value="cs"
-            data-link="/licenses/by-nd/4.0/legalcode.cs"
+            data-link="/licenses/by-sa/4.0/legalcode.cs"
           >
             česky
           </option>
@@ -330,7 +330,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-el"
             
             value="el"
-            data-link="/licenses/by-nd/4.0/legalcode.el"
+            data-link="/licenses/by-sa/4.0/legalcode.el"
           >
             Ελληνικά
           </option>
@@ -339,7 +339,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ru"
             
             value="ru"
-            data-link="/licenses/by-nd/4.0/legalcode.ru"
+            data-link="/licenses/by-sa/4.0/legalcode.ru"
           >
             Русский
           </option>
@@ -348,7 +348,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-uk"
             
             value="uk"
-            data-link="/licenses/by-nd/4.0/legalcode.uk"
+            data-link="/licenses/by-sa/4.0/legalcode.uk"
           >
             Українська
           </option>
@@ -357,7 +357,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ar"
             
             value="ar"
-            data-link="/licenses/by-nd/4.0/legalcode.ar"
+            data-link="/licenses/by-sa/4.0/legalcode.ar"
           >
             العربيّة
           </option>
@@ -366,16 +366,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ja"
             
             value="ja"
-            data-link="/licenses/by-nd/4.0/legalcode.ja"
+            data-link="/licenses/by-sa/4.0/legalcode.ja"
           >
             日本語
           </option>
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
-            data-link="/licenses/by-nd/4.0/legalcode.zh-Hans"
+            data-link="/licenses/by-sa/4.0/legalcode.zh-Hans"
           >
             简体中文
           </option>
@@ -384,16 +384,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-zh-Hant"
             
             value="zh-Hant"
-            data-link="/licenses/by-nd/4.0/legalcode.zh-Hant"
+            data-link="/licenses/by-sa/4.0/legalcode.zh-Hant"
           >
             繁體中文
           </option>
         
           <option
             id="option-ko"
-            
+            selected
             value="ko"
-            data-link="/licenses/by-nd/4.0/legalcode.ko"
+            data-link="/licenses/by-sa/4.0/legalcode.ko"
           >
             한국어
           </option>
@@ -431,7 +431,7 @@ a.skip-link:focus, a.skip-link:active {
       
     </div>
     <div class="column">
-      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.zh-Hans">See the deed</button>
+      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-sa/4.0/deed.ko">See the deed</button>
     </div>
   </div>
 </div>
@@ -445,7 +445,7 @@ a.skip-link:focus, a.skip-link:active {
     <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
 
 
-署名—禁止演绎 4.0 协议国际版
+저작자표시-동일조건변경허락 4.0 국제
 
 </a>
     <ul class="menu-list" >
@@ -454,35 +454,35 @@ a.skip-link:focus, a.skip-link:active {
           
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s1">第一条  定义</a>
+            <a class="is-block column" href="#s1">1조 - 정의.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s2">第二条 授权范围</a>
+            <a class="is-block column" href="#s2">2조 - 범위.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s3">第三条 授权条件</a>
+            <a class="is-block column" href="#s3">3조 – 라이선스의 조건.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s4">第四条  数据库特别权利</a>
+            <a class="is-block column" href="#s4">4조 - 데이터베이스권.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s5">第五条  免责声明及责任限制条款</a>
+            <a class="is-block column" href="#s5">5조 - 면책 및 책임 한계의 고지.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s6">第六条 期限与终止</a>
+            <a class=" is-block column" href="#s6">6조 - 기간과 종료.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s7">第七条 其他条款和条件</a>
+            <a class="is-block column" href="#s7">7조 – 기타 조건.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s8">第八条 解释</a>
+            <a class=" is-block column" href="#s8">8조 – 해석.</a>
           </li>
         </ul>
       </li>
@@ -559,13 +559,13 @@ a.skip-link:focus, a.skip-link:active {
       
       </span>
 
-    CC BY-ND 4.0 
+    CC BY-SA 4.0 
   </h2>
   
   <h1 class="b-header">
 
 
-署名—禁止演绎 4.0 协议国际版
+저작자표시-동일조건변경허락 4.0 국제
 
 </h1>
 </div>
@@ -634,13 +634,13 @@ a.skip-link:focus, a.skip-link:active {
       
       </span>
   </h2>
-  <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-ND 4.0</h2>
-  <h3 class="has-text-centered is-hidden-touch">CC BY-ND 4.0</h3>
-  <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-ND 4.0</h4>
+  <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-SA 4.0</h2>
+  <h3 class="has-text-centered is-hidden-touch">CC BY-SA 4.0</h3>
+  <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-SA 4.0</h4>
   <h2 class="b-header has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+저작자표시-동일조건변경허락 4.0 국제
 
 </h2>
 </div>
@@ -769,7 +769,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-  CC BY-ND 4.0
+  CC BY-SA 4.0
 </h3>
 <h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
   
@@ -832,7 +832,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-    CC BY-ND 4.0
+    CC BY-SA 4.0
 </h3>
 <h3 class="is-hidden-tablet has-text-centered">
   
@@ -896,141 +896,155 @@ a.skip-link:focus, a.skip-link:active {
 
     </span>
 </h3>
-<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-ND 4.0</h4>
+<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-SA 4.0</h4>
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+저작자표시-동일조건변경허락 4.0 국제
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+저작자표시-동일조건변경허락 4.0 국제
 
 </h3>
 
   <div>
     <h3 class="padding-bottom-normal b-header">
       
-        知识共享 (Creative Commons) 署名—禁止演绎 4.0公共许可协议国际版
+        크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제  공중 라이선스
       
     </h3>
     <p class="body-big padding-bottom-larger">
     
-    通过行使本协议所授予的权利（定义如下），您接受并同意受到知识共享(Creative Commons)署名—禁止演绎4.0国际公共许可协议（以下简称“本公共许可协议”）的约束。从合同解释的角度来看，您获得授权的对价是接受本协议的条款，许可人授予您这些权利的对价是可以通过采用本协议条款发布授权作品(material)而获得利益。
+    귀하는, 아래에 정의된 이용허락된 권리를 행사함으로써, 본 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 공중 라이선스(이하 ‘공중 라이선스’)의 조건을 수용하고 이에 동의한 것으로 됩니다. 본 공중 라이선스가 계약으로 해석될 수 있는 범위 내에서, 귀하는 본 공중 라이선스의 조건을 수용함으로써 이용허락된 권리를 부여받게 되며, 이용허락자는 본 조건에 따른 이용허락으로 얻게 되는 이익을 고려해서 귀하에게 그러한 권리를 부여하게 됩니다.
     
     </p>
     
 
     <!-- Section 1. Definitions. -->
     <div class="padding-bottom-larger">
-      <p id="s1" class="body-bigger padding-bottom-normal"><strong>第一条  定义</strong></p>
+      <p id="s1" class="body-bigger padding-bottom-normal"><strong>1조 - 정의.</strong></p>
       
       <ol type="a" class="body-big padding-left-normal">
 
           
 
           <li id="s1a_adapted_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">演绎作品(Adapted Material)：</span> 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">2차적저작물</span> 은 이용허락된 저작물에서 파생된 또는 그에 기초하여 제작되어 저작권 및 유사 권리의 적용을 받는 저작물로서, 원저작물을 번역, 변경, 편곡, 변형하거나 그 밖에 이용허락자의 저작권 및 유사 권리에 따른 허락이 필요한 방식으로 수정한 경우를 의미합니다. 본 공중 라이선스의 목적상, 이용허락된 저작물이 음악 저작물, 실연, 음원인 경우, 이를 동영상과 동기화하는 것은 2차적저작물을 작성한 것으로 간주합니다.</div>
           </li>
 
+          
+            <li id="s1b_adapters_license" class="padding-bottom-normal">
+              <div class="padding-left-normal"><span style="text-decoration: underline;">2차 저작자 라이선스</span> 는 귀하가 2차적저작물의 작성으로 기여 부분에 대해 취득한 저작권 및 유사 권리에 대하여 본 공중 라이선스의 조건에 따라 적용하는 라이선스를 의미합니다.</div>
+            </li>
           
 
           
 
           
+            <li id="s1c_by_sa_compatible_license" class="padding-bottom-normal">
+              <div class="padding-left-normal"><span style="text-decoration: underline;">저작자표시-동일조건변경허락과 호환가능한 라이선스</span> 는 <a href="//creativecommons.org/compatiblelicenses"> creativecommons.org/compatiblelicenses</a>에 열거된 라이선스로서, 크리에이티브 커먼즈에 의해 본 공중 라이선스와 본질적으로 동일한 것으로 승인된 라이선스를 의미합니다.</div>
+            </li>
+          
 
-          <li id="s1b_copyright_and_similar_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">著作权与类似权利：</span> 指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的， <a href="#s2b">第二条b款第(1)项与第(2)项</a> 所列权利不属于著作权与类似权利。</div>
+          <li id="s1d_copyright_and_similar_rights" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">저작권 및 유사 권리</span> 는 저작권 또는 그 명칭이나 분류에 관계없이 실연, 방송, 음원, 데이터베이스권 등 저작권과 밀접한 관련이 있는 일체의 권리를 의미합니다. 본 공중 라이선스의 목적상, <a href="#s2b">2(b)(1)~(2)</a>호에 명시된 권리는 저작권 및 유사 권리에 해당하지 않습니다.</div>
           </li>
 
-          <li id="s1c_effective_technological_measures" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">有效的技术措施：</span> 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</div>
+          <li id="s1e_effective_technological_measures" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">효과적인 기술조치</span> 는 1996년 12월 20일 채택된 WIPO 저작권 조약 11조 또는 이와 유사한 국제 협약에 따라 제정된 법률로 그 무력화가 금지되는 기술조치를 의미합니다.</div>
           </li>
 
-          <li id="s1d_exceptions_and_limitations" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">例外与限制：</span> 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</div>
+          <li id="s1f_exceptions_and_limitations" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">예외와 제한</span> 은 공정이용, 공정거래, 기타 저작물을 자유롭게 이용할 수 있는 저작권 및 유사 권리에 대한 예외 및 제한사유를 의미합니다.</div>
           </li>
 
           
 
           
+            <li id="s1g_license_elements_sa" class="padding-bottom-normal">
+              <div class="padding-left-normal"><span style="text-decoration: underline;">라이선스 구성요소</span> 는 크리에이티브 커먼즈 공중 라이선스의 명칭에 포함된 라이선스의 속성을 의미합니다. 본 공중 라이선스의 구성요소는 저작자표시, 동일조건변경허락입니다.</div>
+            </li>
+          
 
-          <li id="s1e_licensed_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">授权作品(Licensed Material)：</span> 指许可人通过本公共许可协议授权的文学、艺术作品(artistic or literary work)，数据库或其他作品(material)。</div>
+          <li id="s1h_licensed_material" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">이용허락된 저작물</span> 은 이용허락자가 본 공중 라이선스를 적용한 예술 또는 어문 저작물, 데이터베이스 및 그 밖의 저작물을 의미합니다.</div>
           </li>
 
-          <li id="s1f_licensed_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">协议所授予的权利：</span> 指依据本公共许可协议的条款和条件所授予您的各项权利，限于适用于您对授权作品(Licensed Material)的使用且许可人有权许可的著作权与类似权利。</div>
+          <li id="s1i_licensed_rights" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">이용허락된 권리</span> 는 본 공중 라이선스에 따라 귀하에게 부여된 권리로서, 저작물 이용에 필요한 모든 저작권 및 유사 권리 중 이용허락자가 라이선스를 부여할 권한을 갖는 저작권 및 유사 권리를 의미합니다.</div>
           </li>
 
-          <li id="s1g_licensor" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">许可人：</span> 指通过本公共许可协议进行授权的个人或组织。</div>
+          <li id="s1j_licensor" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">이용허락자</span> 는 본 공중 라이선스에 따른 권리를 부여하는 개인 또는 단체를 의미합니다.</div>
           </li>
 
           
 
-          <li id="s1h_share" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">分享：</span> 指以需要“协议所授予的权利”许可的任何方法或程序向公众提供作品(material)，包括复制、公共展示、公开表演、发行、散布、传播、进口或提供作品(material)给公众以便其能在其选定的时间和地点接收作品(material)。</div>
+          <li id="s1k_share" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">공유</span> 는 복제, 전시, 공연, 배포, 방송, 송신, 수입 등 이용허락된 권리에 따른 허락이 필요한 일체의 수단이나 과정을 통해 저작물 등을 공중에게 제공하거나, 공중의 구성원이 개별적으로 선택한 장소와 시간에서 해당 저작물 등에 접근할 수 있도록 하는 등 저작물 등을 공중이 이용할 수 있도록 하는 것을 의미합니다.</div>
           </li>
 
-          <li id="s1i_sui_generis_database_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">数据库特别权利：</span> 指除了著作权之外，衍生于1996年3月11日通过的《欧洲议会与欧盟理事会关于数据库法律保护的指令》(Directive 96/9/EC)及其修改或后续版本的权利，或其他国家或地区本质上与之等同的权利。</div>
+          <li id="s1l_sui_generis_database_rights" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">데이터베이스권</span> 은 저작권 외의 권리로서 데이터베이스의 법적 보호에 관한 1996년 3월 11일 EU 의회와 EU 위원회의 96/9/EC 지침과 그 이후의 개정 및 승계에서 정의된 권리 및 그 밖에 각국에서 인정된 이와 본질적으로 동일한 권리들을 의미합니다.</div>
           </li>
 
-          <li id="s1j_you" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">您：</span> 指依据本公共许可协议行使其所获得授予之权利的个人或机构。 <strong>“您的”</strong> 有相应的含义。</div>
+          <li id="s1m_you" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">귀하</span> 는 본 공중 라이선스에 따라 이용허락된 권리를 행사하는 개인 또는 주체를 의미합니다. <strong>귀하의</strong>는 그에 상응하는 의미를 갖습니다.</div>
           </li>
       </ol>
     </div>
 
     <!-- Section 2. Scope. -->
     <div class="padding-bottom-larger">
-      <p id="s2" class="body-bigger padding-bottom-normal"><strong>第二条 授权范围</strong></p>
+      <p id="s2" class="body-bigger padding-bottom-normal"><strong>2조 - 범위.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s2a" class="padding-left-normal"><strong>授权</strong>.
+        <li id="s2a" class="padding-left-normal"><strong>라이선스의 부여</strong>.
         <ol class="padding-left-normal padding-vertical-normal">
-          <li id="s2a1" class="padding-left-normal padding-bottom-normal">根据本公共许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：
+          <li id="s2a1" class="padding-left-normal padding-bottom-normal">본 공중 이용허락의 조건에 따라, 이용허락자는 이용허락된 저작물을 다음과 같은 방법으로 이용할 수 있는 전세계적이고, 무료의, 재이용허락이 금지된, 비독점적이고 철회 불가능한 라이선스를 귀하에게 부여합니다.
             <ol type="A" class="padding-left-normal padding-vertical-normal">
             
-              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">复制和分享授权作品(Licensed Material)的全部或部分；以及</li>
+              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">이용허락된 저작물의 전체 또는 부분의 복제 및 공유</li>
             
 
             
-              <li id="s2a1B" class="padding-left-normal padding-bottom-small">produce, reproduce, and Share Adapted Material.</li>
+              <li id="s2a1B" class="padding-left-normal padding-bottom-small">2차적저작물의작성, 복제 및 공유</li>
             
 
             </ol>
           </li>
-          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>例外和限制</strong>为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</li>
-          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>期限</strong>本公共许可协议的期限规定于<a href="#s6a">第六条 a</a> 款。</li>
-          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>媒介和形式；允许的技术修改</strong>许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于<a href="#s2a4">第二条a款第(4)项</a> 进行的技术修改不构成演绎作品(Adapted Material)。</li>
+          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>예외와 제한</strong>. 예외와 제한에 해당하는 이용에 대해서는 본 공중 라이선스는 적용되지 아니하며, 따라서 귀하는 본 라이선스의 조건을 따르지 않아도 됩니다.</li>
+          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>조건</strong>. 본 공중 라이선스의 조건은 <a href="#s6a">6(a)</a>항에 명시되어 있습니다.</li>
+          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>매체와 형식, 허용되는 기술적 변경</strong>. 귀하는 현재 알려져 있거나 장래 개발되는 모든 매체와 포맷으로 이용허락된 권리를 행사할 수 있으며, 그에 필요한 기술적 수정을 할 수 있습니다. 이용허락자는, 효과적인 기술조치를 우회하기 위한 기술적 수정을 포함하여, 이용허락된 권리 행사에 필요한 기술적 수정을 금지할 수 있는 권리나 권한을 포기 또는 행사하지 않는 것에 동의합니다. 본 공중 라이선스의 목적상, <a href="#s2a4">2(a)(4)</a>호에 따른 수정은 2차적저작물 작성에 해당하지 않는 것으로 봅니다.</li>
           <li id="s2a5" class="padding-left-normal padding-bottom-small">
-            <span style="text-decoration: underline;">后续接受者</span>.
+            <span style="text-decoration: underline;">하위 이용자</span>.
             <div class="para">
               <ol type="A" class="padding-left-normal padding-vertical-normal">
 
                   
 
-                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">来自许可人的要约——授权作品(Licensed Material)</span>本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。</li>
+                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">이용허락자의 허가 – 이용허락된 저작물</span>. 이용허락된 저작물을 제공받는 모든 이용자는 본 공중 이용허락의 조건에 따라 이용허락된 권리를 행사할 수 있습니다.</li>
 
                   
+                    <li id="s2a5B_adapted_material" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">추가적인 이용허락자의 허가 – 2차적저작물.</span>. 귀하로부터 2차적저작물을 제공받는 모든 이용자는 귀하가 적용한 2차 저작자 라이선스의 조건 하에서 2차적저작물에 포함된 이용허락된 권리를 행사할 수 있습니다.</li>
+                  
 
-                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">禁止下游限制</span>若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</li>
+                  <li id="s2a5C_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">이용제한의 부가 금지</span>. 귀하는 이용허락된 저작물에 조건을 추가하거나 다른 조건을 부과하여, 또는 효과적인 기술적 조치를 적용함으로써 이용허락된 저작물을 제공받는 하위 이용자의 이용허락된 권리 행사를 제한할 수 없습니다.</li>
 
               </ol>
             </div>
           </li>
-          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">并非背书</span>. 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 <a href="#s3a1Ai">第三条a款第(1)项(A)目(i)</a>所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。</li>
+          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">보증 부인</span>. . 본 공중 이용허락의 어떠한 요소도 귀하 또는 귀하에 의한 이용허락된 저작물의 이용이 이용허락자 또는 그 밖에 <a href="#s3a1Ai">3(a)(1)(A)(i)</a>에 따라 저작자로 지정된 자와 어떠한 관계가 있다거나 그로부터 후원, 보증 또는 공식적 지위를 부여받은 것으로 주장 또는 암시할 수 있도록 허락한 바 없으며, 그렇게 해석되어서도 안 됩니다.</li>
         </ol>
 
-        <li id="s2b" class="padding-left-normal"><strong>其他权利</strong>.
+        <li id="s2b" class="padding-left-normal"><strong>기타 권리</strong>.
           <ol class="padding-left-normal padding-vertical-normal">
-            <li id="s2b1" class="padding-left-normal padding-bottom-normal">依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。</li>
-            <li id="s2b2" class="padding-left-normal padding-bottom-normal">本公共许可协议不适用于任何专利权或商标权许可。</li>
+            <li id="s2b1" class="padding-left-normal padding-bottom-normal">동일성유지권과 같은 저작인격권, 퍼블리시티권, 프라이버시권, 기타 유사한 인격권에는 본 공중 라이선스가 적용되지 않습니다. 그러나 법적으로 가능한 범위 내에서, 이용허락자는 귀하가 이용허락된 권리를 행사할 수 있도록 자신이 보유한 위 권리들을 포기하거나 행사하지 않는 것에 동의합니다.</li>
+            <li id="s2b2" class="padding-left-normal padding-bottom-normal">특허권과 상표권에는 본 공중 라이선스가 적용되지 않습니다.</li>
           
-            <li id="s2b3" class="padding-left-normal padding-bottom-small">在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下，许可人明确保留收取使用费的任何权利。</li>
+            <li id="s2b3" class="padding-left-normal padding-bottom-small">이용허락자는, 법적으로 가능한 범위 내에서, 본 라이선스에 따른 이용에 대해서는 직접, 혹은 자발적이거나 포기가능한 법정허락 또는 강제허락 제도에 따라 신탁관리단체를 통해 이용료를 징수할 수 있는 일체의 권리를 포기합니다. 이용허락자는 다른 모든 이용에 대해서는 그러한 이용료를 징수할 권리를 명시적으로 유보합니다.</li>
           
           </ol>
         </li>
@@ -1039,109 +1053,118 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 3. License Conditions. -->
     <div class="padding-bottom-larger">
-      <p id="s3" class="body-bigger padding-bottom-normal"><strong>第三条 授权条件</strong></p>
+      <p id="s3" class="body-bigger padding-bottom-normal"><strong>3조 – 라이선스의 조건.</strong></p>
 
-      <p class="body-big padding-bottom-normal">您行使被许可的权利明确受以下条件限制：</p>
+      <p class="body-big padding-bottom-normal">귀하는 이용허락된 권리를 행사할 경우 다음의 조건들을 준수해야 합니다.</p>
 
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>署名</strong>.</p>
+        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>저작자표시</strong>.</p>
           <ol type="1" class="padding-left-normal padding-vertical-normal">
             <li id="s3a1" class="padding-left-normal padding-bottom-normal">
-              <p>If You Share the Licensed Material (including in modified form), You must:</p>
+              <p>이용허락된 저작물(변경된 경우 포함)을 공유하는 경우 다음 조건들을 준수해 야 합니다.</p>
               <ol type="A" class="padding-left-normal padding-vertical-normal">
-                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：
+                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">이용허락된 저작물과 함께 다음의 정보들이 제공된 경우 이를 표시해야 합니다.
                     <ol type="i" class="padding-left-normal padding-vertical-normal">
-                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</li>
-                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">著作权声明；</li>
-                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">有关本公共许可协议的声明；</li>
-                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">有关免责的声明；</li>
-                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；</li>
+                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">이용허락자가 요청한 합리적 방식에 따른, 이용허락된 저작물의 창작자와 그 밖에 저작자로 지정된 자의 표시(가명이 지정된 경우 포함)</li>
+                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">저작권 고지</li>
+                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">본 공중 라이선스에 대한 고지</li>
+                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">면책 고지</li>
+                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">합리적으로 실행가능한 범위 내에서, 이용허락된 저작물에 대한 URI 또는 하이퍼링크</li>
                     </ol>
                   </li>
-                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及</li>
-                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。</li>
+                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">이용허락된 저작물을 변경하였는지 여부를 밝히고 이전의 변경 내용에 대한 표시를 유지해야 합니다.</li>
+                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">이용허락된 저작물이 본 공중 라이선스에 따라 이용허락되었음을 표시하고, 본 공중 라이선스의 내용 또는 내용을 확인할 수 있는 URI 내지 하이퍼링크를 표시해야 합니다.</li>
               </ol>
             </li>
-            <li id="s3a2" class="padding-left-normal padding-bottom-normal">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足<a href="#s3a1">第三条a款第(1)项</a>的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</li>
+            <li id="s3a2" class="padding-left-normal padding-bottom-normal">귀하는 이용허락된 저작물이 공유되는 매체, 방법, 상황에 기초한 합리적인 방법으로 <a href="#s3a1">3(a)(1)</a>호의 조건을 충족할 수 있습니다. 예를 들어, 요구되는 정보가 포함된 URI이나 하이퍼링크를 제공하는 것은 조건 충족을 위한 합리적인 방법이 될 수 있습니다.</li>
             
-              <li id="s3a3" class="padding-left-normal padding-bottom-small">如果许可人要求，您必须在合理可行的范围内移除<a href="#s3a1A">第三条a款第(1)项(A)目</a> 所要求的任何信息。</li>
+              <li id="s3a3" class="padding-left-normal padding-bottom-small">이용허락자의 요청이 있을 경우, 귀하는 <a href="#s3a1A">3(a)(1)(A)</a>에 따라 요구되는 모든 정보를 합리적으로 실행가능한 범위 내에서 제거해야 합니다.</li>
               
             
           </ol>
         </li>
 
         
+          <li id="s3b" class="padding-left-normal padding-bottom-normal"><strong>동일조건변경허락</strong>.
+            <p class="padding-top-normal padding-bottom-normal">귀하가 작성한 2차적저작물을 공유할 경우 <a href="#s3a">3(a)</a>항의 조건과 함께 다음의 조건들이 적용됩니다.</p>
+            <ol class="padding-left-normal">
+              <li id="s3b1" class="padding-left-normal padding-bottom-normal">귀하가 적용하는 2차 저작자 라이선스는 반드시 본 라이선스 또는 이후 버전과 동일한 구성요소를 갖는 크리에이티브 커먼즈 라이선스이거나, BY-SA와 호환가능한 라이선스이어야 합니다.</li>
+              <li id="s3b2" class="padding-left-normal padding-bottom-normal">귀하가 적용한 2차 저작자 라이선스의 텍스트나 URI 또는 하이퍼링크를 반드시 포함해야 합니다. 2차적저작물을 공유하는 매체, 수단, 상황에 기초하여 합리적인 방식으로 이 조건을 충족할 수 있습니다.</li>
+              <li id="s3b3" class="padding-left-normal padding-bottom-small">2차적저작물에 대하여, 귀하가 적용하는 2차 저작자 라이선스에 따라 부여되는 권리의 행사를 제한하는 조건을 추가하거나, 다른 조건을 부과하거나, 어떠한 효과적인 기술조치도 적용할 수 없습니다.</li>
+            </ol>
+          </li>
+        
       </ol>
     </div>
 
     <!-- Section 4. Sui Generis Database Rights. -->
     <div class="padding-bottom-larger">
-      <p id="s4" class="body-bigger padding-bottom-normal"><strong>第四条  数据库特别权利</strong></p>
-      <p class="body-big padding-bottom-normal">当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：</p>
+      <p id="s4" class="body-bigger padding-bottom-normal"><strong>4조 - 데이터베이스권.</strong></p>
+      <p class="body-big padding-bottom-normal">이용허락된 권리가 이용허락된 저작물의 사용에 적용되는 데이터베이스권을 포함할 경우 다음이 적용됩니다.</p>
       <ol type="a" class="body-big padding-left-normal">
           <li id="s4a" class="padding-left-normal padding-bottom-normal">
           
-            for the avoidance of doubt, Section <a href="#s2a1">2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+            제 <a href="#s2a1">2(a)(1)</a>호에 따라 귀하는 데이터베이스의 전체 혹은 상당 부분을 추출, 재사용, 복제, 공유할 권리를 가집니다.
             
           </li>
           <li id="s4b" class="padding-left-normal padding-bottom-normal">
             
-              如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)；
+              데이터베이스의 전체 혹은 상당 부분을 귀하가 데이터베이스권을 갖는 다른 데이터베이스에 포함할 경우, 귀하가 데이터베이스권을 갖는 데이터베이스(개별 구성물은 아님)는 2차적저작물에 해당하며, <a href="#s3b">3(b)</a>항의 조건이 적용됩니다.
             
           </li>
-          <li id="s4c" class="padding-left-normal padding-bottom-small">如果您分享全部或大部分该数据库的资料，您必须遵守 <a href="#s3a">第三条a款</a> 规定的条件。</li>
+          <li id="s4c" class="padding-left-normal padding-bottom-small">데이터베이스의 전부 혹은 상당 부분을 공유할 경우 귀하는 반드시 <a href="#s3a">3(a)</a>항의 조건을 준수해야 합니다.</li>
       </ol>
 
-      <span class="body-big">为避免疑义，当协议所授予的权利包含其他著作权与类似权利时， <a href="#s4">第四条</a> 补充且不取代本公共许可协议所规定的您的义务。</span>
+      <span class="body-big"><a href="#s4">4</a> 조는 이용허락된 권리가 다른 저작권과 그 밖의 유사 권리를 포함하는 본 공중 라이선스에 따른 귀하의 의무를 보완할 뿐 대체하지 않습니다.</span>
     </div>
 
     <!-- Section 5. Disclaimer -->
     <div class="padding-bottom-larger">
-      <p id="s5" class="body-bigger padding-bottom-normal"><strong>第五条  免责声明及责任限制条款</strong></p>
+      <p id="s5" class="body-bigger padding-bottom-normal"><strong>5조 - 면책 및 책임 한계의 고지.</strong></p>
       <ol style="font-weight: bold;" type="a" class="body-big padding-left-normal">
-        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。</strong></li>
-        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>在最大可能范围内， 对于任何因本公共许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。</strong></li>
+        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>이용허락자가 별도로 달리 정하지 않는 한, 가능한 범위 내에서, 이용허락자는 이용허락된 저작물을 있는 그대로 제공하며, 이용허락된 저작물에 관하여 명시적, 묵시적, 법적 또는 그 밖의 어떠한 방식으로도 일체의 표시나 보증을 하지 않습니다. 여기에는 제목, 상품성, 특정 목적 부합성, 비침해, 잠재적 혹은 그 밖의 결함의 부재, 정확성, 이미 알려져 있거나 밝힐 수 있는 오류의 존재 여부에 대한 보증 등이 포함됩니다. 면책 고지의 전부 혹은 일부가 허용되지 않는 경우에는, 본 면책 고지는 귀하에게 적용되지 않을 수 있습니다.</strong></li>
+        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>가능한 범위 내에서, 이용허락자는 어떠한 법 이론(과실책임 등)이나 기타 근거에 의하여도 본 공중 라이선스 또는 이용허락된 저작물의 사용으로부터 발생하는 직접적, 특수한, 간접적, 결과적, 징벌적, 예시적, 또는 그 밖의 손실, 비용, 손해에 대하여 일체의 책임을 지지 않습니다. 설사 그러한 손실, 비용, 손해의 발생 가능성에 대하여 통지받은 경우라 하더라도 책임이 없습니다. 책임제한이 전부 혹은 일부 허용되지 않는 경우에는, 본 제한 조항은 귀하에게 적용되지 않을 수 있습니다.</strong></li>
       </ol>
       <ol start="3" type="a" class="body-big padding-left-normal">
-        <li id="s5c" class="padding-left-normal padding-bottom-small">前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。</li>
+        <li id="s5c" class="padding-left-normal padding-bottom-small">위에 명시된 면책 및 책임제한은, 가능한 범위 내에서, 절대적 면책 또는 모든 책임의 면제와 거의 같은 방식으로 해석되어야 합니다.</li>
       </ol>
     </div>
 
     <!-- Section 6. Term and Termination -->
     <div class="padding-bottom-larger">
-      <p id="s6" class="body-bigger padding-bottom-normal"><strong>第六条 期限与终止</strong></p>
+      <p id="s6" class="body-bigger padding-bottom-normal"><strong>6조 - 기간과 종료.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s6a" class="padding-left-normal padding-bottom-normal">本公共许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。</li>
+        <li id="s6a" class="padding-left-normal padding-bottom-normal">본 공중 라이선스는 이용허락된 저작권 및 유사 권리의 보호 기간 동안 적용됩니다. 그러나 본 공중 라이선스를 위반할 경우, 본 공중 라이선스에 따른 귀하의 권리는 자동으로 소멸됩니다.</li>
         <li id="s6b" class="padding-left-normal padding-bottom-normal">
-          <p class="body-big padding-bottom-normal">当您使用本授权作品(Licensed Material)的权利根据第六条a款终止时，您的权利在下述情况下恢复：</p>
+          <p class="body-big padding-bottom-normal">다음 각 경우에는 6(a)항에 따라 소멸된 귀하의 권리가 다시 회복됩니다.</p>
           <ol class="body-big padding-left-normal">
-            <li id="s6b1" class="padding-left-normal padding-bottom-normal">自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</li>
-            <li id="s6b2" class="padding-left-normal padding-bottom-small">根据许可人明示恢复权利的意思表达。</li>
+            <li id="s6b1" class="padding-left-normal padding-bottom-normal">귀하가 위반을 인지한지 30일 이내에 위반 행위가 치유된 경우 자동으로 회복됩니다.</li>
+            <li id="s6b2" class="padding-left-normal padding-bottom-small">이용허락자에 의한 명시적 복권이 있을 경우 회복됩니다.</li>
           </ol>
-          为避免疑义，本公共许可协议<a href="#s6b">第六条b款</a> 不影响许可人就您违反本公共许可协议的行为寻求法律救济。
+          <a href="#s6b">6(b)</a>항은 본 공중 라이선스의 위반에 따라 이용허락자가 갖는 구제수단에 대한 권리에 아무런 영향을 주지 않습니다.
         </li>
-        <li id="s6c" class="padding-left-normal padding-bottom-normal">为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</li>
-        <li id="s6d" class="padding-left-normal padding-bottom-small">本协议<a href="#s1">第一</a>、<a href="#s5">五</a>、<a href="#s6">六</a>、<a href="#s7">七</a>及第<a href="#s8">八</a>条，不因本公共许可协议终止而失效。</li>
+        <li id="s6c" class="padding-left-normal padding-bottom-normal">이용허락자는 이용허락된 저작물을 별도의 조건에 따라 제공할 수 있고, 이용허락된 저작물의 배포를 언제든 중지할 수도 있습니다. 그러나 그렇게 하더라도 본 공중 라이선스는 종료되지 않습니다.</li>
+        <li id="s6d" class="padding-left-normal padding-bottom-small"><a href="#s1">1</a>, <a href="#s5">5</a>, <a href="#s6">6</a>, <a href="#s7">7</a>, <a href="#s8">8</a>조는 본 공중 라이선스가 종료되더라도 효력을 갖습니다.</li>
       </ol>
     </div>
 
     <!-- Section 7. Other terms and conditions -->
     <div class="padding-bottom-larger">
-      <p id="s7" class="body-bigger padding-bottom-normal"><strong>第七条 其他条款和条件</strong></p>
+      <p id="s7" class="body-bigger padding-bottom-normal"><strong>7조 – 기타 조건.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s7a" class="padding-left-normal padding-bottom-normal">除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。</li>
-        <li id="s7b" class="padding-left-normal padding-bottom-small">本公共许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本公共许可协议的条款及条件。</li>
+        <li id="s7a" class="padding-left-normal padding-bottom-normal">명시적 동의가 없을 경우, 이용허락자는 귀하가 제시한 추가 조건이나 다른 조건에 구속되지 않습니다.</li>
+        <li id="s7b" class="padding-left-normal padding-bottom-small">이용허락된 저작물에 관하여 본 라이선스에 언급되지 않은 협의, 합의, 동의는 본 공중 라이선스의 조건과는 별개의 독립적인 것입니다.</li>
       </ol>
     </div>
 
     <!-- Section 8. Interpretation -->
     <div class="padding-bottom-normal">
-      <p id="s8" class="body-bigger padding-bottom-normal"><strong>第八条 解释</strong></p>
+      <p id="s8" class="body-bigger padding-bottom-normal"><strong>8조 – 해석.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s8a" class="padding-left-normal padding-bottom-normal">为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本公共许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。</li>
-        <li id="s8b" class="padding-left-normal padding-bottom-normal">在最大可能范围内，如果本公共许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本公共许可协议中排除适用，不影响其余条款的效力。</li>
-        <li id="s8c" class="padding-left-normal padding-bottom-normal">除非许可人明示同意，本公共许可协议的任何条款或条件均不得放弃。</li>
-        <li id="s8d" class="padding-left-normal">本公共许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。</li>
+        <li id="s8a" class="padding-left-normal padding-bottom-normal">본 공중 라이선스는 본 공중 라이선스에 의하지 않고 합법적으로 이루어질 수 있는 저작물의 이용을 축소, 제한, 제약하거나 조건을 부과하는 것으로 해석되지 않으며 해석되어서도 안됩니다.</li>
+        <li id="s8b" class="padding-left-normal padding-bottom-normal">가능한 범위 내에서, 본 공중 라이선스의 특정 조항이 실행될 수 없는 경우, 해당 조항은 실행가능하도록 하기 위해 필요한 최소한의 범위 내에서 자동으로 개정됩니다. 개정이 불가능한 경우에는 해당 조항은 본 공중 라이선스로부터 제거되며, 나머지 조항은 아무런 영향을 받지 않습니다.</li>
+        <li id="s8c" class="padding-left-normal padding-bottom-normal">본 공중 라이선스의 조건은 면제되지 않으며, 조건을 준수하지 않은 경우라 하더라도 이용허락자에 의한 명시적 동의가 없을 경우 동의하는 것으로 간주되지 않습니다.</li>
+        <li id="s8d" class="padding-left-normal">본 공중 라이선스의 어떠한 조항도 이용허락자나 귀하에게 적용되는 관할국가의 법적 절차에서 인정되는 것을 포함한 모든 특권과 면책에 대한 제한 또는 포기를 의미하지 않으며 그렇게 해석될 수 없습니다.</li>
       </ol>
     </div>
   </div>

@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="sl" class="no-js" dir="ltr">
 <head about="http://creativecommons.org/licenses/by-nd/4.0/">
     <meta charset="utf-8">
     <title>Creative Commons &mdash; INVALID_VARIABLE(title) </title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Preskoči na vsebino</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Domov</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-<li class="is-active"><a href="/licenses/by-nd/4.0/deed.zh-Hans" aria-current="page displayed">License Deed for CC BY-ND 4.0</a></li>
+<li class="is-active"><a href="/licenses/by-nd/4.0/deed.sl" aria-current="page displayed">License Deed for CC BY-ND 4.0</a></li>
 
             </ul>
           </nav>
@@ -283,7 +283,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-sl"
-            
+            selected
             value="sl"
             data-link="/licenses/by-nd/4.0/deed.sl"
           >
@@ -373,7 +373,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
             data-link="/licenses/by-nd/4.0/deed.zh-Hans"
           >
@@ -424,7 +424,7 @@ a.skip-link:focus, a.skip-link:active {
       
 <div class="level container">
   <div class="level-item level-right">
-    <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/legalcode.zh-Hans">See the legal code</button>
+    <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/legalcode.sl">See the legal code</button>
   </div>
 </div>
 
@@ -626,28 +626,28 @@ a.skip-link:focus, a.skip-link:active {
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Priznanje avtorstva-Brez predelav 4.0 Mednarodna
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Priznanje avtorstva-Brez predelav 4.0 Mednarodna
 
 </h3>
 
   
   
-  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">您可以自由地：</h3>
-  <p class="has-text-black body-big padding-bottom-normal"><strong>共享</strong> &mdash; 在任何媒介以任何形式复制、发行本作品
+  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Dovoljeno vam je:</h3>
+  <p class="has-text-black body-big padding-bottom-normal"><strong>Deljenje</strong> &mdash; kopiranje in razširjanje vsebin v kakršnemkoli mediju in obliki
   </p>
-  <p class="has-text-black body-big padding-bottom-small"><strong>演绎</strong> &mdash; 修改、转换或以本作品为基础进行创作
+  <p class="has-text-black body-big padding-bottom-small"><strong>Predelovanje</strong> &mdash; remixanje, urejanje, predelava in vključevanje vsebine v lastna dela
   </p>
   <p class="has-text-black body-big padding-bottom-small">
-    只要你遵守许可协议条款，许可人就无法收回你的这些权利。
+    Dajalec licence vam ne more odreči teh pravic, dokler upoštevate pogoje licence.
   </p>
   <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">
-    惟须遵守下列条件：
+    Pod sledečimi pogoji:
   </h3>
   <div class="columns is-multiline">
     
@@ -669,9 +669,9 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">署名</span> -
+        <span style="font-weight: bold;">Priznanje avtorstva</span> -
 
-        您必须给出<a href="#" id="appropriate_credit_popup" class="helpLink">适当的署名</a></span>，提供指向本许可协议的链接，同时<span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">标明是否（对原始作品）作了修改</a></span>。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+        <a href="#" id="appropriate_credit_popup" class="helpLink">Primerno morate navesti avtorja</a></span>, povezavo do licence in <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">označiti spremembe, če so kakšne nastale</a></span>. To lahko storite na kakršenkoli razumen način, vendar ne na način, ki bi namigoval na to, da dajalec licence podpira vas ali vašo uporabo dela.
       </p>
     </div>
     
@@ -693,9 +693,9 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">非商业性使用</span> -
+        <span style="font-weight: bold;">Nekomercialno</span> -
 
-        您不得将本作品用于<a href="#" id="commercial_purposes_popup" class="helpLink">商业目的</a>。
+        Te vsebine ne smete uporabiti v <a href="#" id="commercial_purposes_popup" class="helpLink">komercialne namene</a>.
       </p>
     </div>
     <div class="column is-1">
@@ -716,23 +716,23 @@ a.skip-link:focus, a.skip-link:active {
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">相同方式共享</span> - 如果您再混合、转换或者基于本作品进行创作，您必须基于<a href="#" id="same_license_popup" class="helpLink">与原先许可协议相同的许可协议</a> 分发您贡献的作品。
+        <span style="font-weight: bold;">Deljenje pod enakimi pogoji</span> - Če vsebino uredite, predelate (remixate) ali gradite na njej, morate svojo različico razširjati pod <a href="#" id="same_license_popup" class="helpLink">isto licenco</a> kot izvirnik.
       </p>
     </div>
     <div class="column is-1">
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">没有附加限制</span> - 您不得适用法律术语或者 <a href="#" id="technological_measures_popup" class="helpLink">技术措施</a> 从而限制其他人做许可协议允许的事情。
+        <span style="font-weight: bold;">Brez dodatnih omejitev</span> - Ne smete uporabiti pravnih določil ali <a href="#" id="technological_measures_popup" class="helpLink">tehničnih ukrepov</a>, ki bi pravno omejili ali onemogočilo druge, da bi storili karkoli, kar licenca dovoli.
       </p>
     </div>
   </div>
-  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">声明：</h3>
+  <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Opombe:</h3>
   <p class="has-text-black body-big padding-bottom-normal">
-    您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 <a href="#" id="exception_or_limitation_popup" class="helpLink">例外或限制</a>所允许。
+    Ni se vam treba držati licence za elemente vsebine, ki so v javni domeni, ali kjer vašo uporabo dovoljujejo <a href="#" id="exception_or_limitation_popup" class="helpLink">zakonske izjeme in omejitve</a>.
   </p>
   <p class="has-text-black body-big padding-bottom-normal">
-    不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如<a href="#" id="publicity_privacy_or_moral_rights_popup" class="helpLink">形象权、隐私权或人格权</a>可能限制您如何使用作品。
+    Podana niso nobene jamstva. Možno je, da vam licenca ne daje vseh pravic za vam želeno uporabo. Na primer, druge pravice, kot <a href="#" id="publicity_privacy_or_moral_rights_popup" class="helpLink">osebnostne pravice, pravice zasebnosti in moralne pravice</a>, lahko omejujejo kako smete uporabiti vsebino.
   </p>
 </div>
 
@@ -754,12 +754,12 @@ a.skip-link:focus, a.skip-link:active {
 
 
 <div id="disclaimer-info-section" class="padding-bigger has-background-info-light" >
-  <h4 class="padding-bottom-normal is-vcentered b-header"><i class="info icon padding-right-normal"></i>免责声明</h4>
+  <h4 class="padding-bottom-normal is-vcentered b-header"><i class="info icon padding-right-normal"></i>Izjava o omejitvi odgovornosti</h4>
   <p class="has-text-black padding-left-big">
-    本文本仅仅强调部分核心特征和真正许可协议的部分条款，不是许可协议，也没有法律意义。您应当在使用授权作品前，仔细审阅真正许可协议的所有条款。
+    Ta povzetek le poudarja nekatere ključne značilnosti in pogoje dejanske licence. Ni licenca in nima pravne vrednosti. Pred uporabo licencirane vsebine pozorno preglejte vse pogoje dejanske licence.
   </p>
   <p class="has-text-black padding-left-big padding-top-normal">
-    知识共享组织不是律师事务所，也不提供法律服务。分发、展示或链接到本文本或进行总结的许可协议并不意味着产生律师与客户的服务关系或其他类型的关系。
+    Creative Commons ni odvetniška družba in ne ponuja pravnih storitev. Z razširjanjem, prikazovanjem ali povezovanjem na ta povzetek ali licenco, ki ga povzema, se med vami in nami ne vzpostavi nikakršno razmerje.
   </p>
 </div>
 

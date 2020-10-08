@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="mi" class="no-js" dir="ltr">
 <head about=" ">
     <meta charset="utf-8">
     <title></title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Skip to content</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.zh-Hans" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
+  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.mi" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
 
             </ul>
           </nav>
@@ -229,7 +229,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-mi"
-            
+            selected
             value="mi"
             data-link="/licenses/by-nd/4.0/legalcode.mi"
           >
@@ -373,7 +373,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
             data-link="/licenses/by-nd/4.0/legalcode.zh-Hans"
           >
@@ -431,7 +431,7 @@ a.skip-link:focus, a.skip-link:active {
       
     </div>
     <div class="column">
-      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.zh-Hans">See the deed</button>
+      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.mi">See the deed</button>
     </div>
   </div>
 </div>
@@ -445,7 +445,7 @@ a.skip-link:focus, a.skip-link:active {
     <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
 
 
-署名—禁止演绎 4.0 协议国际版
+Tautohu Matatiki-Taketake Anake 4.0 ā-Ao
 
 </a>
     <ul class="menu-list" >
@@ -454,35 +454,35 @@ a.skip-link:focus, a.skip-link:active {
           
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s1">第一条  定义</a>
+            <a class="is-block column" href="#s1">Wāhanga 1 – Ngā Whakamāramatanga.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s2">第二条 授权范围</a>
+            <a class="is-block column" href="#s2">Wāhanga 2 – Te Whānuitanga.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s3">第三条 授权条件</a>
+            <a class="is-block column" href="#s3">Wāhanga 3 – Ngā Herenga Raihana.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s4">第四条  数据库特别权利</a>
+            <a class="is-block column" href="#s4">Wāhanga 4 – Ngā Motika Pātengi Raraunga Momo Takitahi.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s5">第五条  免责声明及责任限制条款</a>
+            <a class="is-block column" href="#s5">Wāhanga 5 – Te Karo Pūtāhui me te Whakawhāiti Taunahatanga.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s6">第六条 期限与终止</a>
+            <a class=" is-block column" href="#s6">Wāhanga 6 – Te Roanga me te Whakamutu.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s7">第七条 其他条款和条件</a>
+            <a class="is-block column" href="#s7">Wāhanga 7 – Te Roanga me te Whakamutu.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s8">第八条 解释</a>
+            <a class=" is-block column" href="#s8">Wāhanga 8 – Te Whakamāoritanga.</a>
           </li>
         </ul>
       </li>
@@ -565,7 +565,7 @@ a.skip-link:focus, a.skip-link:active {
   <h1 class="b-header">
 
 
-署名—禁止演绎 4.0 协议国际版
+Tautohu Matatiki-Taketake Anake 4.0 ā-Ao
 
 </h1>
 </div>
@@ -640,7 +640,7 @@ a.skip-link:focus, a.skip-link:active {
   <h2 class="b-header has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Tautohu Matatiki-Taketake Anake 4.0 ā-Ao
 
 </h2>
 </div>
@@ -900,39 +900,39 @@ a.skip-link:focus, a.skip-link:active {
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Tautohu Matatiki-Taketake Anake 4.0 ā-Ao
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Tautohu Matatiki-Taketake Anake 4.0 ā-Ao
 
 </h3>
 
   <div>
     <h3 class="padding-bottom-normal b-header">
       
-        知识共享 (Creative Commons) 署名—禁止演绎 4.0公共许可协议国际版
+        Raihana Tūmatanui ā-Ao Tautohu Matatiki-Taketake Anake Creative Commons 4.0
       
     </h3>
     <p class="body-big padding-bottom-larger">
     
-    通过行使本协议所授予的权利（定义如下），您接受并同意受到知识共享(Creative Commons)署名—禁止演绎4.0国际公共许可协议（以下简称“本公共许可协议”）的约束。从合同解释的角度来看，您获得授权的对价是接受本协议的条款，许可人授予您这些权利的对价是可以通过采用本协议条款发布授权作品(material)而获得利益。
+    Mā te whakamahi i Ngā Motika Kua Raihanatia (he mea tautuhi i raro nei), ka whakaae Koe kia herea e ngā ture me ngā herenga o tēnei Raihana Tūmatanui ā-Ao Tautohu Matatiki-Taketake Anake Creative Commons 4.0 ("Raihana Tūmatanui"). Ki te whanuitanga e whakaarohia ai tēnei Raihana Tūmatanui hei kirimana, ka tukuna ki a Koe Ngā Motika Kua Raihanatia i runga i Tō whakaaetanga ki ēnei ture me ngā herenga, ā, ka tuku te Kaituku Raihana ki a Koe aua motika i runga anō i ngā huanga e whiwhi te Kaituku Raihana mō tāna whakawātea i Ngā Rawa Kua Raihanatia i raro i aua ture me ngā herenga.
     
     </p>
     
 
     <!-- Section 1. Definitions. -->
     <div class="padding-bottom-larger">
-      <p id="s1" class="body-bigger padding-bottom-normal"><strong>第一条  定义</strong></p>
+      <p id="s1" class="body-bigger padding-bottom-normal"><strong>Wāhanga 1 – Ngā Whakamāramatanga.</strong></p>
       
       <ol type="a" class="body-big padding-left-normal">
 
           
 
           <li id="s1a_adapted_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">演绎作品(Adapted Material)：</span> 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o </span> <strong>Ngā Rawa Kua Urutaua</strong> ko ērā rawa kei raro i te Manatārua me ngā Motika Rite he mea ahu mai i Ngā Rawa Kua Raihanatia, ko aua rawa rānei te pūtake, ā, he mea whakamāori, whakarerekē, whakaraupapa, panoni, huri kē rānei aua Rawa Kua Raihanatia mā te āhua e hiahiatia ai te whakaaetanga i raro i te Manatārua me ngā Motika Rite e puritia ana e te Kaituku Raihana. Mō te pūtake o tēnei Raihana Tūmatanui, e noho ai te Rawa Kua Raihanatia he mahi puoro, he whakakitenga, he hopukanga oro rānei, e whakaputaina ana Ngā Rawa Kua Urutaua i ngā wā katoa e tukutahi tahitia ai aua Rawa Kua Raihanatia ki tētahi atahanga nekeneke.</div>
           </li>
 
           
@@ -942,15 +942,15 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1b_copyright_and_similar_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">著作权与类似权利：</span> 指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的， <a href="#s2b">第二条b款第(1)项与第(2)项</a> 所列权利不属于著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o te </span> <strong>Manatārua me ngā Motika Rite</strong> ko ngā motika manatārua, ngā motika rite hoki/rānei e tino pātata ana ki te manatārua, tae atu, me te kore herenga, ki te whakakitenga, te whakapāho, te hopukanga oro, me ngā Motika Pātengi Raraunga Momo Takitahi, me te kore aro ki te āhua e waitohua ai, e whakarōpūhia ai rānei aua motika. Mō ngā pūtake o tēnei Raihana Tūmatanui, ehara ngā motika he mea tautuhi i te Wāhanga <a href="#s2b">2(b)(1)-(2)</a> i te Manatārua me Ngā Motika Rite.</div>
           </li>
 
           <li id="s1c_effective_technological_measures" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">有效的技术措施：</span> 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o </span> <strong>Ngā Tikanga Hangarau Tōtika</strong> ko ērā tikanga e kore rawa e taea, ina ngaro tētahi mana tika, te karo i raro i ngā ture whakatutuki herenga kei te Upoko 11 o te WIPO Copyright Treaty i whakamanaia i te 20 o Hakihea, 1996, i ētahi atu whakaaetanga ā-ao rite hoki/rānei.</div>
           </li>
 
           <li id="s1d_exceptions_and_limitations" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">例外与限制：</span> 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o </span> <strong>Ngā Aweretanga me ngā Whāititanga </strong> ko te whakamahi me te whakarite i runga i te tōkeke, ko tētahi atu aweretanga hoki/rānei, whāititanga rānei ki te Manatārua me Ngā Motika Rite e hāngai ana ki Tō whakamahi i Ngā Rawa Kua Raihanatia.</div>
           </li>
 
           
@@ -958,43 +958,43 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1e_licensed_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">授权作品(Licensed Material)：</span> 指许可人通过本公共许可协议授权的文学、艺术作品(artistic or literary work)，数据库或其他作品(material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o </span> <strong>Ngā Rawa Kua Raihanatia</strong> ko te mahi toi, mahi tuhinga rānei, te pātengi raraunga, ētahi atu rawa rānei i hoatu ai e te Kaituku Raihana ki tēnei Raihana Tūmatanui.</div>
           </li>
 
           <li id="s1f_licensed_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">协议所授予的权利：</span> 指依据本公共许可协议的条款和条件所授予您的各项权利，限于适用于您对授权作品(Licensed Material)的使用且许可人有权许可的著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o </span> <strong>Ngā Motika Kua Raihanatia</strong> ko ngā motika i tukuna ki a Koe i runga anō i ngā ture me ngā herenga o te Raihana Tūmatanui, e whāiti ana ki te katoa o te Manatārua me Ngā Motika Rite e hāngai ana ki Tō whakamahi i Ngā Rawa Kua Raihanatia, ā, kei te Kaituku Raihana te mana tuku raihana.</div>
           </li>
 
           <li id="s1g_licensor" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">许可人：</span> 指通过本公共许可协议进行授权的个人或组织。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o te </span> <strong>Kaituku Raihana</strong> ko te tangata, ngā tāngata, te/ngā hinonga rānei e tuku motika ana i raro i tēnei Raihana Tūmatanui.</div>
           </li>
 
           
 
           <li id="s1h_share" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">分享：</span> 指以需要“协议所授予的权利”许可的任何方法或程序向公众提供作品(material)，包括复制、公共展示、公开表演、发行、散布、传播、进口或提供作品(material)给公众以便其能在其选定的时间和地点接收作品(material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o te </span> <strong>Tiritiri</strong> ko te whakarato rawa ki te iwi whānui mā te katoa o ngā ara, tukanga rānei e hiahia whakaaetanga ana i raro i Ngā Motika Kua Raihanatia, pēnei i te tāruarua, te whakaaturanga tūmatanui, te whakakitenga tūmatanui, te tohatoha, te whakahōrapa, te whakawhitiwhiti, te kawe mai, me te whakawātea i ngā rawa ki te iwi whānui mā ngā ara hoki e āhei ai te iwi whānui te uru ki aua rawa ahakoa te wāhi, te wā rānei e kowhiri ana rātou.</div>
           </li>
 
           <li id="s1i_sui_generis_database_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">数据库特别权利：</span> 指除了著作权之外，衍生于1996年3月11日通过的《欧洲议会与欧盟理事会关于数据库法律保护的指令》(Directive 96/9/EC)及其修改或后续版本的权利，或其他国家或地区本质上与之等同的权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o </span> <strong>Ngā Motika Pātengi Raraunga Momo Takitahi</strong> ko ngā motika hāunga te manatārua ka puta i te Whakaritenga 96/9/EC o te Pāremata Uropi me te Kaunihera o te 11 o Poutūterangi 1996 mō te parenga ā-ture o ngā pātengi raraunga, ahakoa kua whakatikahia, kua whakakapia hoki/rānei, me ērā atu motika ōrite anō hoki ahakoa kei hea i te ao.</div>
           </li>
 
           <li id="s1j_you" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">您：</span> 指依据本公共许可协议行使其所获得授予之权利的个人或机构。 <strong>“您的”</strong> 有相应的含义。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Ko te tikanga o tūpou </span> <strong>Koe</strong> ko te tangata, te hinonga rānei e tuku ana i Ngā Motika Kua Raihanatia i raro i tēnei Raihana Tūmatanui. He tikanga hāngai tō te kupu <strong>Tō.</strong></div>
           </li>
       </ol>
     </div>
 
     <!-- Section 2. Scope. -->
     <div class="padding-bottom-larger">
-      <p id="s2" class="body-bigger padding-bottom-normal"><strong>第二条 授权范围</strong></p>
+      <p id="s2" class="body-bigger padding-bottom-normal"><strong>Wāhanga 2 – Te Whānuitanga.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s2a" class="padding-left-normal"><strong>授权</strong>.
+        <li id="s2a" class="padding-left-normal"><strong>Te tuku raihana</strong>.
         <ol class="padding-left-normal padding-vertical-normal">
-          <li id="s2a1" class="padding-left-normal padding-bottom-normal">根据本公共许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：
+          <li id="s2a1" class="padding-left-normal padding-bottom-normal">I runga anō i ngā ture me ngā herenga o tēnei Raihana Tūmatanui, ka tuku te Kaituku Raihana ki a Koe i tētahi raihana puta noa i te ao, kāore he utu raihana, e kore ai e āhei te tuku ki tangata kē, ehara i te motuhake, e kore ai e taea te whakakore, mō te whakamahi i Ngā Motika Kua Raihanatia i roto i Ngā Rawa Kua Raihanatia ki te:
             <ol type="A" class="padding-left-normal padding-vertical-normal">
             
-              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">复制和分享授权作品(Licensed Material)的全部或部分；以及</li>
+              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">tāruarua me te Tiritiri i te katoa, i te wāhi rānei o Ngā Rawa Kua Raihanatia; me te</li>
             
 
             
@@ -1003,34 +1003,34 @@ a.skip-link:focus, a.skip-link:active {
 
             </ol>
           </li>
-          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>例外和限制</strong>为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</li>
-          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>期限</strong>本公共许可协议的期限规定于<a href="#s6a">第六条 a</a> 款。</li>
-          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>媒介和形式；允许的技术修改</strong>许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于<a href="#s2a4">第二条a款第(4)项</a> 进行的技术修改不构成演绎作品(Adapted Material)。</li>
+          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>Ngā Aweretanga me ngā Whāititanga</strong>. Hei karo i te rangirua, i ngā wahi kei reira he Aweretanga me ngā Whāititanga ki Tō whakamahi, kāore e hāngai ana tēnei Raihana Tūmatanui, ā, kāore koe e mate ki te tautuku ki ōna ture me ōna herenga.</li>
+          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>Te Roanga</strong>. E tautuhia ana te roanga mō tēnei Raihana Tūmatanui i te wāhanga <a href="#s6a">6(a)</a>.</li>
+          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>Ngā rawatā me ngā hōputu; ka whakaaetia ngā whakarerekētanga hangarau</strong>. Ka tuku te Kaituku Raihana i te mana ki a Koe ki te whakamahi i Ngā Motika Kua Raihanatia i roto i ngā rawatā katoa me ngā hōputu katoa, ahakoa kua mōhiotia ināianei, ahakoa ka hangaia ā muri atu rānei, ki te hanga hoki i ngā whakarerekētanga hangarau e hiahiatia ana hei whakamahi i aua motika. Ka whakakore te Kaituku Raihana, ka whakaae hoki/rānei kia kaua ia e whakapuaki i tētahi motika, mana rānei ki te whakakore i Tō hanga whakarerekētanga hangarau e hiahiatia ana ki te whakamahi i Ngā Motika Kua Raihanatia, tae atu ki ngā whakarerekētanga hangarau e hiahiatia ana ki te karo i Ngā Tikanga Hangarau Tōtika. Mō ngā pūtake o tēnei Raihana Tūmatanui, e kore rawa te hanga whakarerekētanga noa iho kua whakamanaia e tēnei Wāhanga <a href="#s2a4">2(a)(4)</a> e whakaputa i Ngā Rawa Kua Urutaua.</li>
           <li id="s2a5" class="padding-left-normal padding-bottom-small">
-            <span style="text-decoration: underline;">后续接受者</span>.
+            <span style="text-decoration: underline;">Ngā kaiwhiwhi o muri</span>.
             <div class="para">
               <ol type="A" class="padding-left-normal padding-vertical-normal">
 
                   
 
-                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">来自许可人的要约——授权作品(Licensed Material)</span>本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。</li>
+                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">He tukunga mai i te Kaituku Raihana – Ngā Rawa Kua Raihanatia</span>. Ka whiwhi aunoa ia kaiwhiwhi o Ngā Rawa Kua Raihanatia i te tukunga mai i te Kaituku Raihana ki te whakamahi i Ngā Motika Kua Raihanatia i runga anō i ngā ture me ngā herenga o tēnei Raihana Tūmatanui.</li>
 
                   
 
-                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">禁止下游限制</span>若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</li>
+                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Kāore he whāititanga ki ngā kaiwhiwhi o muri</span>. Kāore koe e āhei te tuku, te uta rānei i ngā ture me ngā herenga tāpiri, rerekē rānei, te hoatu i ētahi Tikanga Hangarau Tōtika, ki Ngā Rawa Kua Raihanatia, mēnā mā te pēnā ka whakatikia te whakamahinga o Ngā Motika Kua Raihanatia e tētahi kaiwhiwhi o Ngā Rawa Kua Raihanatia.</li>
 
               </ol>
             </div>
           </li>
-          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">并非背书</span>. 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 <a href="#s3a1Ai">第三条a款第(1)项(A)目(i)</a>所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。</li>
+          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Kāore he tautokonga</span>. . Ehara tētahi mea i roto i tēnei Raihana Tūmatanui i te whakaaetanga, kia kaua e whakaarohia rānei hei whakaaetanga, ki te kī, ki te whakapae rānei, ko Koe, ko Tō whakamahi rānei i Ngā Rawa Kua Raihanatia, e hono ana ki te Kaituku Raihana, e tautokona ana, e whakamanaia ana, kua whakawhiwhia ki te tūnga whaimana rānei e ia, e ētahi atu rānei he mea tautuhi kia whiwhi i te tautohu matatiki mā te tikanga kei roto i te Wāhanga <a href="#s3a1Ai">3(a)(1)(A)(i)</a>.</li>
         </ol>
 
-        <li id="s2b" class="padding-left-normal"><strong>其他权利</strong>.
+        <li id="s2b" class="padding-left-normal"><strong>Ērā atu mōtika</strong>.
           <ol class="padding-left-normal padding-vertical-normal">
-            <li id="s2b1" class="padding-left-normal padding-bottom-normal">依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。</li>
-            <li id="s2b2" class="padding-left-normal padding-bottom-normal">本公共许可协议不适用于任何专利权或商标权许可。</li>
+            <li id="s2b1" class="padding-left-normal padding-bottom-normal">Kāore ngā motika matatika, pēnei i te motika ngākau tapatahi, kāore hoki te whakaaturanga, te punanga, ētahi atu motika whaiaro rite hoki/rānei, i te raihanatia i raro i tēnei Raihana Tūmatanui; heoi, ka tino whakakore rawa atu te Kaituku Raihana, ka whakaae hoki/rānei kia kaua e whakapuaki i ngā motika pēnei e puritia ana e te Kaituku Raihana ki te whānuitanga anake e hiahiatia kia tukuna Koe ki te whakamahi i Ngā Motika Kua Raihanatia, engari kia kaua i tua atu.</li>
+            <li id="s2b2" class="padding-left-normal padding-bottom-normal">Kāore ngā motika whakamana ā-ture me ngā motika moko i te raihanatia i raro i tēnei Raihana Tūmatanui.</li>
           
-            <li id="s2b3" class="padding-left-normal padding-bottom-small">在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下，许可人明确保留收取使用费的任何权利。</li>
+            <li id="s2b3" class="padding-left-normal padding-bottom-small">Ki te whānuitanga ka taea, e whakakore ana te Kaituku Raihana i ngā motika ki te kohi utu raihana i a Koe mō te whakamahi i Ngā Motika Kua Raihanatia, ahakoa mā te ara tika atu, ahakoa mā tētahi rōpū kohi i raro i tētahi kaupapa tūao, kaupapa ā-ture ka taea te whakakore, kaupapa raihanatanga whakature rānei. I ērā atu āhuatanga katoa ka āta rāhui te Kaituku Raihana i ngā motika ki te kohikohi i ngā utu motika pēnei.</li>
           
           </ol>
         </li>
@@ -1039,32 +1039,32 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 3. License Conditions. -->
     <div class="padding-bottom-larger">
-      <p id="s3" class="body-bigger padding-bottom-normal"><strong>第三条 授权条件</strong></p>
+      <p id="s3" class="body-bigger padding-bottom-normal"><strong>Wāhanga 3 – Ngā Herenga Raihana.</strong></p>
 
-      <p class="body-big padding-bottom-normal">您行使被许可的权利明确受以下条件限制：</p>
+      <p class="body-big padding-bottom-normal">Ka āhei Koe te whakamahi i Ngā Motika Kua Raihanatia e ai ki ēnei herenga.</p>
 
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>署名</strong>.</p>
+        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>Te Tautohu Matatiki</strong>.</p>
           <ol type="1" class="padding-left-normal padding-vertical-normal">
             <li id="s3a1" class="padding-left-normal padding-bottom-normal">
               <p>If You Share the Licensed Material (including in modified form), You must:</p>
               <ol type="A" class="padding-left-normal padding-vertical-normal">
-                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：
+                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">me pupuri rawa i ēnei mēnā kua whakaratohia e te Kaituku Raihana i te taha o Ngā Rawa Kua Raihanatia:
                     <ol type="i" class="padding-left-normal padding-vertical-normal">
-                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</li>
-                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">著作权声明；</li>
-                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">有关本公共许可协议的声明；</li>
-                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">有关免责的声明；</li>
-                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；</li>
+                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">te tuakiri o te/ngā kaihanga o Ngā Rawa Kua Raihanatia me ērā atu kua tohua kia whiwhi i te tautohu matatiki, ahakoa te momo whaitake, e tonoa ana e te Kaituku Raihana (mā te ingoa kē anō hoki mēnā kua tohua kia pērā);</li>
+                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">tētahi pānui manatārua;</li>
+                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">tētahi pānui e kōrerotia ai tēnei Pānui Tūmatanui;</li>
+                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">tētahi pānui e kōrerotia ai te karo pūtāhui;</li>
+                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">tētahi URL, honongaitua rānei ki Ngā Rawa Kua Raihanatia ki te whānuitanga ka taea;</li>
                     </ol>
                   </li>
-                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及</li>
-                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。</li>
+                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">me whakaatu rawa mēnā i whakarerekē Koe i Ngā Rawa Kua Raihanatia me te pupuri whakaaturanga o ngā whakarerekētanga o mua atu; ā,</li>
+                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">me whakaatu rawa kua raihanatia Ngā Rawa Kua Raihanatia i raro o tēnei Raihana Tūmatanui, me te tāuru i ngā kuputuhi o tēnei Raihana Tūmatanui, te URL, te honongaitua rānei ki taua raihana.</li>
               </ol>
             </li>
-            <li id="s3a2" class="padding-left-normal padding-bottom-normal">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足<a href="#s3a1">第三条a款第(1)项</a>的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</li>
+            <li id="s3a2" class="padding-left-normal padding-bottom-normal">Ka āhei koe te whakatutuki i ngā herenga i te Wāhanga <a href="#s3a1">3(a)(1)</a> ahakoa he aha te ara whaitake, i runga anō i te rawatā, te āhua, me te horopaki e tiria ai e Koe Ngā Rawa Kua Raihanatia. Hei tauira, he mea whaitake pea te whakatutuki i ngā herenga mā te whakarato i tētahi URL, honongaitua rānei ki tētahi rauemi kei roto ko ngā mōhiohio e hiahiatia ana.</li>
             
-              <li id="s3a3" class="padding-left-normal padding-bottom-small">如果许可人要求，您必须在合理可行的范围内移除<a href="#s3a1A">第三条a款第(1)项(A)目</a> 所要求的任何信息。</li>
+              <li id="s3a3" class="padding-left-normal padding-bottom-small">Mēnā ka tonoa e te Kaituku Raihana, me tango rawa e Koe ngā mōhiohio e hiahiatia ana e te Wāhanga <a href="#s3a1A">3(a)(1)(A)</a> ki te whānuitanga ka taea.</li>
               
             
           </ol>
@@ -1076,8 +1076,8 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 4. Sui Generis Database Rights. -->
     <div class="padding-bottom-larger">
-      <p id="s4" class="body-bigger padding-bottom-normal"><strong>第四条  数据库特别权利</strong></p>
-      <p class="body-big padding-bottom-normal">当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：</p>
+      <p id="s4" class="body-bigger padding-bottom-normal"><strong>Wāhanga 4 – Ngā Motika Pātengi Raraunga Momo Takitahi.</strong></p>
+      <p class="body-big padding-bottom-normal">Ina kei roto i Ngā Motika Kua Raihanatia ko Ngā Motika Pātengi Raraunga Momo Takitahi e hāngai ana ki Tō whakamahi i Ngā Rawa Kua Raihanatia:</p>
       <ol type="a" class="body-big padding-left-normal">
           <li id="s4a" class="padding-left-normal padding-bottom-normal">
           
@@ -1086,62 +1086,62 @@ a.skip-link:focus, a.skip-link:active {
           </li>
           <li id="s4b" class="padding-left-normal padding-bottom-normal">
             
-              如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)；
+              mēnā ka whakauru Koe i te katoa, i tētahi wāhi nui rānei o ngā ihirangi pātengi raraunga ki roto i tētahi pātengi raraunga e whai Motika Pātengi Raraunga Momo Takitahi ai Koe, ka mutu ko taua pātengi raraunga e whai Motika Pātengi Raraunga Momo Takitahi ai Koe (engari kaua ōna ihirangi) he Rawa Kua Urutaua; ā,
             
           </li>
-          <li id="s4c" class="padding-left-normal padding-bottom-small">如果您分享全部或大部分该数据库的资料，您必须遵守 <a href="#s3a">第三条a款</a> 规定的条件。</li>
+          <li id="s4c" class="padding-left-normal padding-bottom-small">me tautuku Koe ki ngā herenga i te Wāhanga <a href="#s3a">3(a)</a> mēnā ka Tiritiri Koe i te katoa, i tētahi wāhi nui rānei o ngā ihirangi o te pātengi raraunga.</li>
       </ol>
 
-      <span class="body-big">为避免疑义，当协议所授予的权利包含其他著作权与类似权利时， <a href="#s4">第四条</a> 补充且不取代本公共许可协议所规定的您的义务。</span>
+      <span class="body-big">Hei karo i te rangirua, ka āpiti tēnei Wāhanga <a href="#s4">4</a> me te kore e whakakapi i Ō herenga i raro i tēnei Raihana Tūmatanui i ngā āhuatanga kei roto i Ngā Motika Kua Raihanatia ētahi atu Motika Manatārua, Motika Rite hoki.</span>
     </div>
 
     <!-- Section 5. Disclaimer -->
     <div class="padding-bottom-larger">
-      <p id="s5" class="body-bigger padding-bottom-normal"><strong>第五条  免责声明及责任限制条款</strong></p>
+      <p id="s5" class="body-bigger padding-bottom-normal"><strong>Wāhanga 5 – Te Karo Pūtāhui me te Whakawhāiti Taunahatanga.</strong></p>
       <ol style="font-weight: bold;" type="a" class="body-big padding-left-normal">
-        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。</strong></li>
-        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>在最大可能范围内， 对于任何因本公共许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。</strong></li>
+        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>Ka tuku te Kaituku Raihana, engari rawa mēnā ka whakahaeretia motuhaketia e te Kaituku Raihana, ki te whānuitanga ka taea, i Ngā Rawa Kua Raihanatia ki tōna āhua tonu, mēnā ka wātea i taua wā, ā, kāore ia e tuku kī taurangi, pūtāhui ahakoa te momo mō Ngā Rawa Kua Raihanatia, ahakoa mā te kī mārama, mā te whakapae, mā te ture, mā tētahi atu āhua rānei. Kei roto i tēnei, me te kore herenga, ngā pūtāhui taitara, te pai hei hoko, te rite mō tētahi kaupapa ake, te kore takahitanga, te korenga o ngā makenu torohū, o ētahi atu makenu rānei, te tōtikatanga, te whai hapa, te kore whai hapa rānei, ahakoa ka mōhiotia, kāore rānei, ahakoa ka kitea ā tōna wā, kāore rānei. I ngā āhuatanga kāore e whakaaetia ngā karo pūtāhui katoa, tētahi wāhi rānei, kāore pea tēnei karo e hāngai ki a Koe.</strong></li>
+        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>Ki te whānuitanga ka taea, ahakoa te āhuatanga, e kore te Kaituku Raihana e herea ki a Koe i raro i tetahi ariā ā-ture (tae atu, me te kore herenga, ki te whakahapanga), i raro i tētahi atu mea rānei, mō ngā moni ngaro torotika, motuhake, ka hua ake, whakawhiu, whakatūpato, tētahi atu moni ngaro rānei, mō ngā utunga, ngā rarunga rānei ka hua ake i tēnei Raihana Tūmatanui, i te whakamahinga rānei o Ngā Rawa Kua Raihanatia, ahakoa kua whakamōhiotia te Kaituku Raihana tērā pea ka tūpono ngā moni ngaro, ngā utunga, ngā rarunga pēnei rānei. I ngā āhuatanga kāore e whakaaetia ngā karo pūtāhui katoa, tētahi wāhi rānei, kāore pea tēnei karo e hāngai ki a Koe.</strong></li>
       </ol>
       <ol start="3" type="a" class="body-big padding-left-normal">
-        <li id="s5c" class="padding-left-normal padding-bottom-small">前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。</li>
+        <li id="s5c" class="padding-left-normal padding-bottom-small">Kia whakamāoritia tēnei karo pūtāhui me te whakawhāititanga o te taunahatanga e whakaratohia ana i runga nei kia tino pātata rawa ka taea tōna āwhiwhi ki tētahi karo, whakakore pūmau o te taunahatanga katoa.</li>
       </ol>
     </div>
 
     <!-- Section 6. Term and Termination -->
     <div class="padding-bottom-larger">
-      <p id="s6" class="body-bigger padding-bottom-normal"><strong>第六条 期限与终止</strong></p>
+      <p id="s6" class="body-bigger padding-bottom-normal"><strong>Wāhanga 6 – Te Roanga me te Whakamutu.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s6a" class="padding-left-normal padding-bottom-normal">本公共许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。</li>
+        <li id="s6a" class="padding-left-normal padding-bottom-normal">E hāngai ana tēnei Raihana Tūmatanui mō te roanga o te Manatārua me ngā Motika Rite kua raihanatia i konei. Heoi anō, ki te kore Koe e tautuku ki tēnei Raihana Tūmatanui, ka mutu aunoa Ō motika i raro i tēnei Raihana Tūmatanui.</li>
         <li id="s6b" class="padding-left-normal padding-bottom-normal">
-          <p class="body-big padding-bottom-normal">当您使用本授权作品(Licensed Material)的权利根据第六条a款终止时，您的权利在下述情况下恢复：</p>
+          <p class="body-big padding-bottom-normal">I ngā āhuatanga i whakamutua aunoatia Tō motika ki te whakamahi i Ngā Rawa Kua Raihanatia i raro i te Wāhanga 6(a):</p>
           <ol class="body-big padding-left-normal">
-            <li id="s6b1" class="padding-left-normal padding-bottom-normal">自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</li>
-            <li id="s6b2" class="padding-left-normal padding-bottom-small">根据许可人明示恢复权利的意思表达。</li>
+            <li id="s6b1" class="padding-left-normal padding-bottom-normal">ka whakatūria aunoatia anō hei te rā whakatika i te takahitanga, engari rā ka whakatikahia i roto i te 30 rā atu i Tō kite i te takahitanga; tēnei rānei,</li>
+            <li id="s6b2" class="padding-left-normal padding-bottom-small">ka āta whakatūria anō e te Kaituku Raihana.</li>
           </ol>
-          为避免疑义，本公共许可协议<a href="#s6b">第六条b款</a> 不影响许可人就您违反本公共许可协议的行为寻求法律救济。
+          Hei karo i te rangirua, kāore he pānga o tēnei Wāhanga <a href="#s6b">6(b)</a> ki tō te Kaituku Raihana motika ki te rapa rongoā mō Ō takahitanga o tēnei Raihana Tūmatanui.
         </li>
-        <li id="s6c" class="padding-left-normal padding-bottom-normal">为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</li>
-        <li id="s6d" class="padding-left-normal padding-bottom-small">本协议<a href="#s1">第一</a>、<a href="#s5">五</a>、<a href="#s6">六</a>、<a href="#s7">七</a>及第<a href="#s8">八</a>条，不因本公共许可协议终止而失效。</li>
+        <li id="s6c" class="padding-left-normal padding-bottom-normal">Hei karo anō i te rangirua, ka tuku pea te Kaituku Raihana i Ngā Rawa Kua Raihanatia i raro i ngā ture me ngā herenga rerekē, ka whakamutu rānei i te tohatoha o Ngā Rawa Kua Raihanatia i ngā wā katoa; heoi, mā te pērā e kore e poroa tēnei Raihana Tūmatanui.</li>
+        <li id="s6d" class="padding-left-normal padding-bottom-small">Ka ora tonu ngā Wāhanga <a href="#s1">1</a>, <a href="#s5">5</a>, <a href="#s6">6</a>, <a href="#s7">7</a>, me te <a href="#s8">8</a> te whakamutunga o tēnei Raihana Tūmatanui.</li>
       </ol>
     </div>
 
     <!-- Section 7. Other terms and conditions -->
     <div class="padding-bottom-larger">
-      <p id="s7" class="body-bigger padding-bottom-normal"><strong>第七条 其他条款和条件</strong></p>
+      <p id="s7" class="body-bigger padding-bottom-normal"><strong>Wāhanga 7 – Te Roanga me te Whakamutu.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s7a" class="padding-left-normal padding-bottom-normal">除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。</li>
-        <li id="s7b" class="padding-left-normal padding-bottom-small">本公共许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本公共许可协议的条款及条件。</li>
+        <li id="s7a" class="padding-left-normal padding-bottom-normal">Kāore e herea te Kaituku Raihana ki ētahi anō ture rerekē, herenga rerekē rānei e kōrerotia ana e Koe engari ia kua āta whakaaetia ērā.</li>
+        <li id="s7b" class="padding-left-normal padding-bottom-small">E noho wehewehe ana, e noho motuhake ana ngā whakaritenga, whakaaetanga rānei e pā ana ki Ngā Rawa Kua Raihanatia kāore i te kōrerotia i roto nei, i ngā ture me ngā herenga o tēnei Raihana Tūmatanui.</li>
       </ol>
     </div>
 
     <!-- Section 8. Interpretation -->
     <div class="padding-bottom-normal">
-      <p id="s8" class="body-bigger padding-bottom-normal"><strong>第八条 解释</strong></p>
+      <p id="s8" class="body-bigger padding-bottom-normal"><strong>Wāhanga 8 – Te Whakamāoritanga.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s8a" class="padding-left-normal padding-bottom-normal">为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本公共许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。</li>
-        <li id="s8b" class="padding-left-normal padding-bottom-normal">在最大可能范围内，如果本公共许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本公共许可协议中排除适用，不影响其余条款的效力。</li>
-        <li id="s8c" class="padding-left-normal padding-bottom-normal">除非许可人明示同意，本公共许可协议的任何条款或条件均不得放弃。</li>
-        <li id="s8d" class="padding-left-normal">本公共许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。</li>
+        <li id="s8a" class="padding-left-normal padding-bottom-normal">Hei karo i te rangirua, kia kaua tēnei Raihana Tūmatanui e whakamāoritia ki te whakaiti, whakawhāiti, whakatiki, uta rānei i ngā herenga ki te whakamahinga o Ngā Rawa Kua Raihanatia tērā ka whakamahia ā-turetia me te kore whakaaetanga i raro i tēnei Raihana Tūmatanui.</li>
+        <li id="s8b" class="padding-left-normal padding-bottom-normal">Ki te whānuitanga ka taea, mēnā ka meinga e kore e taea te uruhi tētahi whakaratonga o tēnei Raihana Tūmatanui, ka whakahou aunoatia ki te iti rawa ka taea ki te whakarite ka taea te uruhi. Ki te kore e taea te whakaratonga te whakahou, ka motuhia i tēnei Raihana Tūmatanui me te kore whai pānga ki te uruhinga o ngā ture me ngā herenga e toe ana.</li>
+        <li id="s8c" class="padding-left-normal padding-bottom-normal">E kore e whakakorea tētahi herenga o tēnei Raihana Tūmatanui, e kore hoki e whakaaetia tētahi hapa tautuku engari ia ka āta whakaaetia e te Kaituku Raihana.</li>
+        <li id="s8d" class="padding-left-normal">Kāore tētahi mea i roto i tēnei Raihana Tūmatanui e here, e whakakore, e kitea ana rānei ki te here, ki te whakakore rānei, i ngā painga me ngā āraitanga e hāngai ana ki te Kaituku Raihana, ki a Koe rānei, tae atu ki ērā e ahu mai ana i ngā tukanga ā-ture o tētahi rohe ture, tētahi mana rānei.</li>
       </ol>
     </div>
   </div>

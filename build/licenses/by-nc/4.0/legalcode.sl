@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="sl" class="no-js" dir="ltr">
 <head about=" ">
     <meta charset="utf-8">
     <title></title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Preskoči na vsebino</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Domov</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.zh-Hans" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
+  <li class="is-active"><a href="/licenses/by-nc/4.0/legalcode.sl" aria-current="page displayed">Legal Code for CC BY-NC 4.0</a></li>
 
             </ul>
           </nav>
@@ -141,7 +141,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-id"
             
             value="id"
-            data-link="/licenses/by-nd/4.0/legalcode.id"
+            data-link="/licenses/by-nc/4.0/legalcode.id"
           >
             Bahasa Indonesia
           </option>
@@ -150,7 +150,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-eu"
             
             value="eu"
-            data-link="/licenses/by-nd/4.0/legalcode.eu"
+            data-link="/licenses/by-nc/4.0/legalcode.eu"
           >
             Basque
           </option>
@@ -159,7 +159,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-de"
             
             value="de"
-            data-link="/licenses/by-nd/4.0/legalcode.de"
+            data-link="/licenses/by-nc/4.0/legalcode.de"
           >
             Deutsch
           </option>
@@ -168,7 +168,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-en"
             
             value="en"
-            data-link="/licenses/by-nd/4.0/legalcode"
+            data-link="/licenses/by-nc/4.0/legalcode"
           >
             English
           </option>
@@ -177,7 +177,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-es"
             
             value="es"
-            data-link="/licenses/by-nd/4.0/legalcode.es"
+            data-link="/licenses/by-nc/4.0/legalcode.es"
           >
             español
           </option>
@@ -186,7 +186,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fr"
             
             value="fr"
-            data-link="/licenses/by-nd/4.0/legalcode.fr"
+            data-link="/licenses/by-nc/4.0/legalcode.fr"
           >
             français
           </option>
@@ -195,7 +195,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-hr"
             
             value="hr"
-            data-link="/licenses/by-nd/4.0/legalcode.hr"
+            data-link="/licenses/by-nc/4.0/legalcode.hr"
           >
             Hrvatski
           </option>
@@ -204,7 +204,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-it"
             
             value="it"
-            data-link="/licenses/by-nd/4.0/legalcode.it"
+            data-link="/licenses/by-nc/4.0/legalcode.it"
           >
             italiano
           </option>
@@ -213,7 +213,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lv"
             
             value="lv"
-            data-link="/licenses/by-nd/4.0/legalcode.lv"
+            data-link="/licenses/by-nc/4.0/legalcode.lv"
           >
             latviešu
           </option>
@@ -222,7 +222,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-lt"
             
             value="lt"
-            data-link="/licenses/by-nd/4.0/legalcode.lt"
+            data-link="/licenses/by-nc/4.0/legalcode.lt"
           >
             Lietuviškai
           </option>
@@ -231,7 +231,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-mi"
             
             value="mi"
-            data-link="/licenses/by-nd/4.0/legalcode.mi"
+            data-link="/licenses/by-nc/4.0/legalcode.mi"
           >
             Māori
           </option>
@@ -240,7 +240,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-nl"
             
             value="nl"
-            data-link="/licenses/by-nd/4.0/legalcode.nl"
+            data-link="/licenses/by-nc/4.0/legalcode.nl"
           >
             Nederlands
           </option>
@@ -249,7 +249,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-no"
             
             value="no"
-            data-link="/licenses/by-nd/4.0/legalcode.no"
+            data-link="/licenses/by-nc/4.0/legalcode.no"
           >
             norsk
           </option>
@@ -258,7 +258,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pl"
             
             value="pl"
-            data-link="/licenses/by-nd/4.0/legalcode.pl"
+            data-link="/licenses/by-nc/4.0/legalcode.pl"
           >
             polski
           </option>
@@ -267,7 +267,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-pt"
             
             value="pt"
-            data-link="/licenses/by-nd/4.0/legalcode.pt"
+            data-link="/licenses/by-nc/4.0/legalcode.pt"
           >
             Português
           </option>
@@ -276,16 +276,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ro"
             
             value="ro"
-            data-link="/licenses/by-nd/4.0/legalcode.ro"
+            data-link="/licenses/by-nc/4.0/legalcode.ro"
           >
             Română
           </option>
         
           <option
             id="option-sl"
-            
+            selected
             value="sl"
-            data-link="/licenses/by-nd/4.0/legalcode.sl"
+            data-link="/licenses/by-nc/4.0/legalcode.sl"
           >
             Slovenščina
           </option>
@@ -294,7 +294,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-fi"
             
             value="fi"
-            data-link="/licenses/by-nd/4.0/legalcode.fi"
+            data-link="/licenses/by-nc/4.0/legalcode.fi"
           >
             suomi
           </option>
@@ -303,7 +303,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-sv"
             
             value="sv"
-            data-link="/licenses/by-nd/4.0/legalcode.sv"
+            data-link="/licenses/by-nc/4.0/legalcode.sv"
           >
             svenska
           </option>
@@ -312,7 +312,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-tr"
             
             value="tr"
-            data-link="/licenses/by-nd/4.0/legalcode.tr"
+            data-link="/licenses/by-nc/4.0/legalcode.tr"
           >
             Türkçe
           </option>
@@ -321,7 +321,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-cs"
             
             value="cs"
-            data-link="/licenses/by-nd/4.0/legalcode.cs"
+            data-link="/licenses/by-nc/4.0/legalcode.cs"
           >
             česky
           </option>
@@ -330,7 +330,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-el"
             
             value="el"
-            data-link="/licenses/by-nd/4.0/legalcode.el"
+            data-link="/licenses/by-nc/4.0/legalcode.el"
           >
             Ελληνικά
           </option>
@@ -339,7 +339,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ru"
             
             value="ru"
-            data-link="/licenses/by-nd/4.0/legalcode.ru"
+            data-link="/licenses/by-nc/4.0/legalcode.ru"
           >
             Русский
           </option>
@@ -348,7 +348,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-uk"
             
             value="uk"
-            data-link="/licenses/by-nd/4.0/legalcode.uk"
+            data-link="/licenses/by-nc/4.0/legalcode.uk"
           >
             Українська
           </option>
@@ -357,7 +357,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ar"
             
             value="ar"
-            data-link="/licenses/by-nd/4.0/legalcode.ar"
+            data-link="/licenses/by-nc/4.0/legalcode.ar"
           >
             العربيّة
           </option>
@@ -366,16 +366,16 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ja"
             
             value="ja"
-            data-link="/licenses/by-nd/4.0/legalcode.ja"
+            data-link="/licenses/by-nc/4.0/legalcode.ja"
           >
             日本語
           </option>
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
-            data-link="/licenses/by-nd/4.0/legalcode.zh-Hans"
+            data-link="/licenses/by-nc/4.0/legalcode.zh-Hans"
           >
             简体中文
           </option>
@@ -384,7 +384,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-zh-Hant"
             
             value="zh-Hant"
-            data-link="/licenses/by-nd/4.0/legalcode.zh-Hant"
+            data-link="/licenses/by-nc/4.0/legalcode.zh-Hant"
           >
             繁體中文
           </option>
@@ -393,7 +393,7 @@ a.skip-link:focus, a.skip-link:active {
             id="option-ko"
             
             value="ko"
-            data-link="/licenses/by-nd/4.0/legalcode.ko"
+            data-link="/licenses/by-nc/4.0/legalcode.ko"
           >
             한국어
           </option>
@@ -431,7 +431,7 @@ a.skip-link:focus, a.skip-link:active {
       
     </div>
     <div class="column">
-      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.zh-Hans">See the deed</button>
+      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nc/4.0/deed.sl">See the deed</button>
     </div>
   </div>
 </div>
@@ -445,7 +445,7 @@ a.skip-link:focus, a.skip-link:active {
     <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
 
 
-署名—禁止演绎 4.0 协议国际版
+Priznanje avtorstva-Nekomercialno 4.0 Mednarodna
 
 </a>
     <ul class="menu-list" >
@@ -454,35 +454,35 @@ a.skip-link:focus, a.skip-link:active {
           
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s1">第一条  定义</a>
+            <a class="is-block column" href="#s1">Oddelek 1 - Definicije</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s2">第二条 授权范围</a>
+            <a class="is-block column" href="#s2">Oddelek 2 – Obseg</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s3">第三条 授权条件</a>
+            <a class="is-block column" href="#s3">Oddelek 3 – Pogoji Licence</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s4">第四条  数据库特别权利</a>
+            <a class="is-block column" href="#s4">Oddelek 4 - Sui generis pravice na podatkovnih bazah</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s5">第五条  免责声明及责任限制条款</a>
+            <a class="is-block column" href="#s5">Oddelek 5 – Izjava o jamstvih in omejitev odgovornosti</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s6">第六条 期限与终止</a>
+            <a class=" is-block column" href="#s6">Oddelek 6 – Trajanje in prenehanje veljavnosti</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s7">第七条 其他条款和条件</a>
+            <a class="is-block column" href="#s7">Oddelek 7 – Druge določbe in pogoji</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s8">第八条 解释</a>
+            <a class=" is-block column" href="#s8">Oddelek 8 – Razlaga</a>
           </li>
         </ul>
       </li>
@@ -559,13 +559,13 @@ a.skip-link:focus, a.skip-link:active {
       
       </span>
 
-    CC BY-ND 4.0 
+    CC BY-NC 4.0 
   </h2>
   
   <h1 class="b-header">
 
 
-署名—禁止演绎 4.0 协议国际版
+Priznanje avtorstva-Nekomercialno 4.0 Mednarodna
 
 </h1>
 </div>
@@ -634,13 +634,13 @@ a.skip-link:focus, a.skip-link:active {
       
       </span>
   </h2>
-  <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-ND 4.0</h2>
-  <h3 class="has-text-centered is-hidden-touch">CC BY-ND 4.0</h3>
-  <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-ND 4.0</h4>
+  <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-NC 4.0</h2>
+  <h3 class="has-text-centered is-hidden-touch">CC BY-NC 4.0</h3>
+  <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-NC 4.0</h4>
   <h2 class="b-header has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Priznanje avtorstva-Nekomercialno 4.0 Mednarodna
 
 </h2>
 </div>
@@ -769,7 +769,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-  CC BY-ND 4.0
+  CC BY-NC 4.0
 </h3>
 <h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
   
@@ -832,7 +832,7 @@ a.skip-link:focus, a.skip-link:active {
 
 
     </span>
-    CC BY-ND 4.0
+    CC BY-NC 4.0
 </h3>
 <h3 class="is-hidden-tablet has-text-centered">
   
@@ -896,141 +896,149 @@ a.skip-link:focus, a.skip-link:active {
 
     </span>
 </h3>
-<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-ND 4.0</h4>
+<h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-NC 4.0</h4>
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Priznanje avtorstva-Nekomercialno 4.0 Mednarodna
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Priznanje avtorstva-Nekomercialno 4.0 Mednarodna
 
 </h3>
 
   <div>
     <h3 class="padding-bottom-normal b-header">
       
-        知识共享 (Creative Commons) 署名—禁止演绎 4.0公共许可协议国际版
+        Creative Commons Priznanje avtorstva-Nekomercialno 4.0 Mednarodna licenca
       
     </h3>
     <p class="body-big padding-bottom-larger">
     
-    通过行使本协议所授予的权利（定义如下），您接受并同意受到知识共享(Creative Commons)署名—禁止演绎4.0国际公共许可协议（以下简称“本公共许可协议”）的约束。从合同解释的角度来看，您获得授权的对价是接受本协议的条款，许可人授予您这些权利的对价是可以通过采用本协议条款发布授权作品(material)而获得利益。
+      Z uveljavljanjem Licenciranih pravic (definirane spodaj) Uporabnik sprejme in se strinja, da ga zavezujejo pogoji te Creative Commons Priznanje avtorstva-Nekomercialno 4.0 Mednarodne licence (“Licenca”). Kolikor je mogoče to Licenco smatrati kot pogodbo, se Uporabniku zagotovijo licencirane pravice v zameno za sprejem licenčnih pogojev, Dajalec licence pa Uporabniku zagotovi te pravice v zameno za koristi, ki jih prejme od dajanja Licenciranih vsebin na voljo pod temi pogoji.
     
     </p>
     
 
     <!-- Section 1. Definitions. -->
     <div class="padding-bottom-larger">
-      <p id="s1" class="body-bigger padding-bottom-normal"><strong>第一条  定义</strong></p>
+      <p id="s1" class="body-bigger padding-bottom-normal"><strong>Oddelek 1 - Definicije</strong></p>
       
       <ol type="a" class="body-big padding-left-normal">
 
           
 
           <li id="s1a_adapted_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">演绎作品(Adapted Material)：</span> 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Predelane vsebine</span> pomeni vsebine, ki so predmet Avtorske in podobnih pravic in izhajajo ali so osnovane na Licenciranih vsebinah in v katerih so Licencirane vsebine prevedene, aranžirane ali kakorkoli spremenjene, na način, ki zahteva dovoljenje v skladu z Avtorskimi in podobnimi pravicami, ki pripadajo Dajalcu licence. Kadar je Licencirana vsebina glasbeno delo, izvedba ali zvočni posnetek, se za namene te licence šteje, da so zmeraj ustvarjene Predelane vsebine, kadar je Licencirana vsebina časovno usklajena z gibljivo sliko.</div>
           </li>
 
+          
+            <li id="s1b_adapters_license" class="padding-bottom-normal">
+              <div class="padding-left-normal"><span style="text-decoration: underline;">Predelovalčeva licenca</span> pomeni licenco, ki jo Uporabnik uporabi za Avtorske in podobne pravice na svojih prispevkih k Predelanim vsebinam v skladu s pogoji te Licence.</div>
+            </li>
           
 
           
 
           
 
-          <li id="s1b_copyright_and_similar_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">著作权与类似权利：</span> 指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的， <a href="#s2b">第二条b款第(1)项与第(2)项</a> 所列权利不属于著作权与类似权利。</div>
+          <li id="s1c_copyright_and_similar_rights" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Avtorska in podobne pravice</span> pomeni avtorsko in/ali podobne pravice, ki so sorodne avtorski, vključno z, a ne omejeno na pravice, ki izvirajo iz izvedbe, transmisije in zvočnega snemanja ter sui generis pravice izdelovalcev podatkovnih baz, ne glede na to kako so te pravice poimenovane ali kategorizirane. Za namene te Licence pravice, ki so določene v Oddelku <a href="#s2b">2(b)(1)-(2)</a>, niso Avtorske in podobne pravice.</div>
           </li>
 
-          <li id="s1c_effective_technological_measures" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">有效的技术措施：</span> 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</div>
+          <li id="s1d_effective_technological_measures" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Tehnološki ukrepi</span> pomenijo ukrepe, ki jih brez ustreznega dovoljenja ni dopustno zaobiti, v skladu z zakoni, ki izpolnjujejo zaveze iz 11. člena Pogodbe WIPO o avtorski pravici z dne 20. decembra 1996 in/ali podobnih mednarodnih pogodb.</div>
           </li>
 
-          <li id="s1d_exceptions_and_limitations" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">例外与限制：</span> 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</div>
-          </li>
-
-          
-
-          
-
-          <li id="s1e_licensed_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">授权作品(Licensed Material)：</span> 指许可人通过本公共许可协议授权的文学、艺术作品(artistic or literary work)，数据库或其他作品(material)。</div>
-          </li>
-
-          <li id="s1f_licensed_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">协议所授予的权利：</span> 指依据本公共许可协议的条款和条件所授予您的各项权利，限于适用于您对授权作品(Licensed Material)的使用且许可人有权许可的著作权与类似权利。</div>
-          </li>
-
-          <li id="s1g_licensor" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">许可人：</span> 指通过本公共许可协议进行授权的个人或组织。</div>
+          <li id="s1e_exceptions_and_limitations" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Izjeme in omejitve</span> pomenijo uporabo, skladno z načeloma "fair use" in "fair dealing", in/ali druge izjeme ali omejitve Avtorske in podobnih pravic, ki se nanašajo na uporabo Licenciranih vsebin.</div>
           </li>
 
           
 
-          <li id="s1h_share" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">分享：</span> 指以需要“协议所授予的权利”许可的任何方法或程序向公众提供作品(material)，包括复制、公共展示、公开表演、发行、散布、传播、进口或提供作品(material)给公众以便其能在其选定的时间和地点接收作品(material)。</div>
+          
+
+          <li id="s1f_licensed_material" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Licencirana vsebina</span> pomeni umetniško, literarno ali znanstveno delo, sui generis podatkovno bazo ali drugo vsebino, ki jo Dajalec licence ponuja pod pogoji te Licence.</div>
           </li>
 
-          <li id="s1i_sui_generis_database_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">数据库特别权利：</span> 指除了著作权之外，衍生于1996年3月11日通过的《欧洲议会与欧盟理事会关于数据库法律保护的指令》(Directive 96/9/EC)及其修改或后续版本的权利，或其他国家或地区本质上与之等同的权利。</div>
+          <li id="s1g_licensed_rights" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Licencirane pravice</span> pomeni pravice, ki so Uporabniku podeljene v skladu s pogoji te Licence in so omejene na vse Avtorske in podobne pravice, ki se nanašajo na uporabo Licencirane vsebine, in ki jih Dajalec licence lahko licencira.</div>
           </li>
 
-          <li id="s1j_you" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">您：</span> 指依据本公共许可协议行使其所获得授予之权利的个人或机构。 <strong>“您的”</strong> 有相应的含义。</div>
+          <li id="s1h_licensor" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Dajalec licence</span> pomeni fizično ali pravno osebo, ki podeljuje pravice pod pogoji te Licence.</div>
+          </li>
+
+          
+            <li id="s1i_noncommercial" class="padding-bottom-normal">
+              <div class="padding-left-normal"><span style="text-decoration: underline;">Nekomercialno</span> pomeni, da primarni namen uporabe Licencirane vsebine ni komercialno izkoriščanje ali denarno nadomestilo. Šteje se, da menjava Licencirane vsebine za drugo vsebino, ki je predmet varstva Avtorske ali podobnih pravic, v digitalni obliki ali na podoben način, ni komercialna, če ni pogojena z denarnim plačilom.</div>
+            </li>
+          
+
+          <li id="s1j_share" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Deliti</span> pomeni posredovati vsebine javnosti s kakršnimikoli sredstvi in procesi, za katere je potrebno dovoljenje v skladu z Licenciranimi pravicami, kot je npr. reproduciranje, javno prikazovanje, javno izvajanje, distribuiranje, razširjanje, priobčitev javnosti ali uvažanje, ter dajanje na voljo javnosti, tudi na način, ki omogoča posameznikom dostop do vsebine s kraja in v času, ki ju sami izberejo.</div>
+          </li>
+
+          <li id="s1k_sui_generis_database_rights" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Sui generis pravice na podatkovnih bazah</span> pomenijo pravice, ki niso avtorske in izhajajo iz Direktive 96/9/EC Evropskega parlamenta in Sveta z dne 11. marca 1996 o pravnem varstvu baz podatkov, s spremembami in/ali nasledstvi, kot tudi druge bistveno enakovredne pravice kjerkoli po svetu.</div>
+          </li>
+
+          <li id="s1l_you" class="padding-bottom-normal">
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Uporabnik</span> je fizična ali pravna oseba, ki izkorišča Licencirane pravice iz te Licence.</div>
           </li>
       </ol>
     </div>
 
     <!-- Section 2. Scope. -->
     <div class="padding-bottom-larger">
-      <p id="s2" class="body-bigger padding-bottom-normal"><strong>第二条 授权范围</strong></p>
+      <p id="s2" class="body-bigger padding-bottom-normal"><strong>Oddelek 2 – Obseg</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s2a" class="padding-left-normal"><strong>授权</strong>.
+        <li id="s2a" class="padding-left-normal"><strong>Podelitev licence</strong>.
         <ol class="padding-left-normal padding-vertical-normal">
-          <li id="s2a1" class="padding-left-normal padding-bottom-normal">根据本公共许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：
+          <li id="s2a1" class="padding-left-normal padding-bottom-normal">V skladu s pogoji te Licence, Dajalec licence podeljuje Uporabniku teritorialno neomejeno, brezplačno, neprenosljivo, neizključno in nepreklicno licenco za izkoriščanje naslednjih Licenciranih pravic na Licencirani vsebini:
             <ol type="A" class="padding-left-normal padding-vertical-normal">
             
-              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">复制和分享授权作品(Licensed Material)的全部或部分；以及</li>
+              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">reproduciranje in Deljenje Licencirane vsebine v celoti ali delno, vendar zgolj v Nekomercialne namene; in</li>
             
 
             
-              <li id="s2a1B" class="padding-left-normal padding-bottom-small">produce, reproduce, and Share Adapted Material.</li>
+              <li id="s2a1B" class="padding-left-normal padding-bottom-small">stvaritev, reproduciranje in Deljenje Predelanih vsebin, vendar zgolj v Nekomercialne namene.</li>
             
 
             </ol>
           </li>
-          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>例外和限制</strong>为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</li>
-          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>期限</strong>本公共许可协议的期限规定于<a href="#s6a">第六条 a</a> 款。</li>
-          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>媒介和形式；允许的技术修改</strong>许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于<a href="#s2a4">第二条a款第(4)项</a> 进行的技术修改不构成演绎作品(Adapted Material)。</li>
+          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>Izjeme in omejitve</strong>. V izogib dvomu, kadar je uporaba Licencirane vsebine mogoča na podlagi Izjem in omejitev, se ta Licenca ne uporablja in Uporabniku ni potrebno ravnati v skladu s pogoji te Licence.</li>
+          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>Trajanje</strong>. Trajanje te Licence je določeno v Oddelku <a href="#s6a">6(a)</a>.</li>
+          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>Mediji in formati; dovoljene tehnične spremembe</strong>. Dajalec licence dovoljuje Uporabniku izkoriščanje Licenciranih pravic v vseh medijih in formatih, znanih ali ustvarjenih kasneje, in izvedbo tehničnih sprememb, kadar je to potrebno. Dajalec licence se odpoveduje in/ali se strinja, da ne bo uveljavljal nobene pravice, ki bi Uporabniku preprečila izvedbo tehničnih sprememb, ki so potrebne za izkoriščanje Licenciranih pravic, vključno s tehničnimi spremembami, ki so potrebne za zaobid Tehnoloških ukrepov. Za namene te Licence, izvajanje sprememb, ki so dovoljene v skladu s tem Oddelkom <a href="#s2a4">2(a)(4)</a>, ne pomeni ustvarjanja Predelanih vsebin.</li>
           <li id="s2a5" class="padding-left-normal padding-bottom-small">
-            <span style="text-decoration: underline;">后续接受者</span>.
+            <span style="text-decoration: underline;">Nadaljnji prejemniki</span>.
             <div class="para">
               <ol type="A" class="padding-left-normal padding-vertical-normal">
 
                   
 
-                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">来自许可人的要约——授权作品(Licensed Material)</span>本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。</li>
+                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">Ponudba Dajalca licence – Licencirane vsebine</span>. Vsak prejemnik Licencirane vsebine samodejno prejme ponudbo Dajalca licence za izkoriščanje Licenciranih pravic pod pogoji te Licence.</li>
 
                   
 
-                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">禁止下游限制</span>若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</li>
+                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Brez omejitev za nadaljnje prejemnike</span>. Uporabnik ne sme dodati ali zahtevati dodatnih ali drugačnih pogojev ali uporabiti kakršnihkoli Tehnoloških ukrepov na Licenciranih vsebinah, če ta dejanja omejujejo izkoriščanje Licenciranih pravic s strani kateregakoli prejemnika Licenciranih vsebin.</li>
 
               </ol>
             </div>
           </li>
-          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">并非背书</span>. 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 <a href="#s3a1Ai">第三条a款第(1)项(A)目(i)</a>所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。</li>
+          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Brez odobritev</span>. . Nič v tej Licenci ne predstavlja in se ne sme razlagati kot dovoljenje za trditev ali namigovanje, da je Uporabnik ali njegova uporaba Licencirane vsebine povezana z Dajalcem licence, sponzorirana ali da ji je bil podeljen uradni status s strani Dajalca licence ali drugih, ki jim je potrebno priznati avtorstvo v skladu z Oddelkom <a href="#s3a1Ai">3(a)(1)(A)(i)</a>.</li>
         </ol>
 
-        <li id="s2b" class="padding-left-normal"><strong>其他权利</strong>.
+        <li id="s2b" class="padding-left-normal"><strong>Druge pravice</strong>.
           <ol class="padding-left-normal padding-vertical-normal">
-            <li id="s2b1" class="padding-left-normal padding-bottom-normal">依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。</li>
-            <li id="s2b2" class="padding-left-normal padding-bottom-normal">本公共许可协议不适用于任何专利权或商标权许可。</li>
+            <li id="s2b1" class="padding-left-normal padding-bottom-normal">Moralne pravice, kot je npr. pravica spoštovanja dela, se ne licencirajo s to Licenco. Prav tako se ne licencirajo pravica do zasebnosti in/ali druge osebnostne pravice, vendar se, kolikor je to zakonsko mogoče, Dajalec licence odpoveduje in/ali se strinja, da ne bo uveljavljal teh pravic, ki mu pripadajo, v obsegu, ki je potreben za Uporabnikovo izkoriščanje Licencirani pravic.</li>
+            <li id="s2b2" class="padding-left-normal padding-bottom-normal">Pravice na patentih in znamkah niso predmet te Licence.</li>
           
-            <li id="s2b3" class="padding-left-normal padding-bottom-small">在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下，许可人明确保留收取使用费的任何权利。</li>
+            <li id="s2b3" class="padding-left-normal padding-bottom-small">Kolikor je zakonsko mogoče, se Dajalec licence odpoveduje pravici do nadomestila za izkoriščanje Licenciranih pravic, ki se uveljavljajo neposredno ali preko kolektivne organizacije v skladu s prostovoljnim ali obveznim kolektivnim upravljanjem. V vseh drugih primerih si Dajalec licence izrecno pridružuje vse pravice do tovrstnih nadomestil, tudi kadar se Licencirane vsebine uporabljajo za namen, ki ni Nekomercialen.</li>
           
           </ol>
         </li>
@@ -1039,32 +1047,34 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 3. License Conditions. -->
     <div class="padding-bottom-larger">
-      <p id="s3" class="body-bigger padding-bottom-normal"><strong>第三条 授权条件</strong></p>
+      <p id="s3" class="body-bigger padding-bottom-normal"><strong>Oddelek 3 – Pogoji Licence</strong></p>
 
-      <p class="body-big padding-bottom-normal">您行使被许可的权利明确受以下条件限制：</p>
+      <p class="body-big padding-bottom-normal">Uporabnik lahko izkorišča Licencirane pravice izključno pod naslednjimi pogoji.</p>
 
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>署名</strong>.</p>
+        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>Priznanje avtorstva</strong>.</p>
           <ol type="1" class="padding-left-normal padding-vertical-normal">
             <li id="s3a1" class="padding-left-normal padding-bottom-normal">
-              <p>If You Share the Licensed Material (including in modified form), You must:</p>
+              <p>Če uporabnik Deli Licencirane vsebine (tudi v spremenjeni obliki), mora:</p>
               <ol type="A" class="padding-left-normal padding-vertical-normal">
-                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：
+                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">ohraniti naslednje podatke, če so priloženi s strani Dajalca licence skupaj z Licenciranimi vsebinami:
                     <ol type="i" class="padding-left-normal padding-vertical-normal">
-                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</li>
-                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">著作权声明；</li>
-                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">有关本公共许可协议的声明；</li>
-                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">有关免责的声明；</li>
-                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；</li>
+                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">identifikacijo ustvarjalca (ustvarjalcev) Licenciranih vsebin in drugih, katerim je potrebno priznati avtorstvo, na razumen način v skladu z zahtevo Dajalca licence (kar vključuje tudi psevdonim, če je bil ta naveden);</li>
+                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">obvestilo o avtorskih pravicah;</li>
+                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">obvestilo, ki se nanaša na to Licenco;</li>
+                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">obvestilo, ki se nanaša na izjavo o jamstvih;</li>
+                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">URI ali hiperpovezavo do Licencirane vsebine, kolikor je to razumno mogoče;</li>
                     </ol>
                   </li>
-                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及</li>
-                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。</li>
+                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">navesti, da je spremenil Licencirano vsebino in obdržati navedbo morebitnih prejšnjih sprememb; in</li>
+                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">navesti, da je vsebina licencirana pod to Licenco in vključiti besedilo ali URI ali hiperpovezavo do te Licence.</li>
               </ol>
             </li>
-            <li id="s3a2" class="padding-left-normal padding-bottom-normal">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足<a href="#s3a1">第三条a款第(1)项</a>的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</li>
+            <li id="s3a2" class="padding-left-normal padding-bottom-normal">Uporabnik lahko zadosti pogojem iz Oddelka <a href="#s3a1">3(a)(1)</a> na kakršenkoli razumen način, glede na medij, sredstva in kontekst, v katerem Uporabnik Deli Licencirano vsebino. Na primer, pogojem je mogoče razumno zadostiti z vključitvijo URI-ja ali hiperpovezave do vira, kjer se nahajajo potrebni podatki.</li>
             
-              <li id="s3a3" class="padding-left-normal padding-bottom-small">如果许可人要求，您必须在合理可行的范围内移除<a href="#s3a1A">第三条a款第(1)项(A)目</a> 所要求的任何信息。</li>
+              <li id="s3a3" class="padding-left-normal padding-bottom-normal">Če tako zahteva Dajalec licence, mora Uporabnik odstraniti vse informacije iz Oddelka <a href="#s3a1A">3(a)(1)(A)</a>, kolikor je to razumno mogoče.</li>
+              
+                <li id="s3a4" class="padding-left-normal padding-bottom-small">Če Uporabnik Deli Predelane vsebine, ki jih sam ustvari, Predelovalčeva licenca, ki jo Uporabnik uporabi, ne sme preprečiti prejemnikom Predelanih vsebin spoštovanja te Licence.</li>
               
             
           </ol>
@@ -1076,72 +1086,72 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 4. Sui Generis Database Rights. -->
     <div class="padding-bottom-larger">
-      <p id="s4" class="body-bigger padding-bottom-normal"><strong>第四条  数据库特别权利</strong></p>
-      <p class="body-big padding-bottom-normal">当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：</p>
+      <p id="s4" class="body-bigger padding-bottom-normal"><strong>Oddelek 4 - Sui generis pravice na podatkovnih bazah</strong></p>
+      <p class="body-big padding-bottom-normal">Kadar Licencirane pravice vključujejo Sui generis pravice na podatkovnih bazah, ki se nanašajo na uporabo Licencirane vsebine:</p>
       <ol type="a" class="body-big padding-left-normal">
           <li id="s4a" class="padding-left-normal padding-bottom-normal">
           
-            for the avoidance of doubt, Section <a href="#s2a1">2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
-            
+            Šteje, da se v Oddelku <a href="#s2a1">2(a)(1)</a> Uporabniku podeljuje pravica do ustvarjanja izvlečkov, ponovne uporabe, reproduciranja in Deljenja vseh ali znatnega dela vsebin v tej podatkovni bazi, vendar zgolj v Nekomercialne namene;
+          
           </li>
           <li id="s4b" class="padding-left-normal padding-bottom-normal">
             
-              如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)；
+              Če Uporabnik vključi vse ali znaten del vsebine podatkovne baze v lastno podatkovno bazo, na kateri ima Sui generis pravice na podatkovnih bazah, potem se šteje, da je ta Uporabnikova podatkovna baza (ne pa tudi posamezni elementi njene vsebine) Predelana vsebina, in;
             
           </li>
-          <li id="s4c" class="padding-left-normal padding-bottom-small">如果您分享全部或大部分该数据库的资料，您必须遵守 <a href="#s3a">第三条a款</a> 规定的条件。</li>
+          <li id="s4c" class="padding-left-normal padding-bottom-small">Uporabnik mora ravnati v skladu s pogoji v Oddelku <a href="#s3a">3(a)</a>), če Deli vse ali znaten del vsebin, ki jih vsebuje podatkovna baza.</li>
       </ol>
 
-      <span class="body-big">为避免疑义，当协议所授予的权利包含其他著作权与类似权利时， <a href="#s4">第四条</a> 补充且不取代本公共许可协议所规定的您的义务。</span>
+      <span class="body-big">V izogib dvomu je Oddelek <a href="#s4">4</a> dodatek in ne nadomešča dolžnosti Uporabnika v skladu s to Licenco, kadar Licencirane pravice vključujejo druge Avtorske in podobne pravice.</span>
     </div>
 
     <!-- Section 5. Disclaimer -->
     <div class="padding-bottom-larger">
-      <p id="s5" class="body-bigger padding-bottom-normal"><strong>第五条  免责声明及责任限制条款</strong></p>
+      <p id="s5" class="body-bigger padding-bottom-normal"><strong>Oddelek 5 – Izjava o jamstvih in omejitev odgovornosti</strong></p>
       <ol style="font-weight: bold;" type="a" class="body-big padding-left-normal">
-        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。</strong></li>
-        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>在最大可能范围内， 对于任何因本公共许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。</strong></li>
+        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>Razen v primeru, kadar se je Dajalec licence posebej zavezal drugače, daje Dajalec licence Licencirano vsebino na voljo “kot je” in ne daje nobenih zagotovil ali jamstev, izrecnih, implicitnih, zakonskih ali drugih, glede Licenciranih vsebin. To vključuje zlasti jamstva glede pravnih napak, primernosti za prodajo, primernosti za določen namen, kršitev pravic, odsotnosti skritih ali drugih okvar, točnosti ter glede prisotnosti ali odsotnosti napak, znanih ali neznanih ali takšnih, ki bi jih bilo mogoče odkriti. Kadar izjava o jamstvih v celoti ali delno ni v skladu z zakonom, ta izjava za Uporabnika ne velja.</strong></li>
+        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>Kolikor je zakonsko mogoče, Dajalec licence ne odgovarja Uporabniku po katerikoli pravni teoriji (tudi ne iz malomarnosti) ali kako drugače za kakršnokoli direktno, posebno, indirektno, naključno, posledično, kazensko, kaznovalno ali drugo izgubo, stroške, izdatke ali škodo, ki izhaja iz te Licence ali iz uporabe Licencirane vsebine, tudi če je bil Dajalec licence opozorjen na možnosti takšne izgube, stroškov, izdatkov ali škode. Kadar omejitev odgovornosti v celoti ali delno ni v skladu z zakonom, ta omejitev za Uporabnika ne velja.</strong></li>
       </ol>
       <ol start="3" type="a" class="body-big padding-left-normal">
-        <li id="s5c" class="padding-left-normal padding-bottom-small">前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。</li>
+        <li id="s5c" class="padding-left-normal padding-bottom-small">Zgornja izjava o jamstvih in omejitvi odgovornosti se razlaga tako, da se, kolikor je zakonsko mogoče, približuje celotni odpovedi jamstva in odgovornosti.</li>
       </ol>
     </div>
 
     <!-- Section 6. Term and Termination -->
     <div class="padding-bottom-larger">
-      <p id="s6" class="body-bigger padding-bottom-normal"><strong>第六条 期限与终止</strong></p>
+      <p id="s6" class="body-bigger padding-bottom-normal"><strong>Oddelek 6 – Trajanje in prenehanje veljavnosti</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s6a" class="padding-left-normal padding-bottom-normal">本公共许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。</li>
+        <li id="s6a" class="padding-left-normal padding-bottom-normal">Ta Licenca velja za čas trajanja Avtorske in podobnih pravic, ki so z njo licencirane. V primeru, da Uporabnik krši določila te Licence, pravice, podeljene Uporabniku s to Licenco, samodejno prenehajo.</li>
         <li id="s6b" class="padding-left-normal padding-bottom-normal">
-          <p class="body-big padding-bottom-normal">当您使用本授权作品(Licensed Material)的权利根据第六条a款终止时，您的权利在下述情况下恢复：</p>
+          <p class="body-big padding-bottom-normal">Kadar je Uporabnikova pravica uporabe Licencirane vsebine prenehala v skladu z Oddelkom 6(a), se obnovi:</p>
           <ol class="body-big padding-left-normal">
-            <li id="s6b1" class="padding-left-normal padding-bottom-normal">自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</li>
-            <li id="s6b2" class="padding-left-normal padding-bottom-small">根据许可人明示恢复权利的意思表达。</li>
+            <li id="s6b1" class="padding-left-normal padding-bottom-normal">samodejno, z datumom, ko se kršitev odpravi, pod pogojem, da se odpravi v roku 30 dni po tem, ko Uporabnik odkrije kršitev, ali</li>
+            <li id="s6b2" class="padding-left-normal padding-bottom-small">po izrecni obnovitvi s strani Dajalca licence.</li>
           </ol>
-          为避免疑义，本公共许可协议<a href="#s6b">第六条b款</a> 不影响许可人就您违反本公共许可协议的行为寻求法律救济。
+          V izogib dvomu, Oddelek <a href="#s6b">6(b)</a> ne vpliva na pravice Dajalca licence, da uveljavlja pravna sredstva zaradi Uporabnikovih kršitev te Licence.
         </li>
-        <li id="s6c" class="padding-left-normal padding-bottom-normal">为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</li>
-        <li id="s6d" class="padding-left-normal padding-bottom-small">本协议<a href="#s1">第一</a>、<a href="#s5">五</a>、<a href="#s6">六</a>、<a href="#s7">七</a>及第<a href="#s8">八</a>条，不因本公共许可协议终止而失效。</li>
+        <li id="s6c" class="padding-left-normal padding-bottom-normal">V izogib dvomu, Dajalec licence lahko kadarkoli ponudi Licencirano vsebino tudi pod drugačnimi pogoji ali kadarkoli preneha ponujati Licencirano vsebino; vendar ta dejanja ne prekinejo trajanja te Licence.</li>
+        <li id="s6d" class="padding-left-normal padding-bottom-small">Oddelki <a href="#s1">1</a>, <a href="#s5">5</a>, <a href="#s6">6</a>, <a href="#s7">7</a> in <a href="#s8">8</a> ostanejo v veljavi tudi po prenehanju te Licence.</li>
       </ol>
     </div>
 
     <!-- Section 7. Other terms and conditions -->
     <div class="padding-bottom-larger">
-      <p id="s7" class="body-bigger padding-bottom-normal"><strong>第七条 其他条款和条件</strong></p>
+      <p id="s7" class="body-bigger padding-bottom-normal"><strong>Oddelek 7 – Druge določbe in pogoji</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s7a" class="padding-left-normal padding-bottom-normal">除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。</li>
-        <li id="s7b" class="padding-left-normal padding-bottom-small">本公共许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本公共许可协议的条款及条件。</li>
+        <li id="s7a" class="padding-left-normal padding-bottom-normal">Dajalca licence ne zavezujejo nobeni dodatni ali drugačni pogoji, ki jih postavi Uporabnik, razen če se Dajalec licence z njimi izrecno strinja.</li>
+        <li id="s7b" class="padding-left-normal padding-bottom-small">Vsi dogovori ali sporazumi v zvezi z Licencirano vsebino, ki niso navedeni v tej Licenci, niso predmet te Licence.</li>
       </ol>
     </div>
 
     <!-- Section 8. Interpretation -->
     <div class="padding-bottom-normal">
-      <p id="s8" class="body-bigger padding-bottom-normal"><strong>第八条 解释</strong></p>
+      <p id="s8" class="body-bigger padding-bottom-normal"><strong>Oddelek 8 – Razlaga</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s8a" class="padding-left-normal padding-bottom-normal">为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本公共许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。</li>
-        <li id="s8b" class="padding-left-normal padding-bottom-normal">在最大可能范围内，如果本公共许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本公共许可协议中排除适用，不影响其余条款的效力。</li>
-        <li id="s8c" class="padding-left-normal padding-bottom-normal">除非许可人明示同意，本公共许可协议的任何条款或条件均不得放弃。</li>
-        <li id="s8d" class="padding-left-normal">本公共许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。</li>
+        <li id="s8a" class="padding-left-normal padding-bottom-normal">V izogib dvomu se ta Licenca ne sme razlagati na način, da zmanjšuje, omejuje ali postavlja pogoje glede kakršnekoli uporabe Licencirane vsebine, ki se v skladu z veljavno zakonodajo lahko vrši brez dovoljenja, podeljenega s to Licenco.</li>
+        <li id="s8b" class="padding-left-normal padding-bottom-normal">Če je katerakoli določba te Licence neveljavna ali neizvršljiva, se samodejno spremeni le toliko, kolikor je nujno, da postane veljavna in izvršljiva. Če se določba ne more spremeniti, se izloči iz te Licence, brez da bi vplivala na veljavnost preostalih določb in pogojev.</li>
+        <li id="s8c" class="padding-left-normal padding-bottom-normal">Odpoved katerikoli določbi ali pogoju iz te Licence ali soglasje h kršitvam katerekoli določbe ali pogoja sta veljavna samo, če Dajalec licence s tem izrecno soglaša.</li>
+        <li id="s8d" class="padding-left-normal">Nič v tej Licenci se ne sme razlagati kot omejitev ali odpoved kakršnimkoli pravicam ali imunitetam, ki se nanašajo na Dajalca licence ali Uporabnika, vključno s postopki pred sodnimi ali drugimi pristojnimi organi.</li>
       </ol>
     </div>
   </div>

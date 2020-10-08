@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="el" class="no-js" dir="ltr">
 <head about=" ">
     <meta charset="utf-8">
     <title></title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Μεταβείτε στο περιεχόμενο</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Αρχική</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.zh-Hans" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
+  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.el" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
 
             </ul>
           </nav>
@@ -328,7 +328,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-el"
-            
+            selected
             value="el"
             data-link="/licenses/by-nd/4.0/legalcode.el"
           >
@@ -373,7 +373,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
             data-link="/licenses/by-nd/4.0/legalcode.zh-Hans"
           >
@@ -431,7 +431,7 @@ a.skip-link:focus, a.skip-link:active {
       
     </div>
     <div class="column">
-      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.zh-Hans">See the deed</button>
+      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.el">See the deed</button>
     </div>
   </div>
 </div>
@@ -445,7 +445,7 @@ a.skip-link:focus, a.skip-link:active {
     <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
 
 
-署名—禁止演绎 4.0 协议国际版
+Creative Commons Αναφορά-Όχι Παράγωγα Έργα 4.0
 
 </a>
     <ul class="menu-list" >
@@ -454,35 +454,35 @@ a.skip-link:focus, a.skip-link:active {
           
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s1">第一条  定义</a>
+            <a class="is-block column" href="#s1">Άρθρο 1. Ορισμοί.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s2">第二条 授权范围</a>
+            <a class="is-block column" href="#s2">Άρθρο 2. Πεδίο εφαρμογής.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s3">第三条 授权条件</a>
+            <a class="is-block column" href="#s3">Άρθρο 3. Όροι της Άδειας.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s4">第四条  数据库特别权利</a>
+            <a class="is-block column" href="#s4">Αρθρο 4. Δικαιώματα Ειδικής Φύσης Κατασκευαστή/-τριας Βάσης Δεδομένων.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s5">第五条  免责声明及责任限制条款</a>
+            <a class="is-block column" href="#s5">Αρθρο 5. Αποποίηση Εγγυήσεων και Περιορισμός Ευθύνης.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s6">第六条 期限与终止</a>
+            <a class=" is-block column" href="#s6">Άρθρο 6. Διάρκεια και Τερματισμός.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s7">第七条 其他条款和条件</a>
+            <a class="is-block column" href="#s7">Άρθρο 7. Άλλοι Όροι και Προϋποθέσεις.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s8">第八条 解释</a>
+            <a class=" is-block column" href="#s8">Άρθρο 8. Ερμηνεία.</a>
           </li>
         </ul>
       </li>
@@ -565,7 +565,7 @@ a.skip-link:focus, a.skip-link:active {
   <h1 class="b-header">
 
 
-署名—禁止演绎 4.0 协议国际版
+Creative Commons Αναφορά-Όχι Παράγωγα Έργα 4.0
 
 </h1>
 </div>
@@ -640,7 +640,7 @@ a.skip-link:focus, a.skip-link:active {
   <h2 class="b-header has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Creative Commons Αναφορά-Όχι Παράγωγα Έργα 4.0
 
 </h2>
 </div>
@@ -900,39 +900,39 @@ a.skip-link:focus, a.skip-link:active {
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Creative Commons Αναφορά-Όχι Παράγωγα Έργα 4.0
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Creative Commons Αναφορά-Όχι Παράγωγα Έργα 4.0
 
 </h3>
 
   <div>
     <h3 class="padding-bottom-normal b-header">
       
-        知识共享 (Creative Commons) 署名—禁止演绎 4.0公共许可协议国际版
+        Creative Commons Αναφορά-Όχι Παράγωγα Έργα 4.0
       
     </h3>
     <p class="body-big padding-bottom-larger">
     
-    通过行使本协议所授予的权利（定义如下），您接受并同意受到知识共享(Creative Commons)署名—禁止演绎4.0国际公共许可协议（以下简称“本公共许可协议”）的约束。从合同解释的角度来看，您获得授权的对价是接受本协议的条款，许可人授予您这些权利的对价是可以通过采用本协议条款发布授权作品(material)而获得利益。
+    Ασκώντας τα Αδειοδοτούμενα Δικαιώματα (τα οποία ορίζονται παρακάτω), αποδέχεσθε και συμφωνείτε να δεσμευτείτε από τους όρους και τις προϋποθέσεις αυτής της Διεθνούς Δημόσιας Άδειας (Δημόσια Άδεια) Creative Commons Αναφορά – Όχι Παράγωγα Έργα4.0 (Creative Commons Attribution – NoDerivatives 4.0 International Public License). Στο βαθμό που αυτή η άδεια μπορεί να ερμηνευτεί ως σύμβαση, τα Αδειοδοτούμενα Δικαιώματα παραχωρούνται σε Εσάς εν είδη ανταλλάγματος ("consideration") λαμβάνοντας υπόψη την εκ μέρους Σας αποδοχή αυτών των όρων και των προϋποθέσεων και ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) Σας παραχωρεί τα δικαιώματα εν είδη ανταλλάγματος ("consideration") λαμβάνοντας υπόψη τις ωφέλειες που ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) αποκομίζει με το να διαθέσει το Αντικείμενο της Αδειοδότησης υπό αυτούς τους όρους και προϋποθέσεις.
     
     </p>
     
 
     <!-- Section 1. Definitions. -->
     <div class="padding-bottom-larger">
-      <p id="s1" class="body-bigger padding-bottom-normal"><strong>第一条  定义</strong></p>
+      <p id="s1" class="body-bigger padding-bottom-normal"><strong>Άρθρο 1. Ορισμοί.</strong></p>
       
       <ol type="a" class="body-big padding-left-normal">
 
           
 
           <li id="s1a_adapted_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">演绎作品(Adapted Material)：</span> 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Υλικό που Προέρχεται από Προσαρμογή, Τροποποίηση ή Διασκευή (Τροποποίηση)</span> σημαίνει έργο ή άλλο αντικείμενο υπό την προστασία Δικαιωμάτων Πνευματικής Ιδιοκτησίας και Συγγενικών ή Παρομοίων Δικαιωμάτων το οποίο είτε προέρχεται από είτε είναι βασισμένο στο Αντικείμενο Αδειοδότησης και αποτελεί μετάφραση, διασκευή, τροποποίηση, μετατροπή ή με οποιαδήποτε άλλο τρόπο τροποποίηση του Αντικειμένου Αδειοδότησης που απαιτεί συγκατάθεση του/της Χορηγούντα/-ούσας την Άδεια (Αδειοδότη/-ούσας) βάσει των Δικαιωμάτων Πνευματικής Ιδιοκτησίας και Συγγενικών ή Παρομοίων Δικαιωμάτων που απολαμβάνει. Για τους σκοπούς της παρούσας Δημόσιας Άδειας, στις περιπτώσεις όπου το Αντικείμενο της Αδειοδότησης είναι μουσικό έργο, ερμηνεία ή εγγραφή ήχου (ηχογράφηση), ο συγχρονισμός του Αντικειμένου της Αδειοδότησης με μια κινούμενη εικόνα (συγχρονισμός) θα θεωρείται Υλικό που Προέρχεται από Προσαρμογή, Τροποποίηση ή Διασκευή (Τροποποίηση).</div>
           </li>
 
           
@@ -942,15 +942,15 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1b_copyright_and_similar_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">著作权与类似权利：</span> 指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的， <a href="#s2b">第二条b款第(1)项与第(2)项</a> 所列权利不属于著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Δικαιώματα Πνευματικής Ιδιοκτησίας και Συγγενικά ή Παρόμοια Δικαιώματα</span> σημαίνει δικαιώματα πνευματικής ιδιοκτησίας και/ή δικαιώματα που προσομοιάζουν με τα δικαιώματα πνευματικής ιδιοκτησίας και τα οποία περιλαμβάνουν, μεταξύ άλλων, τα δικαιώματα των ερμηνευτών/-τριών ή εκτελεστών καλλιτεχνών, των ραδιοτηλεοπτικών οργανισμών, των παραγωγών ηχογραφημάτων (των παραγωγών υλικών φορέων ήχου), των παραγωγών οπτικοακουστικών έργων (των παραγωγών υλικών φορέων ήχου και εικόνας), των εκδοτών/-τριών εντύπων καθώς και το Δικαίωμα Ειδικής Φύσης Κατασκευαστή/-τριας Βάσης Δεδομένων, ανεξαρτήτως του τρόπου με τον οποίο τα δικαιώματα αυτά ονοματίζονται ή κατηγοριοποιούνται στο νόμο. Για τους σκοπούς της παρούσας Δημόσιας Άδειας, τα δικαιώματα που αναφέρονται στο τμήμα <a href="#s2b">2(b)(1)-(2)</a> αυτής δεν αποτελούν Δικαιώματα Πνευματικής Ιδιοκτησίας και Συγγενικά ή Παρόμοια Δικαιώματα.</div>
           </li>
 
           <li id="s1c_effective_technological_measures" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">有效的技术措施：</span> 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Αποτελεσματικά Τεχνολογικά Μέτρα</span> σημαίνει τα μέτρα αυτά, τα οποία εν απουσία κατάλληλης εξουσίας, δεν είναι δυνατόν να παραβιάζονται βάσει του νομικού πλαισίου που δημιουργήθηκε σε συμμόρφωση με το Άρθρο 11 της Συνθήκης Πνευματικής Ιδιοκτησίας του ΠΟΔΙ, η οποία υιοθετήθηκε την 20η Δεκεμβρίου 1996, ή/και βάσει παρόμοιων διεθνών συνθηκών.</div>
           </li>
 
           <li id="s1d_exceptions_and_limitations" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">例外与限制：</span> 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Εξαιρέσεις και Περιορισμοί</span> σημαίνει εξαιρέσεις εύλογης χρήσης (fair use/ fair dealing) ή/ και κάθε άλλη εξαίρεση ή περιορισμό Δικαιώματος Πνευματικής Ιδιοκτησίας και Συγγενικού ή Παρόμοιου Δικαιώματος που εφαρμόζονται στη χρήση που Εσείς κάνετε στο Αντικείμενο Αδειοδότησης.</div>
           </li>
 
           
@@ -958,43 +958,43 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1e_licensed_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">授权作品(Licensed Material)：</span> 指许可人通过本公共许可协议授权的文学、艺术作品(artistic or literary work)，数据库或其他作品(material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Αντικείμενο Αδειοδότησης</span> σημαίνει το καλλιτεχνικό ή έργο λόγου (φιλολογικό), βάση δεδομένων ή οποιοδήποτε άλλο υλικό το οποίο ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) διαθέτει με την παρούσα Δημόσια Άδεια.</div>
           </li>
 
           <li id="s1f_licensed_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">协议所授予的权利：</span> 指依据本公共许可协议的条款和条件所授予您的各项权利，限于适用于您对授权作品(Licensed Material)的使用且许可人有权许可的著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Αδειοδοτούμενα Δικαιώματα</span> σημαίνει οι εξουσίες που παραχωρούνται σε Εσάς σύμφωνα με τους όρους και τις προϋποθέσεις της παρούσας Δημόσιας Άδειας, οι οποίες περιορίζονται μόνο στο Δικαίωμα Πνευματικής Ιδιοκτησίας και τα Συγγενικά ή Παρόμοια Δικαιώματα, τα οποία αφορούν στη χρήση του Αντικειμένου Αδειοδότησης που Εσείς κάνετε και τα οποία παραχωρούνται από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα) ο/η οποίος/-α έχει σχετική εξουσία αδειοδότησης.</div>
           </li>
 
           <li id="s1g_licensor" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">许可人：</span> 指通过本公共许可协议进行授权的个人或组织。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα)</span> σημαίνει το ένα ή περισσότερα φυσικά ή νομικά πρόσωπα τα οποία παραχωρούν εξουσίες χρήσης υπό τους όρους της παρούσας Δημόσιας Άδειας.</div>
           </li>
 
           
 
           <li id="s1h_share" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">分享：</span> 指以需要“协议所授予的权利”许可的任何方法或程序向公众提供作品(material)，包括复制、公共展示、公开表演、发行、散布、传播、进口或提供作品(material)给公众以便其能在其选定的时间和地点接收作品(material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Διαμοιρασμός</span> σημαίνει την παροχή υλικού στο κοινό με οποιονδήποτε τρόπο ή μέθοδο που προϋποθέτει προηγούμενη άδεια σύμφωνη με τα Αδειοδοτούμενα Δικαιώματα, όπως η αναπαραγωγή, η παρουσίαση στο κοινό, η δημόσια εκτέλεση, η διανομή, η διάδοση, η εισαγωγή προς διανομή και η διάθεση του στο κοινό με τρόπο στον οποίο συμπεριλαμβάνεται η δυνατότητα του κοινού να έχει πρόσβαση σε αυτό από τόπο και σε χρόνο της επιλογής του.</div>
           </li>
 
           <li id="s1i_sui_generis_database_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">数据库特别权利：</span> 指除了著作权之外，衍生于1996年3月11日通过的《欧洲议会与欧盟理事会关于数据库法律保护的指令》(Directive 96/9/EC)及其修改或后续版本的权利，或其他国家或地区本质上与之等同的权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Δικαίωμα Ειδικής Φύσης Κατασκευαστή/-τριας Βάσης Δεδομένων</span> σημαίνει δικαιώματα διαφορετικά από τα δικαιώματα πνευματικής ιδιοκτησίας τα οποία προκύπτουν από την Οδηγία 96/9/ΕΚ της 11ης Μαρτίου 1996 του Ευρωπαϊκού Κοινοβουλίου και της Επιτροπής σχετικά με τη νομική προστασία των βάσεων δεδομένων, όπως έχει τροποποιηθεί ή/και ισχύει, καθώς επίσης και κάθε άλλο όμοιο στη φύση του δικαίωμα που υφίσταται οπουδήποτε στον κόσμο.</div>
           </li>
 
           <li id="s1j_you" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">您：</span> 指依据本公共许可协议行使其所获得授予之权利的个人或机构。 <strong>“您的”</strong> 有相应的含义。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Εσείς</span> σημαίνει το φυσικό ή νομικό πρόσωπο που ασκεί τα Αδειοδοτούμενα Δικαιώματα που σας παραχωρούνται βάσει της παρούσας Δημόσιας Άδειας. <strong>Δικό σας</strong> έχει αντίστοιχο νόημα.</div>
           </li>
       </ol>
     </div>
 
     <!-- Section 2. Scope. -->
     <div class="padding-bottom-larger">
-      <p id="s2" class="body-bigger padding-bottom-normal"><strong>第二条 授权范围</strong></p>
+      <p id="s2" class="body-bigger padding-bottom-normal"><strong>Άρθρο 2. Πεδίο εφαρμογής.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s2a" class="padding-left-normal"><strong>授权</strong>.
+        <li id="s2a" class="padding-left-normal"><strong>Χορήγηση άδειας.</strong>.
         <ol class="padding-left-normal padding-vertical-normal">
-          <li id="s2a1" class="padding-left-normal padding-bottom-normal">根据本公共许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：
+          <li id="s2a1" class="padding-left-normal padding-bottom-normal">Σύμφωνα με τους όρους και τις προϋποθέσεις της παρούσας Δημόσιας Άδειας, ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) αποφασίζει να Σας παρέχει εφεξής μια παγκόσμια, άνευ αμοιβής, χωρίς δικαίωμα υποαδειοδότησης, μη αποκλειστική, μη ανακλητή άδεια για άσκηση των Αδειοδοτούμενων Δικαιωμάτων στο Αντικείμενο της Αδειοδότησης ώστε:
             <ol type="A" class="padding-left-normal padding-vertical-normal">
             
-              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">复制和分享授权作品(Licensed Material)的全部或部分；以及</li>
+              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">να αναπαράγετε και να πραγματοποιείτε Διαμοιρασμό του Αντικειμένου της Αδειοδότησης, εν όλω ή εν μέρει, και</li>
             
 
             
@@ -1003,34 +1003,34 @@ a.skip-link:focus, a.skip-link:active {
 
             </ol>
           </li>
-          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>例外和限制</strong>为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</li>
-          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>期限</strong>本公共许可协议的期限规定于<a href="#s6a">第六条 a</a> 款。</li>
-          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>媒介和形式；允许的技术修改</strong>许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于<a href="#s2a4">第二条a款第(4)项</a> 进行的技术修改不构成演绎作品(Adapted Material)。</li>
+          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>Εξαιρέσεις και Περιορισμοί</strong>. Προς αποφυγή αμφιβολιών, στις περιπτώσεις όπου για τη δική Σας χρήση ισχύουν Εξαιρέσεις και Περιορισμοί, αυτή η Δημόσια Άδεια δεν εφαρμόζεται, και Έσείς δεν χρειάζεται να συμμορφώνεστε με τους όρους και τις προϋποθέσεις της.</li>
+          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>Διάρκεια</strong>. Η διάρκεια της παρούσας Δημόσιας Άδειας καθορίζεται στο Άρθρο <a href="#s6a">6(a)</a>.</li>
+          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>Μέσα και μορφότυπα∙ επιτρεπτές τεχνικές τροποποιήσεις</strong>. Ο/Η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) εξουσιοδοτεί Εσάς να ασκήσετε τα Αδειοδοτούμενα Δικαιώματα σε όλα τα μέσα και μορφότυπα, τα οποία είτε είναι τώρα γνωστά είτε θα δημιουργηθούν στο μέλλον, και να κάνετε τις τεχνικές τροποποιήσεις οι οποίες είναι απαραίτητες να γίνουν. Ο/Η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) παραιτείται από και/ή συμφωνεί να μην διεκδικήσει οποιοδήποτε δικαίωμα ή εξουσία να Σας απαγορεύσει να προβείτε σε τεχνικές τροποποιήσεις απαραίτητες για την άσκηση των εξουσιών που σας παραχωρούνται βάσει της άδειας, συμπεριλαμβανομένων των τεχνικών τροποποιήσεων που είναι απαραίτητες για την παράκαμψη Αποτελεσματικών Τεχνολογικών Μέτρων. Για τους σκοπούς της παρούσας Δημόσιας Άδειας, προβαίνοντας στις τροποποιήσεις που επιτρέπονται βάσει αυτού του άρθρου <a href="#s2a4">2(a)(4)</a> δεν παράγεται σε καμία περίπτωση Υλικό που Προέρχεται από Προσαρμογή, Τροποποίηση ή Διασκευή (Τροποποίηση).</li>
           <li id="s2a5" class="padding-left-normal padding-bottom-small">
-            <span style="text-decoration: underline;">后续接受者</span>.
+            <span style="text-decoration: underline;">Μεταγενέστεροι αποδέκτες</span>.
             <div class="para">
               <ol type="A" class="padding-left-normal padding-vertical-normal">
 
                   
 
-                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">来自许可人的要约——授权作品(Licensed Material)</span>本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。</li>
+                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">Προσφορά από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα) – Αντικείμενο Αδειοδότησης</span>. Κάθε αποδέκτης του Αντικειμένου Αδειοδότησης λαμβάνει αυτόματα μια προσφορά από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα) να ασκήσει τα Αδειοδοτούμενα Δικαιώματα σύμφωνα με τους όρους και τις προϋποθέσεις της παρούσας Δημόσιας Άδειας.</li>
 
                   
 
-                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">禁止下游限制</span>若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</li>
+                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Όχι περιορισμοί μεταγενέστερης χρήσης</span>. Δεν μπορείτε να προτείνετε ή να επιβάλετε πρόσθετους ή διαφορετικούς όρους ή προϋποθέσεις, ή να εφαρμόζετε Αποτελεσματικά Τεχνολογικά Μέτρα στο Αντικείμενο Αδειοδότησης εάν αυτό περιορίζει την άσκηση των Αδειοδοτούμενων Δικαιωμάτων σε οποιοδήποτε/οποιαδήποτε αποδέκτη του Αντικειμένου Αδειοδότησης.</li>
 
               </ol>
             </div>
           </li>
-          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">并非背书</span>. 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 <a href="#s3a1Ai">第三条a款第(1)项(A)目(i)</a>所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。</li>
+          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Ανεξαρτησία Μερών</span>. . Καμία διάταξη της παρούσας Δημόσιας Άδειας δεν αποτελεί ή μπορεί να ερμηνευτεί ως άδεια για να επιβεβαιώσει ή να υπονοήσει ότι Εσείς είστε ή ότι η Δική Σας χρήση του Αντικείμενου Αδειοδότησης συνδέεται με, ή χρηματοδοτείται, ή αναγνωρίζεται, ή της παραχωρείται επίσημο καθεστώς από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα) ή από άλλους που ορίζεται όπως λάβουν αναφορά δημιουργού, όπως προβλέπεται στο Άρθρο <a href="#s3a1Ai">3(a)(1)(A)(i)</a>.</li>
         </ol>
 
-        <li id="s2b" class="padding-left-normal"><strong>其他权利</strong>.
+        <li id="s2b" class="padding-left-normal"><strong>Άλλα δικαιώματα</strong>.
           <ol class="padding-left-normal padding-vertical-normal">
-            <li id="s2b1" class="padding-left-normal padding-bottom-normal">依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。</li>
-            <li id="s2b2" class="padding-left-normal padding-bottom-normal">本公共许可协议不适用于任何专利权或商标权许可。</li>
+            <li id="s2b1" class="padding-left-normal padding-bottom-normal">Ηθικά δικαιώματα, όπως το δικαίωμα της ακεραιότητας, δεν αδειοδοτούνται υπό την παρούσα Δημόσια Άδεια, καθώς ούτε και το δικαίωμα στη δημοσιότητα ("right of publicity"), στην ιδιωτικότητα ή άλλα παρόμοια δικαιώματα προσωπικότητας ∙ ωστόσο, στο μέτρο του δυνατού, ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) αποποιείται και/ή συμφωνεί να μην επικαλεστεί κανένα τέτοιο δικαίωμα, που κατέχει ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα), στο μέτρο που είναι απαραίτητο ώστε να επιτραπεί σε Εσάς να ασκήσετε τα Αδειοδοτούμενα Δικαιώματα που παραχωρούνται βάσει αυτής της άδειας, αλλά όχι με άλλον τρόπο.</li>
+            <li id="s2b2" class="padding-left-normal padding-bottom-normal">Δικαιώματα ευρεσιτεχνιών και σημάτων δεν αδειοδοτούνται υπό την παρούσα Δημόσια Άδεια.</li>
           
-            <li id="s2b3" class="padding-left-normal padding-bottom-small">在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下，许可人明确保留收取使用费的任何权利。</li>
+            <li id="s2b3" class="padding-left-normal padding-bottom-small">Στο μέτρο του δυνατού, ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) αποποιείται έναντί Σας κάθε δικαιώματος είσπραξης τελών από τα Αδειοδοτούμενα Δικαιώματα, είτε άμεσα είτε μέσω οργανισμού συλλογικής διαχείρισης βάσει οποιωνδήποτε διατάξεων αναγκαστικού ή ενδοτικού δικαίου ή βάσει υποχρεωτικού συστήματος αδειοδότησης. Σε όλες τις άλλες περιπτώσεις ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) ρητά διατηρεί το δικαίωμα είσπραξης των εν λόγω αμοιβών.</li>
           
           </ol>
         </li>
@@ -1039,32 +1039,32 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 3. License Conditions. -->
     <div class="padding-bottom-larger">
-      <p id="s3" class="body-bigger padding-bottom-normal"><strong>第三条 授权条件</strong></p>
+      <p id="s3" class="body-bigger padding-bottom-normal"><strong>Άρθρο 3. Όροι της Άδειας.</strong></p>
 
-      <p class="body-big padding-bottom-normal">您行使被许可的权利明确受以下条件限制：</p>
+      <p class="body-big padding-bottom-normal">Η άσκηση των εξουσιών που σας παραχωρούνται βάσει της άδειας υπόκειται ρητά στις εξής προϋποθέσεις.</p>
 
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>署名</strong>.</p>
+        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>Αναφορά</strong>.</p>
           <ol type="1" class="padding-left-normal padding-vertical-normal">
             <li id="s3a1" class="padding-left-normal padding-bottom-normal">
               <p>If You Share the Licensed Material (including in modified form), You must:</p>
               <ol type="A" class="padding-left-normal padding-vertical-normal">
-                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：
+                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">να διατηρήσετε, εφόσον παρέχονται από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα) με το Αντικείμενο Αδειοδότησης τα εξής:
                     <ol type="i" class="padding-left-normal padding-vertical-normal">
-                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</li>
-                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">著作权声明；</li>
-                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">有关本公共许可协议的声明；</li>
-                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">有关免责的声明；</li>
-                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；</li>
+                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">αναγνώριση του/της/των δημιουργού/ δημιουργών του Αντικειμένου Αδειοδότησης και οποιωνδήποτε άλλων προσώπων που έχει οριστεί ότι δικαιούνται αναγνώρισης με οποιονδήποτε εύλογο τρόπο, ο οποίος απαιτείται από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα) (συμπεριλαμβανομένου του ψευδωνύμου, αν αυτό έχει οριστεί)</li>
+                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">γνωστοποίηση των Δικαιωμάτων Πνευματικής Ιδιοκτησίας</li>
+                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">γνωστοποίηση που αναφέρεται στην παρούσα Δημόσια Άδεια</li>
+                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">γνωστοποίηση που αναφέρεται στην αποποίηση εγγυήσεων</li>
+                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">κανονιστικό Αναγνωριστικό Πόρου (URI) ή υπερσύνδεσμο στο Αντικείμενο Αδειοδότησης, στο βαθμό που αυτό είναι εύλογα δυνατό.</li>
                     </ol>
                   </li>
-                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及</li>
-                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。</li>
+                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">να αναφέρετε αν Εσείς τροποποιήσατε το Αντικείμενο Αδειοδότησης και να διατηρείτε αναφορά για οποιαδήποτε προηγούμενη τροποποίηση και</li>
+                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">να αναφέρετε ότι το Αντικείμενο Αδειοδότησης αδειοδοτείται υπό τους όρους της παρούσας Δημόσιας Άδειας και να συμπεριλαμβάνετε το κείμενο ή το Κανονιστικό Αναγνωριστικό Πόρου (URI) ή τον υπερσύνδεσμο, της παρούσας Δημόσιας Άδειας.</li>
               </ol>
             </li>
-            <li id="s3a2" class="padding-left-normal padding-bottom-normal">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足<a href="#s3a1">第三条a款第(1)项</a>的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</li>
+            <li id="s3a2" class="padding-left-normal padding-bottom-normal">Μπορείτε να ικανοποιήσετε τις προϋποθέσεις του Άρθρου <a href="#s3a1">3(a)(1)</a> με οποιονδήποτε εύλογο τρόπο βάσει του μέσου, του τρόπου και του πλαισίου με τα οποία Εσείς πραγματοποιήσατε Διαμοιρασμό του Αντικειμένου Αδειοδότησης. Για παράδειγμα, μπορεί να είναι εύλογο να ικανοποιήσετε τις προϋποθέσεις παρέχοντας ένα Κανονιστικό Αναγνωριστικό Πόρου (URI) ή έναν υπερσύνδεσμο σε μια πηγή που περιλαμβάνει τις απαιτούμενες πληροφορίες.</li>
             
-              <li id="s3a3" class="padding-left-normal padding-bottom-small">如果许可人要求，您必须在合理可行的范围内移除<a href="#s3a1A">第三条a款第(1)项(A)目</a> 所要求的任何信息。</li>
+              <li id="s3a3" class="padding-left-normal padding-bottom-small">Αν ζητηθεί από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα), είστε υποχρεωμένοι/-ες να αφαιρέσετε οποιαδήποτε πληροφορία που απαιτείται από το Άρθρο <a href="#s3a1A">3(a)(1)(A)</a> στο βαθμό που αυτό είναι δυνατόν.</li>
               
             
           </ol>
@@ -1076,8 +1076,8 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 4. Sui Generis Database Rights. -->
     <div class="padding-bottom-larger">
-      <p id="s4" class="body-bigger padding-bottom-normal"><strong>第四条  数据库特别权利</strong></p>
-      <p class="body-big padding-bottom-normal">当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：</p>
+      <p id="s4" class="body-bigger padding-bottom-normal"><strong>Αρθρο 4. Δικαιώματα Ειδικής Φύσης Κατασκευαστή/-τριας Βάσης Δεδομένων.</strong></p>
+      <p class="body-big padding-bottom-normal">Στις περιπτώσεις όπου τα Αδειοδοτούμενα Δικαιώματα περιλαμβάνουν Δικαιώματα Ειδικής Φύσης Κατασκευαστή/-τριας Βάσης Δεδομένων τα οποία εφαρμόζονται στη χρήση που Εσείς πραγματοποιείτε στο Αντικείμενο της Αδειοδότησης:</p>
       <ol type="a" class="body-big padding-left-normal">
           <li id="s4a" class="padding-left-normal padding-bottom-normal">
           
@@ -1086,62 +1086,62 @@ a.skip-link:focus, a.skip-link:active {
           </li>
           <li id="s4b" class="padding-left-normal padding-bottom-normal">
             
-              如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)；
+              εάν Εσείς περιλαμβάνετε όλο ή το ουσιώδες μέρος των περιεχομένων της βάσης δεδομένων σε μία βάση δεδομένων στην οποία Εσείς έχετε Δικαιώματα Ειδικής Φύσης Κατασκευαστή/-τριας Βάσης Δεδομένων, τότε η βάση δεδομένων στην οποία Εσείς έχετε Δικαιώματα Ειδικής Φύσης Κατασκευαστή/-τριας Βάσης Δεδομένων (αλλά όχι τα μεμονωμένα στοιχεία του περιεχομένου της) είναι Υλικό που Προέρχεται από Προσαρμογή, Τροποποίηση ή Διασκευή (Τροποποίηση), και
             
           </li>
-          <li id="s4c" class="padding-left-normal padding-bottom-small">如果您分享全部或大部分该数据库的资料，您必须遵守 <a href="#s3a">第三条a款</a> 规定的条件。</li>
+          <li id="s4c" class="padding-left-normal padding-bottom-small">πρέπει να συμμορφώνεστε με τους όρους του Άρθρου <a href="#s3a">3(a)</a> εάν Εσείς πραγματοποιείτε Διαμοιρασμό του συνόλου ή ουσιώδους μέρους των περιεχομένων της βάσης δεδομένων.</li>
       </ol>
 
-      <span class="body-big">为避免疑义，当协议所授予的权利包含其他著作权与类似权利时， <a href="#s4">第四条</a> 补充且不取代本公共许可协议所规定的您的义务。</span>
+      <span class="body-big">Προς άρση κάθε αμφιβολίας, το εν λόγω Άρθρο <a href="#s4">4</a> συμπληρώνει και δεν αντικαθιστά τις υποχρεώσεις Σας δυνάμει της παρούσας Δημόσιας Άδειας όπου τα Αδειοδοτούμενα Δικαιώματα περιλαμβάνουν άλλα Δικαιώματα Πνευματικής Ιδιοκτησίας και Συγγενικά ή Παρόμοια Δικαιώματα.</span>
     </div>
 
     <!-- Section 5. Disclaimer -->
     <div class="padding-bottom-larger">
-      <p id="s5" class="body-bigger padding-bottom-normal"><strong>第五条  免责声明及责任限制条款</strong></p>
+      <p id="s5" class="body-bigger padding-bottom-normal"><strong>Αρθρο 5. Αποποίηση Εγγυήσεων και Περιορισμός Ευθύνης.</strong></p>
       <ol style="font-weight: bold;" type="a" class="body-big padding-left-normal">
-        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。</strong></li>
-        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>在最大可能范围内， 对于任何因本公共许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。</strong></li>
+        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>Εκτός εάν άλλως ξεχωριστά αναλάβει ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα), στο μέτρο του δυνατού, ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) προσφέρει το Αντικείμενο Αδειοδότησης ως έχει και όπως διατίθεται, και δεν προβαίνει σε δηλώσεις ή εγγυήσεις οποιουδήποτε είδους σχετικά με το Αντικείμενο Αδειοδότησης, είτε ρητές, είτε σιωπηρές, εκ του νόμου, ή άλλες. Αυτό περιλαμβάνει, χωρίς περιορισμό, εγγυήσεις τίτλου, εμπορευσιμότητας, καταλληλόλητας για συγκεκριμένο σκοπό, μη-παράβασης, απουσία λανθανόντων ή άλλων ελαττωμάτων, ακρίβειας, ή σχετικά με την παρουσία ή απουσία σφαλμάτων, είτε αγνώστων είτε εντοπίσιμων. Όπου αποποιήσεις των εγγυήσεων δεν επιτρέπονται εν όλω ή εν μέρει, αυτή η δήλωση αποποίησης μπορεί να μην ισχύει για Εσάς.</strong></li>
+        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>Στο μέτρο που είναι δυνατό, σε καμία περίπτωση δεν θα ευθύνεται ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) έναντί Σας δυνάμει οποιασδήποτε νομικής αρχής ή βάσης (συμπεριλαμβανομένης, χωρίς περιορισμό, και της αμέλειας) ή άλλως για τυχόν άμεσες, ειδικές, έμμεσες, τυχαίες, επακόλουθες, τιμωρητικές, παραδειγματικές ή άλλες απώλειες, έξοδα, δαπάνες ή ζημίες που προκύπτουν από την παρούσα Δημόσια Άδεια ή τη χρήση του Αντικειμένου Αδειοδότησης, ακόμη και αν ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) έχει ενημερωθεί για την πιθανότητα τέτοιων απωλειών, εξόδων, δαπανών ή ζημιών. Σε περίπτωση που ο περιορισμός ευθύνης δεν επιτρέπεται εν όλω ή εν μέρει, ο παρών περιορισμός δεν δύναται να ισχύει για Εσάς.</strong></li>
       </ol>
       <ol start="3" type="a" class="body-big padding-left-normal">
-        <li id="s5c" class="padding-left-normal padding-bottom-small">前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。</li>
+        <li id="s5c" class="padding-left-normal padding-bottom-small">Η δήλωση αποποίησης εγγυήσεων και περιορισμού της ευθύνης που προβλέπεται ως ανωτέρω θα ερμηνεύεται κατά τρόπο που, στο μέτρο του δυνατού, προσεγγίζει περισσότερο την απόλυτη αποποίηση και απαλλαγή από κάθε ευθύνη.</li>
       </ol>
     </div>
 
     <!-- Section 6. Term and Termination -->
     <div class="padding-bottom-larger">
-      <p id="s6" class="body-bigger padding-bottom-normal"><strong>第六条 期限与终止</strong></p>
+      <p id="s6" class="body-bigger padding-bottom-normal"><strong>Άρθρο 6. Διάρκεια και Τερματισμός.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s6a" class="padding-left-normal padding-bottom-normal">本公共许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。</li>
+        <li id="s6a" class="padding-left-normal padding-bottom-normal">Η παρούσα Δημόσια Άδεια έχει διάρκεια για όλο το χρόνο ισχύος των Δικαιωμάτων Πνευματικής Ιδιοκτησίας και Συγγενικών ή Παρόμοιων Δικαιωμάτων που παραχωρούνται εδώ. Ωστόσο, εάν Εσείς δεν συμμορφωθείτε με την παρούσα Δημόσια Άδεια, τότε τα δικαιώματά Σας δυνάμει της παρούσας Δημόσιας Άδειας τερματίζονται αυτόματα.</li>
         <li id="s6b" class="padding-left-normal padding-bottom-normal">
-          <p class="body-big padding-bottom-normal">当您使用本授权作品(Licensed Material)的权利根据第六条a款终止时，您的权利在下述情况下恢复：</p>
+          <p class="body-big padding-bottom-normal">Όπου το δικαίωμά Σας να χρησιμοποιείτε το Αντικείμενο της Αδειοδότησης έχει τερματιστεί δυνάμει του Άρθρου 6(a), αυτό αποκαθίσταται:</p>
           <ol class="body-big padding-left-normal">
-            <li id="s6b1" class="padding-left-normal padding-bottom-normal">自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</li>
-            <li id="s6b2" class="padding-left-normal padding-bottom-small">根据许可人明示恢复权利的意思表达。</li>
+            <li id="s6b1" class="padding-left-normal padding-bottom-normal">αυτόματα κατά την ημερομηνία όπου η παράβαση έχει θεραπευτεί, υπό την προϋπόθεση ότι έχει θεραπευτεί μέσα σε 30 μέρες από τότε που λάβατε γνώση για την παράβαση ή</li>
+            <li id="s6b2" class="padding-left-normal padding-bottom-small">κατόπιν ρητής αποκατάστασης από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα).</li>
           </ol>
-          为避免疑义，本公共许可协议<a href="#s6b">第六条b款</a> 不影响许可人就您违反本公共许可协议的行为寻求法律救济。
+          Προς άρση κάθε αμφιβολίας, το εν λόγω Άρθρο <a href="#s6b">6(b)</a> δεν επηρεάζει κανένα δικαίωμα του/της Χορηγούντος/-ούσαςς την Άδεια (Αδειοδότη/-ούσας) να αξιώσει θεραπείες λόγω παραβιάσεών Σας της παρούσας Δημόσιας Άδειας.
         </li>
-        <li id="s6c" class="padding-left-normal padding-bottom-normal">为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</li>
-        <li id="s6d" class="padding-left-normal padding-bottom-small">本协议<a href="#s1">第一</a>、<a href="#s5">五</a>、<a href="#s6">六</a>、<a href="#s7">七</a>及第<a href="#s8">八</a>条，不因本公共许可协议终止而失效。</li>
+        <li id="s6c" class="padding-left-normal padding-bottom-normal">Προς άρση κάθε αμφιβολίας, ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) μπορεί επίσης να παρέχει το Αντικείμενο της Αδειοδότησης δυνάμει ξεχωριστών όρων ή προϋποθέσεων ή να σταματήσει τη διανομή του Αντικειμένου της Αδειοδότησης σε οποιοδήποτε χρόνο: ωστόσο, αυτή του/της η ενέργεια δεν θα τερματίσει την παρούσα Δημόσια Άδεια.</li>
+        <li id="s6d" class="padding-left-normal padding-bottom-small">Η ισχύς των οριζόμενων στα Άρθρα <a href="#s1">1</a>, <a href="#s5">5</a>, <a href="#s6">6</a>, <a href="#s7">7</a> και <a href="#s8">8</a> διατηρείται, παρά τον τερματισμό της παρούσας Δημόσιας Άδειας.</li>
       </ol>
     </div>
 
     <!-- Section 7. Other terms and conditions -->
     <div class="padding-bottom-larger">
-      <p id="s7" class="body-bigger padding-bottom-normal"><strong>第七条 其他条款和条件</strong></p>
+      <p id="s7" class="body-bigger padding-bottom-normal"><strong>Άρθρο 7. Άλλοι Όροι και Προϋποθέσεις.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s7a" class="padding-left-normal padding-bottom-normal">除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。</li>
-        <li id="s7b" class="padding-left-normal padding-bottom-small">本公共许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本公共许可协议的条款及条件。</li>
+        <li id="s7a" class="padding-left-normal padding-bottom-normal">Ο/Η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) δεν δεσμεύεται από τυχόν πρόσθετους ή διαφορετικούς όρους ή προϋποθέσεις που ανακοινώθηκαν από Εσάς, εκτός εάν αυτό έχει συμφωνηθεί ρητά.</li>
+        <li id="s7b" class="padding-left-normal padding-bottom-small">Οποιεσδήποτε διευθετήσεις, μνημόνια ή συμφωνίες σχετικά με το Αντικείμενο Αδειοδότησης που δεν αναφέρονται στην παρούσα Άδεια είναι ξεχωριστές και ανεξάρτητες από τους όρους και τις προϋποθέσεις της παρούσας Δημόσιας Άδειας.</li>
       </ol>
     </div>
 
     <!-- Section 8. Interpretation -->
     <div class="padding-bottom-normal">
-      <p id="s8" class="body-bigger padding-bottom-normal"><strong>第八条 解释</strong></p>
+      <p id="s8" class="body-bigger padding-bottom-normal"><strong>Άρθρο 8. Ερμηνεία.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s8a" class="padding-left-normal padding-bottom-normal">为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本公共许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。</li>
-        <li id="s8b" class="padding-left-normal padding-bottom-normal">在最大可能范围内，如果本公共许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本公共许可协议中排除适用，不影响其余条款的效力。</li>
-        <li id="s8c" class="padding-left-normal padding-bottom-normal">除非许可人明示同意，本公共许可协议的任何条款或条件均不得放弃。</li>
-        <li id="s8d" class="padding-left-normal">本公共许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。</li>
+        <li id="s8a" class="padding-left-normal padding-bottom-normal">Για την αποφυγή αμφιβολιών, η παρούσα Δημόσια Άδεια δεν πρέπει να ερμηνευθεί ως να μειώνει, να περιορίζει, να απαγορεύει ή να επιβάλλει προϋποθέσεις για οποιαδήποτε χρήση του Αντικειμένου Αδειοδότησης που θα μπορούσε νομίμως να γίνει χωρίς άδεια, βάσει της παρούσας Δημόσιας Άδειας.</li>
+        <li id="s8b" class="padding-left-normal padding-bottom-normal">Στο μέτρο του δυνατού, αν οποιαδήποτε διάταξη της παρούσας Δημόσιας Άδειας κριθεί μη εφαρμόσιμη, πρέπει να αναθεωρηθεί αυτόματα στο ελάχιστο αναγκαίο μέτρο ώστε να καταστεί εκτελεστή. Αν η διάταξη αυτή δεν μπορεί να αναθεωρηθεί, πρέπει να αποκοπεί από αυτή τη Δημόσια Άδεια χωρίς να επηρεάζεται η εκτελεστότητα των υπόλοιπων όρων και προϋποθέσεων.</li>
+        <li id="s8c" class="padding-left-normal padding-bottom-normal">Κανένας όρος ή προϋπόθεση της παρούσας Δημόσιας Άδειας, δεν θα γίνει αντικείμενο παραίτησης και καμία παράλειψη συμμόρφωσης δε θα θεραπεύεται εκτός εάν συμφωνηθεί ρητώς από το/τη Χορηγούντα/-ούσα την Άδεια (Αδειοδότη/-ούσα).</li>
+        <li id="s8d" class="padding-left-normal">Καμία πρόβλεψη της παρούσας Δημόσιας Άδειας δεν αποτελεί ή δύναται να ερμηνευθεί ως περιορισμός επί, ή παραίτηση από, όλα τα προνόμια και τις ασυλίες που απολαμβάνει ο/η Χορηγών/-ούσα την Άδεια (Αδειοδότης/-ούσα) ή Εσείς συμπεριλαμβανομένων αυτών που προκύπτουν από νομικές διαδικασίες οποιασδήποτε δικαιοδοσίας ή αρχής.</li>
       </ol>
     </div>
   </div>

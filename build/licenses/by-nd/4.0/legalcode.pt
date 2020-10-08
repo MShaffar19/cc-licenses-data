@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="zh-hans" class="no-js" dir="ltr">
+<html lang="pt" class="no-js" dir="ltr">
 <head about=" ">
     <meta charset="utf-8">
     <title></title>
@@ -82,7 +82,7 @@
           
 
 
-<a class="skip-link" href="#content" >跳转至主内容</a>
+<a class="skip-link" href="#content" >Saltar para o conteúdo</a>
 
 <style>
   a.skip-link {
@@ -117,10 +117,10 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="/">首页</a></li>
+                <li><a href="/">Início</a></li>
                 <li><a href="/licenses/">Licenses</a></li>
                 
-  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.zh-Hans" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
+  <li class="is-active"><a href="/licenses/by-nd/4.0/legalcode.pt" aria-current="page displayed">Legal Code for CC BY-ND 4.0</a></li>
 
             </ul>
           </nav>
@@ -265,7 +265,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-pt"
-            
+            selected
             value="pt"
             data-link="/licenses/by-nd/4.0/legalcode.pt"
           >
@@ -373,7 +373,7 @@ a.skip-link:focus, a.skip-link:active {
         
           <option
             id="option-zh-Hans"
-            selected
+            
             value="zh-Hans"
             data-link="/licenses/by-nd/4.0/legalcode.zh-Hans"
           >
@@ -431,7 +431,7 @@ a.skip-link:focus, a.skip-link:active {
       
     </div>
     <div class="column">
-      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.zh-Hans">See the deed</button>
+      <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nd/4.0/deed.pt">See the deed</button>
     </div>
   </div>
 </div>
@@ -445,7 +445,7 @@ a.skip-link:focus, a.skip-link:active {
     <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
 
 
-署名—禁止演绎 4.0 协议国际版
+Atribuição-SemDerivações 4.0 Internacional
 
 </a>
     <ul class="menu-list" >
@@ -454,35 +454,35 @@ a.skip-link:focus, a.skip-link:active {
           
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s1">第一条  定义</a>
+            <a class="is-block column" href="#s1">Cláusula 1 – Definições.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s2">第二条 授权范围</a>
+            <a class="is-block column" href="#s2">Cláusula 2 – Âmbito.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s3">第三条 授权条件</a>
+            <a class="is-block column" href="#s3">Cláusula 3 – Condições da Licença.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s4">第四条  数据库特别权利</a>
+            <a class="is-block column" href="#s4">Cláusula 4 – Direitos Sui Generis sobre Bases de Dados.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s5">第五条  免责声明及责任限制条款</a>
+            <a class="is-block column" href="#s5">Cláusula 5 – Exclusão de Garantias e Limitação de Responsabilidade.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s6">第六条 期限与终止</a>
+            <a class=" is-block column" href="#s6">Cláusula 6 – Termo e Cessação.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class="is-block column" href="#s7">第七条 其他条款和条件</a>
+            <a class="is-block column" href="#s7">Cláusula 7 – Outros Termos e Condições.</a>
           </li>
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
-            <a class=" is-block column" href="#s8">第八条 解释</a>
+            <a class=" is-block column" href="#s8">Cláusula 8 – Interpretação.</a>
           </li>
         </ul>
       </li>
@@ -565,7 +565,7 @@ a.skip-link:focus, a.skip-link:active {
   <h1 class="b-header">
 
 
-署名—禁止演绎 4.0 协议国际版
+Atribuição-SemDerivações 4.0 Internacional
 
 </h1>
 </div>
@@ -640,7 +640,7 @@ a.skip-link:focus, a.skip-link:active {
   <h2 class="b-header has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Atribuição-SemDerivações 4.0 Internacional
 
 </h2>
 </div>
@@ -900,39 +900,39 @@ a.skip-link:focus, a.skip-link:active {
 <h2 class="margin-bottom-larger b-header is-hidden-touch">
 
 
-署名—禁止演绎 4.0 协议国际版
+Atribuição-SemDerivações 4.0 Internacional
 
 </h2>
 <h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
 
 
-署名—禁止演绎 4.0 协议国际版
+Atribuição-SemDerivações 4.0 Internacional
 
 </h3>
 
   <div>
     <h3 class="padding-bottom-normal b-header">
       
-        知识共享 (Creative Commons) 署名—禁止演绎 4.0公共许可协议国际版
+        Licença Pública Creative Commons Atribuição-SemDerivações 4.0 Internacional
       
     </h3>
     <p class="body-big padding-bottom-larger">
     
-    通过行使本协议所授予的权利（定义如下），您接受并同意受到知识共享(Creative Commons)署名—禁止演绎4.0国际公共许可协议（以下简称“本公共许可协议”）的约束。从合同解释的角度来看，您获得授权的对价是接受本协议的条款，许可人授予您这些权利的对价是可以通过采用本协议条款发布授权作品(material)而获得利益。
+    Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e concorda estar sujeito aos termos e condições desta Licença Pública Creative Commons Atribuição-SemDerivações 4.0 Internacional ("Licença Pública"). Na medida em que esta Licença Pública possa ser interpretada como um contrato, Você recebe os Direitos Licenciados em contrapartida pela Sua aceitação destes termos e condições, e o Licenciante concede-Lhe tais direitos em contrapartida pelos benefícios que o Licenciante recebe por disponibilizar o Material Licenciado sob estes termos e condições.
     
     </p>
     
 
     <!-- Section 1. Definitions. -->
     <div class="padding-bottom-larger">
-      <p id="s1" class="body-bigger padding-bottom-normal"><strong>第一条  定义</strong></p>
+      <p id="s1" class="body-bigger padding-bottom-normal"><strong>Cláusula 1 – Definições.</strong></p>
       
       <ol type="a" class="body-big padding-left-normal">
 
           
 
           <li id="s1a_adapted_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">演绎作品(Adapted Material)：</span> 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Material Adaptado</span> significa material sujeito a Direito de Autor e Direitos Similares que é derivado de ou baseado no Material Licenciado e no qual o Material Licenciado é traduzido, alterado, arranjado, transformado, ou de outra forma modificado de uma maneira que requeira permissão com base no Direito de Autor e Direitos Similares detidos pelo Licenciante. Para os fins desta Licença Pública, quando o Material Licenciado seja uma obra musical, performance, ou fonograma, é sempre produzido Material Adaptado quando o Material Licenciado é sincronizado em relação temporal com uma imagem em movimento.</div>
           </li>
 
           
@@ -942,15 +942,15 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1b_copyright_and_similar_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">著作权与类似权利：</span> 指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的， <a href="#s2b">第二条b款第(1)项与第(2)项</a> 所列权利不属于著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Direito de Autor e Direitos Similares</span> significa direito de autor e/ou direitos similares estreitamente relacionados com o direito de autor, incluindo, mas não se limitando a, direitos de execução, radiodifusão, fixação de sons, e Direitos Sui Generis sobre Bases de Dados, independentemente de como sejam classificados ou categorizados. Para os fins desta Licença Pública, os direitos especificados na Cláusula <a href="#s2b">2(b)(1)-(2)</a> não são Direito de Autor e Direitos Similares.</div>
           </li>
 
           <li id="s1c_effective_technological_measures" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">有效的技术措施：</span> 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Medidas Eficazes de Caráter Tecnológico</span> significam aquelas medidas que, na ausência de direito para tanto, não podem ser contornadas em jurisdições cumprindo obrigações sob o Artigo 11 do Tratado da OMPI de Direito de Autor adotado em 20 de dezembro de 1996, e/ou acordos internacionais similares.</div>
           </li>
 
           <li id="s1d_exceptions_and_limitations" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">例外与限制：</span> 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Exceções e Limitações</span> significam utilização justa (“fair use”), tratamento justo (“fair dealing”), e/ou qualquer outra exceção ou limitação ao Direito de Autor e Direitos Similares que se aplique à Sua utilização do Material Licenciado.</div>
           </li>
 
           
@@ -958,43 +958,43 @@ a.skip-link:focus, a.skip-link:active {
           
 
           <li id="s1e_licensed_material" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">授权作品(Licensed Material)：</span> 指许可人通过本公共许可协议授权的文学、艺术作品(artistic or literary work)，数据库或其他作品(material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Material Licenciado</span> significa o trabalho artístico ou literário, base de dados, ou outro material ao qual o Licenciante aplicou esta Licença Pública.</div>
           </li>
 
           <li id="s1f_licensed_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">协议所授予的权利：</span> 指依据本公共许可协议的条款和条件所授予您的各项权利，限于适用于您对授权作品(Licensed Material)的使用且许可人有权许可的著作权与类似权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Direitos Licenciados</span> significam os direitos concedidos a Você sujeitos aos termos e condições desta Licença Pública, que são limitados a todos os Direitos de Autor e Direitos Similares que se apliquem à Sua utilização do Material Licenciado e que o Licenciante tem o direito de licenciar.</div>
           </li>
 
           <li id="s1g_licensor" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">许可人：</span> 指通过本公共许可协议进行授权的个人或组织。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Licenciante</span> significa o(s) indivíduo(s) ou entidade(s) concedendo direitos sob esta Licença Pública.</div>
           </li>
 
           
 
           <li id="s1h_share" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">分享：</span> 指以需要“协议所授予的权利”许可的任何方法或程序向公众提供作品(material)，包括复制、公共展示、公开表演、发行、散布、传播、进口或提供作品(material)给公众以便其能在其选定的时间和地点接收作品(material)。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Compartilhar</span> significa fornecer material ao público por qualquer meio ou processo que requeira permissão sob os Direitos Licenciados, como reprodução, exibição pública, execução pública, distribuição, disseminação, comunicação ou importação, e disponibilizar material ao público, incluindo por vias pelas quais os membros do público possam ter acesso ao material a partir de um local e no momento individualmente escolhidos por eles.</div>
           </li>
 
           <li id="s1i_sui_generis_database_rights" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">数据库特别权利：</span> 指除了著作权之外，衍生于1996年3月11日通过的《欧洲议会与欧盟理事会关于数据库法律保护的指令》(Directive 96/9/EC)及其修改或后续版本的权利，或其他国家或地区本质上与之等同的权利。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Direitos Sui Generis sobre Bases de Dados</span> significam outros direitos, que não o direito de autor e direitos conexos, resultantes da Diretiva 96/9/EC do Parlamento Europeu e do Conselho de 11 de Março de 1996 sobre a proteção legal de bases de dados, conforme emendada e/ou sucedida, bem como outros direitos essencialmente equivalentes em qualquer lugar do mundo.</div>
           </li>
 
           <li id="s1j_you" class="padding-bottom-normal">
-            <div class="padding-left-normal"><span style="text-decoration: underline;">您：</span> 指依据本公共许可协议行使其所获得授予之权利的个人或机构。 <strong>“您的”</strong> 有相应的含义。</div>
+            <div class="padding-left-normal"><span style="text-decoration: underline;">Você</span> significa o indivíduo ou entidade que exerce os Direitos Licenciados sob esta Licença Pública. <strong>Lhe</strong>, <strong>Seu</strong>, <strong>Sua</strong> e <strong>Suas</strong> têm um significado correspondente.</div>
           </li>
       </ol>
     </div>
 
     <!-- Section 2. Scope. -->
     <div class="padding-bottom-larger">
-      <p id="s2" class="body-bigger padding-bottom-normal"><strong>第二条 授权范围</strong></p>
+      <p id="s2" class="body-bigger padding-bottom-normal"><strong>Cláusula 2 – Âmbito.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s2a" class="padding-left-normal"><strong>授权</strong>.
+        <li id="s2a" class="padding-left-normal"><strong>Concessão da licença</strong>.
         <ol class="padding-left-normal padding-vertical-normal">
-          <li id="s2a1" class="padding-left-normal padding-bottom-normal">根据本公共许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：
+          <li id="s2a1" class="padding-left-normal padding-bottom-normal">De acordo com os termos e condições desta Licença Pública, o Licenciante concede-Lhe, pelo presente, uma licença mundial, isenta de royalties, não sublicenciável, não exclusiva, e irrevogável para exercer os Direitos Licenciados sobre o Material Licenciado para:
             <ol type="A" class="padding-left-normal padding-vertical-normal">
             
-              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">复制和分享授权作品(Licensed Material)的全部或部分；以及</li>
+              <li id="s2a1A" class="padding-left-normal padding-bottom-normal">reproduzir e Compartilhar o Material Licenciado, no todo ou em parte; e</li>
             
 
             
@@ -1003,34 +1003,34 @@ a.skip-link:focus, a.skip-link:active {
 
             </ol>
           </li>
-          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>例外和限制</strong>为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</li>
-          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>期限</strong>本公共许可协议的期限规定于<a href="#s6a">第六条 a</a> 款。</li>
-          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>媒介和形式；允许的技术修改</strong>许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于<a href="#s2a4">第二条a款第(4)项</a> 进行的技术修改不构成演绎作品(Adapted Material)。</li>
+          <li id="s2a2" class="padding-left-normal padding-bottom-normal"><strong>Exceções e Limitações</strong>. Para evitar dúvidas, quando Exceções e Limitações sejam aplicáveis à Sua utilização, esta Licença Pública não se aplica, e Você não precisa de cumprir com os seus termos e condições.</li>
+          <li id="s2a3" class="padding-left-normal padding-bottom-normal"><strong>Termo</strong>. O termo desta Licença Pública está especificado na Cláusula <a href="#s6a">6(a)</a>.</li>
+          <li id="s2a4" class="padding-left-normal padding-bottom-normal"><strong>Meios/suportes e formatos; modificações técnicas permitidas</strong>. O Licenciante autoriza Você a exercer os Direitos Licenciados em todos os meios/suportes e formatos conhecidos agora ou criados posteriormente, e a fazer as modificações técnicas necessárias para tanto. O Licenciante cede e/ou concorda em não reivindicar nenhum direito que proíba Você de fazer modificações técnicas necessárias ao exercício dos Direitos Licenciados, incluindo modificações técnicas necessárias para contornar Medidas Eficazes de Caráter Tecnológico. Para os fins desta Licença Pública, fazer simplesmente modificações autorizadas por esta Cláusula <a href="#s2a4">2(a)(4)</a> nunca produz Material Adaptado.</li>
           <li id="s2a5" class="padding-left-normal padding-bottom-small">
-            <span style="text-decoration: underline;">后续接受者</span>.
+            <span style="text-decoration: underline;">Receptores subsequentes</span>.
             <div class="para">
               <ol type="A" class="padding-left-normal padding-vertical-normal">
 
                   
 
-                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">来自许可人的要约——授权作品(Licensed Material)</span>本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。</li>
+                  <li id="s2a5A_offer" class="padding-left-normal padding-bottom-normal"><span style="text-decoration: underline;">Oferta pelo Licenciante – Material Licenciado</span>. Cada receptor do Material Licenciado recebe automaticamente uma oferta do Licenciante para exercer os Direitos Licenciados sob os termos e condições desta Licença Pública.</li>
 
                   
 
-                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">禁止下游限制</span>若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</li>
+                  <li id="s2a5B_no_restrictions" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Sem restrições subsequentes</span>. Você não pode propor ou impor quaisquer termos ou condições, adicionais ou diferentes, ou aplicar quaisquer Medidas Eficazes de Caráter Tecnológico, sobre o Material Licenciado, se tal restringir o exercício dos Direitos Licenciados por qualquer receptor do Material Licenciado.</li>
 
               </ol>
             </div>
           </li>
-          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">并非背书</span>. 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 <a href="#s3a1Ai">第三条a款第(1)项(A)目(i)</a>所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。</li>
+          <li id="s2a6" class="padding-left-normal padding-bottom-small"><span style="text-decoration: underline;">Sem endosso</span>. . Nada nesta Licença Pública constitui ou pode ser entendido como uma permissão para afirmar ou sugerir que Você, ou que a Sua utilização do Material Licenciado, é conectado ao, patrocinado ou endossado pelo, ou tem status oficial concedido pelo, Licenciante ou terceiros designados para receber atribuição como previsto na Cláusula <a href="#s3a1Ai">3(a)(1)(A)(i)</a>.</li>
         </ol>
 
-        <li id="s2b" class="padding-left-normal"><strong>其他权利</strong>.
+        <li id="s2b" class="padding-left-normal"><strong>Outros direitos</strong>.
           <ol class="padding-left-normal padding-vertical-normal">
-            <li id="s2b1" class="padding-left-normal padding-bottom-normal">依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。</li>
-            <li id="s2b2" class="padding-left-normal padding-bottom-normal">本公共许可协议不适用于任何专利权或商标权许可。</li>
+            <li id="s2b1" class="padding-left-normal padding-bottom-normal">Direitos morais, como o direito à integridade, não são licenciados por esta Licença Pública, nem o são os direitos de imagem, privacidade, e/ou outros direitos de personalidade similares; contudo, na medida do possível, o Licenciante renuncia e/ou concorda não exercer quaisquer desses direitos detidos pelo Licenciante, na medida necessária para permitir que Você exerça os Direitos Licenciados, mas não de outra forma.</li>
+            <li id="s2b2" class="padding-left-normal padding-bottom-normal">Direitos de patente e marcas não se encontram licenciados sob esta Licença Pública.</li>
           
-            <li id="s2b3" class="padding-left-normal padding-bottom-small">在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下，许可人明确保留收取使用费的任何权利。</li>
+            <li id="s2b3" class="padding-left-normal padding-bottom-small">Na medida do possível, o Licenciante renuncia a qualquer direito de cobrar-Lhe royalties pelo exercício dos Direitos Licenciados, quer diretamente quer por meio de uma entidade de gestão coletiva, sob qualquer regime de licenciamento voluntário ou legal, disponível ou compulsório. Em todos os outros casos, o Licenciante reserva expressamente o direito de arrecadar tais royalties.</li>
           
           </ol>
         </li>
@@ -1039,32 +1039,32 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 3. License Conditions. -->
     <div class="padding-bottom-larger">
-      <p id="s3" class="body-bigger padding-bottom-normal"><strong>第三条 授权条件</strong></p>
+      <p id="s3" class="body-bigger padding-bottom-normal"><strong>Cláusula 3 – Condições da Licença.</strong></p>
 
-      <p class="body-big padding-bottom-normal">您行使被许可的权利明确受以下条件限制：</p>
+      <p class="body-big padding-bottom-normal">O Seu exercício dos Direitos Licenciados fica expressamente sujeito às condições seguintes.</p>
 
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>署名</strong>.</p>
+        <li id="s3a" class="padding-left-normal padding-bottom-normal"><p><strong>Atribuição</strong>.</p>
           <ol type="1" class="padding-left-normal padding-vertical-normal">
             <li id="s3a1" class="padding-left-normal padding-bottom-normal">
               <p>If You Share the Licensed Material (including in modified form), You must:</p>
               <ol type="A" class="padding-left-normal padding-vertical-normal">
-                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：
+                  <li id="s3a1A" class="padding-left-normal padding-bottom-small">manter o seguinte, se for fornecido pelo Licenciante com o Material Licenciado:
                     <ol type="i" class="padding-left-normal padding-vertical-normal">
-                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</li>
-                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">著作权声明；</li>
-                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">有关本公共许可协议的声明；</li>
-                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">有关免责的声明；</li>
-                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；</li>
+                        <li id="s3a1Ai" class="padding-left-normal padding-bottom-normal">identificação do(s) criador(es) do Material Licenciado e quaisquer outros designados para receber atribuição, de qualquer forma razoável solicitada pelo Licenciante (incluindo por pseudónimo, se designado);</li>
+                        <li id="s3a1Aii" class="padding-left-normal padding-bottom-normal">um aviso de direito de autor e direitos conexos;</li>
+                        <li id="s3a1Aiii" class="padding-left-normal padding-bottom-normal">um aviso que se refere a esta Licença Pública;</li>
+                        <li id="s3a1Aiv" class="padding-left-normal padding-bottom-normal">um aviso que se refere à exclusão de garantias;</li>
+                        <li id="s3a1Av" class="padding-left-normal padding-bottom-small">um URI ou um hyperlink para o Material Licenciado na medida razoavelmente exequível;</li>
                     </ol>
                   </li>
-                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及</li>
-                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。</li>
+                  <li id="s3a1B" class="padding-left-normal padding-bottom-normal">indicar se Você modificou o Material Licenciado e manter uma indicação de quaisquer modificações prévias; e</li>
+                  <li id="s3a1C" class="padding-left-normal padding-bottom-small">indicar que o Material Licenciado é licenciado com esta Licença Pública, e incluir o texto de, ou o URI ou o hyperlink para, esta Licença Pública.</li>
               </ol>
             </li>
-            <li id="s3a2" class="padding-left-normal padding-bottom-normal">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足<a href="#s3a1">第三条a款第(1)项</a>的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</li>
+            <li id="s3a2" class="padding-left-normal padding-bottom-normal">Você pode satisfazer as condições da Cláusula <a href="#s3a1">3(a)(1)</a> de qualquer forma razoável, tendo em conta o suporte, os meios e o contexto no qual Você Compartilhar o Material Licenciado. Por exemplo, pode ser razoável satisfazer as condições por via do fornecimento de um URI ou de um hyperlink para um recurso que inclui a informação exigida.</li>
             
-              <li id="s3a3" class="padding-left-normal padding-bottom-small">如果许可人要求，您必须在合理可行的范围内移除<a href="#s3a1A">第三条a款第(1)项(A)目</a> 所要求的任何信息。</li>
+              <li id="s3a3" class="padding-left-normal padding-bottom-small">Se solicitado pelo Licenciante, Você deve remover qualquer parte da informação exigida pela Cláusula <a href="#s3a1A">3(a)(1)(A)</a> na medida razoavelmente exequível.</li>
               
             
           </ol>
@@ -1076,8 +1076,8 @@ a.skip-link:focus, a.skip-link:active {
 
     <!-- Section 4. Sui Generis Database Rights. -->
     <div class="padding-bottom-larger">
-      <p id="s4" class="body-bigger padding-bottom-normal"><strong>第四条  数据库特别权利</strong></p>
-      <p class="body-big padding-bottom-normal">当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：</p>
+      <p id="s4" class="body-bigger padding-bottom-normal"><strong>Cláusula 4 – Direitos Sui Generis sobre Bases de Dados.</strong></p>
+      <p class="body-big padding-bottom-normal">Quando os Direitos Licenciados incluam Direitos Sui Generis sobre Bases de Dados que se apliquem à Sua utilização do Material Licenciado:</p>
       <ol type="a" class="body-big padding-left-normal">
           <li id="s4a" class="padding-left-normal padding-bottom-normal">
           
@@ -1086,62 +1086,62 @@ a.skip-link:focus, a.skip-link:active {
           </li>
           <li id="s4b" class="padding-left-normal padding-bottom-normal">
             
-              如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)；
+              se Você incluir a totalidade ou uma parte substancial dos conteúdos da base de dados numa base de dados em relação à qual Você tenha Direitos Sui Generis sobre Bases de Dados, então a base de dados em relação à qual Você tenha Direitos Sui Generis sobre Bases de Dados (mas não os seus conteúdos individuais) é Material Adaptado; e
             
           </li>
-          <li id="s4c" class="padding-left-normal padding-bottom-small">如果您分享全部或大部分该数据库的资料，您必须遵守 <a href="#s3a">第三条a款</a> 规定的条件。</li>
+          <li id="s4c" class="padding-left-normal padding-bottom-small">Você deve cumprir com as condições da Cláusula <a href="#s3a">3(a)</a> se Você Compartilhar a totalidade ou uma parte substancial dos conteúdos da base de dados.</li>
       </ol>
 
-      <span class="body-big">为避免疑义，当协议所授予的权利包含其他著作权与类似权利时， <a href="#s4">第四条</a> 补充且不取代本公共许可协议所规定的您的义务。</span>
+      <span class="body-big">Para evitar dúvidas, esta Cláusula <a href="#s4">4</a> suplementa e não substitui as Suas obrigações sob esta Licença Pública, quando os Direitos Licenciados incluam outro Direito de Autor e Direitos Similares.</span>
     </div>
 
     <!-- Section 5. Disclaimer -->
     <div class="padding-bottom-larger">
-      <p id="s5" class="body-bigger padding-bottom-normal"><strong>第五条  免责声明及责任限制条款</strong></p>
+      <p id="s5" class="body-bigger padding-bottom-normal"><strong>Cláusula 5 – Exclusão de Garantias e Limitação de Responsabilidade.</strong></p>
       <ol style="font-weight: bold;" type="a" class="body-big padding-left-normal">
-        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。</strong></li>
-        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>在最大可能范围内， 对于任何因本公共许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。</strong></li>
+        <li id="s5a" class="padding-left-normal padding-bottom-normal"><strong>Salvo se o Licenciante fizer separadamente uma assunção em sentido contrário, na medida do possível, o Licenciante disponibiliza o Material Licenciado “no estado em que se encontra” (“as-is”) e “como disponível” (“as-available”), e não faz representações ou presta garantias de qualquer tipo relativamente ao Material Licenciado, quer sejam expressas, implícitas, legais ou outras. Isto inclui, mas não se limita a, garantias quanto à titularidade de direitos, potencial de comercialização, adequação a um fim específico, não violação de direitos, ausência de defeitos latentes ou outros defeitos, exatidão, ou existência ou ausência de erros, quer sejam ou não conhecidos ou detetáveis. Quando as exclusões de garantias não sejam permitidas, na íntegra ou em parte, esta exclusão poderá não aplicar-se a Você.</strong></li>
+        <li id="s5b" class="padding-left-normal padding-bottom-small"><strong>Na medida do possível, em nenhum caso será o Licenciante responsável para com Você, com base em nenhum argumento jurídico (incluindo, mas não se limitando a, negligência) ou a outro título, por quaisquer perdas, custos, despesas ou danos, diretos, especiais, indiretos, incidentais, consequenciais, punitivos, exemplares ou outros, resultantes desta Licença Pública ou da utilização do Material Licenciado, ainda que o Licenciante tenha sido advertido da possibilidade dessas perdas, custos, despesas ou danos. Quando a limitação de responsabilidade não seja permitida, na íntegra ou em parte, esta limitação poderá não aplicar-se a Você.</strong></li>
       </ol>
       <ol start="3" type="a" class="body-big padding-left-normal">
-        <li id="s5c" class="padding-left-normal padding-bottom-small">前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。</li>
+        <li id="s5c" class="padding-left-normal padding-bottom-small">A exclusão de garantias e a limitação de responsabilidade acima previstas devem ser interpretadas de uma forma que, na medida do possível, mais se aproxime de uma absoluta exclusão de, e renúncia a, toda e qualquer responsabilidade.</li>
       </ol>
     </div>
 
     <!-- Section 6. Term and Termination -->
     <div class="padding-bottom-larger">
-      <p id="s6" class="body-bigger padding-bottom-normal"><strong>第六条 期限与终止</strong></p>
+      <p id="s6" class="body-bigger padding-bottom-normal"><strong>Cláusula 6 – Termo e Cessação.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s6a" class="padding-left-normal padding-bottom-normal">本公共许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。</li>
+        <li id="s6a" class="padding-left-normal padding-bottom-normal">Esta Licença Pública aplica-se durante o termo do Direito de Autor e Direitos Similares aqui licenciados. No entanto, se Você não cumprir com esta Licença Pública, então os Seus direitos sob esta Licença Pública cessarão automaticamente.</li>
         <li id="s6b" class="padding-left-normal padding-bottom-normal">
-          <p class="body-big padding-bottom-normal">当您使用本授权作品(Licensed Material)的权利根据第六条a款终止时，您的权利在下述情况下恢复：</p>
+          <p class="body-big padding-bottom-normal">Quando o Seu direito de utilizar o Material Licenciado tenha cessado nos termos da Cláusula 6(a), será restabelecido:</p>
           <ol class="body-big padding-left-normal">
-            <li id="s6b1" class="padding-left-normal padding-bottom-normal">自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</li>
-            <li id="s6b2" class="padding-left-normal padding-bottom-small">根据许可人明示恢复权利的意思表达。</li>
+            <li id="s6b1" class="padding-left-normal padding-bottom-normal">automaticamente a partir da data em que a violação seja sanada, desde que seja sanada dentro de 30 dias a contar da Sua descoberta da violação; ou</li>
+            <li id="s6b2" class="padding-left-normal padding-bottom-small">com o expresso restabelecimento pelo Licenciante.</li>
           </ol>
-          为避免疑义，本公共许可协议<a href="#s6b">第六条b款</a> 不影响许可人就您违反本公共许可协议的行为寻求法律救济。
+          Para evitar dúvidas, esta Cláusula <a href="#s6b">6(b)</a> não afeta qualquer direito que o Licenciante possa ter de obter reparação e medidas legais cabíveis pelas Suas violações desta Licença Pública.
         </li>
-        <li id="s6c" class="padding-left-normal padding-bottom-normal">为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</li>
-        <li id="s6d" class="padding-left-normal padding-bottom-small">本协议<a href="#s1">第一</a>、<a href="#s5">五</a>、<a href="#s6">六</a>、<a href="#s7">七</a>及第<a href="#s8">八</a>条，不因本公共许可协议终止而失效。</li>
+        <li id="s6c" class="padding-left-normal padding-bottom-normal">Para evitar dúvidas, o Licenciante também poderá disponibilizar o Material Licenciado sob termos ou condições separados ou parar a distribuição do Material Licenciado a qualquer momento; no entanto, tal não cessará esta Licença Pública.</li>
+        <li id="s6d" class="padding-left-normal padding-bottom-small">As Cláusulas <a href="#s1">1</a>, <a href="#s5">5</a>, <a href="#s6">6</a>, <a href="#s7">7</a>, e <a href="#s8">8</a> continuarão em vigor após a cessação desta Licença Pública.</li>
       </ol>
     </div>
 
     <!-- Section 7. Other terms and conditions -->
     <div class="padding-bottom-larger">
-      <p id="s7" class="body-bigger padding-bottom-normal"><strong>第七条 其他条款和条件</strong></p>
+      <p id="s7" class="body-bigger padding-bottom-normal"><strong>Cláusula 7 – Outros Termos e Condições.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s7a" class="padding-left-normal padding-bottom-normal">除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。</li>
-        <li id="s7b" class="padding-left-normal padding-bottom-small">本公共许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本公共许可协议的条款及条件。</li>
+        <li id="s7a" class="padding-left-normal padding-bottom-normal">O Licenciante não estará vinculado a quaisquer termos ou condições, adicionais ou diferentes, comunicados por Você, salvo se expressamente acordado.</li>
+        <li id="s7b" class="padding-left-normal padding-bottom-small">Quaisquer pactos, entendimentos ou acordos relativamente ao Material Licenciado não indicados aqui são separados e independentes dos termos e condições desta Licença Pública.</li>
       </ol>
     </div>
 
     <!-- Section 8. Interpretation -->
     <div class="padding-bottom-normal">
-      <p id="s8" class="body-bigger padding-bottom-normal"><strong>第八条 解释</strong></p>
+      <p id="s8" class="body-bigger padding-bottom-normal"><strong>Cláusula 8 – Interpretação.</strong></p>
       <ol type="a" class="body-big padding-left-normal">
-        <li id="s8a" class="padding-left-normal padding-bottom-normal">为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本公共许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。</li>
-        <li id="s8b" class="padding-left-normal padding-bottom-normal">在最大可能范围内，如果本公共许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本公共许可协议中排除适用，不影响其余条款的效力。</li>
-        <li id="s8c" class="padding-left-normal padding-bottom-normal">除非许可人明示同意，本公共许可协议的任何条款或条件均不得放弃。</li>
-        <li id="s8d" class="padding-left-normal">本公共许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。</li>
+        <li id="s8a" class="padding-left-normal padding-bottom-normal">Para evitar dúvidas, esta Licença Pública não reduz, limita, restringe ou impõe condições sobre qualquer utilização do Material Licenciado que possa ser legalmente feita sem a permissão concedida por esta Licença Pública, e não deve ser interpretada nesse sentido.</li>
+        <li id="s8b" class="padding-left-normal padding-bottom-normal">Na medida do possível, se alguma disposição desta Licença Pública for considerada inexequível, será automaticamente reformada na medida estritamente necessária para que se torne exequível. Se a disposição não puder ser alterada, deverá ser removida desta Licença Pública sem afetar a exequibilidade dos restantes termos e condições.</li>
+        <li id="s8c" class="padding-left-normal padding-bottom-normal">Nenhum termo ou condição desta Licença Pública será renunciado e nenhuma falha no seu cumprimento consentida, salvo se tal for expressamente acordado pelo Licenciante.</li>
+        <li id="s8d" class="padding-left-normal">Nada nesta Licença Pública constitui ou pode ser interpretado como uma limitação de, ou renúncia a, quaisquer privilégios e imunidades aplicáveis ao Licenciante ou a Você, incluindo os resultantes dos processos legais de qualquer jurisdição ou autoridade.</li>
       </ol>
     </div>
   </div>
