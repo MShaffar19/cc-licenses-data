@@ -910,7 +910,7 @@ Creative Commons Αναφορά-Μη Εμπορική Χρήση 4.0
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Αναφορά-Μη Εμπορική Χρήση 4.0

@@ -910,7 +910,7 @@ a.skip-link:focus, a.skip-link:active {
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         مؤسسة المشاع الإبداعي نَسْبُ الـمُصنَّف، غير تجاري، الترخيص بالمثل 4.0 رخصة عمومية دولية

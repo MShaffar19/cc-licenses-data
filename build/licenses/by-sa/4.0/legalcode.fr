@@ -910,7 +910,7 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Licence publique Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International

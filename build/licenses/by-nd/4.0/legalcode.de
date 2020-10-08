@@ -910,7 +910,7 @@ Namensnennung-Keine Bearbeitungen 4.0 International
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Namensnennung-Keine Bearbeitungen 4.0 International Public License

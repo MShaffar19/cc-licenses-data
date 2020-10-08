@@ -910,7 +910,7 @@ Atribución/Reconocimiento-NoComercial 4.0 Internacional
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Atribución/Reconocimiento-NoComercial 4.0 Licencia Pública Internacional — CC BY-NC 4.0

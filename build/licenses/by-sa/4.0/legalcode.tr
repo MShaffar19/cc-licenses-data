@@ -910,7 +910,7 @@ Atıf-AynıLisanslaPaylaş 4.0 Uluslararası
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Kamu Lisansı

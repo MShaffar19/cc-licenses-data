@@ -910,7 +910,7 @@ Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Nimeä-EiKaupallinen-EiMuutoksia 4.0 Kansainvälinen Julkinen Lisenssi

@@ -910,7 +910,7 @@ a.skip-link:focus, a.skip-link:active {
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         知识共享 (Creative Commons) 署名—非商业性使用—相同方式共享 4.0公共许可协议国际版

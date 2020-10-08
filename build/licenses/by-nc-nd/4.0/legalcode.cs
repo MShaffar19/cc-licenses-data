@@ -910,7 +910,7 @@ Uveďte původ-Neužívejte komerčně-Nezpracovávejte 4.0 Mezinárodní
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Uveďte původ-Neužívejte komerčně-Nezpracovávejte 4.0 Mezinárodní Veřejná licence

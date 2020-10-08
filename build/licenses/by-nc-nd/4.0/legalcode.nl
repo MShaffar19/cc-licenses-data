@@ -910,7 +910,7 @@ Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationale Publieke Licentie

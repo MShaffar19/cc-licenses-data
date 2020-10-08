@@ -910,7 +910,7 @@ Priznanje avtorstva-Brez predelav 4.0 Mednarodna
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Priznanje avtorstva-Brez predelav 4.0 Mednarodna licenca

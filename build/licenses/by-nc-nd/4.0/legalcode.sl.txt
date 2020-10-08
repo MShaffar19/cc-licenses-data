@@ -1,0 +1,269 @@
+Creative Commons Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenca
+
+Z uveljavljanjem Licenciranih pravic (definirane spodaj) Uporabnik
+sprejme in se strinja, da ga zavezujejo pogoji te Creative Commons
+Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodne licence
+(“Licenca”). Kolikor je mogoče to Licenco smatrati kot pogodbo, se
+Uporabniku zagotovijo licencirane pravice v zameno za sprejem licenčnih
+pogojev, Dajalec licence pa Uporabniku zagotovi te pravice v zameno za
+koristi, ki jih prejme od dajanja Licenciranih vsebin na voljo pod temi
+pogoji.
+
+Oddelek 1 - Definicije
+
+a.   Predelane vsebine pomeni vsebine, ki so predmet Avtorske in
+    podobnih pravic in izhajajo ali so osnovane na Licenciranih vsebinah
+    in v katerih so Licencirane vsebine prevedene, aranžirane ali
+    kakorkoli spremenjene, na način, ki zahteva dovoljenje v skladu z
+    Avtorskimi in podobnimi pravicami, ki pripadajo Dajalcu licence.
+    Kadar je Licencirana vsebina glasbeno delo, izvedba ali zvočni
+    posnetek, se za namene te licence šteje, da so zmeraj ustvarjene
+    Predelane vsebine, kadar je Licencirana vsebina časovno usklajena z
+    gibljivo sliko.
+
+b.   Avtorska in podobne pravice pomeni avtorsko in/ali podobne pravice,
+    ki so sorodne avtorski, vključno z, a ne omejeno na pravice, ki
+    izvirajo iz izvedbe, transmisije in zvočnega snemanja ter sui
+    generis pravice izdelovalcev podatkovnih baz, ne glede na to kako so
+    te pravice poimenovane ali kategorizirane. Za namene te Licence
+    pravice, ki so določene v Oddelku 2(b)(1)-(2) , niso Avtorske in
+    podobne pravice.
+
+c.   Tehnološki ukrepi pomenijo ukrepe, ki jih brez ustreznega
+    dovoljenja ni dopustno zaobiti, v skladu z zakoni, ki izpolnjujejo
+    zaveze iz 11. člena Pogodbe WIPO o avtorski pravici z dne 20.
+    decembra 1996 in/ali podobnih mednarodnih pogodb.
+
+d.   Izjeme in omejitve pomenijo uporabo, skladno z načeloma "fair use"
+    in "fair dealing", in/ali druge izjeme ali omejitve Avtorske in
+    podobnih pravic, ki se nanašajo na uporabo Licenciranih vsebin.
+
+e.   Licencirana vsebina pomeni umetniško, literarno ali znanstveno
+    delo, sui generis podatkovno bazo ali drugo vsebino, ki jo Dajalec
+    licence ponuja pod pogoji te Licence.
+
+f.   Licencirane pravice pomeni pravice, ki so Uporabniku podeljene v
+    skladu s pogoji te Licence in so omejene na vse Avtorske in podobne
+    pravice, ki se nanašajo na uporabo Licencirane vsebine, in ki jih
+    Dajalec licence lahko licencira.
+
+g.   Dajalec licence pomeni fizično ali pravno osebo, ki podeljuje
+    pravice pod pogoji te Licence.
+
+h.   Nekomercialno pomeni, da primarni namen uporabe Licencirane vsebine
+    ni komercialno izkoriščanje ali denarno nadomestilo. Šteje se, da
+    menjava Licencirane vsebine za drugo vsebino, ki je predmet varstva
+    Avtorske ali podobnih pravic, v digitalni obliki ali na podoben
+    način, ni komercialna, če ni pogojena z denarnim plačilom.
+
+i.   Deliti pomeni posredovati vsebine javnosti s kakršnimikoli sredstvi
+    in procesi, za katere je potrebno dovoljenje v skladu z
+    Licenciranimi pravicami, kot je npr. reproduciranje, javno
+    prikazovanje, javno izvajanje, distribuiranje, razširjanje,
+    priobčitev javnosti ali uvažanje, ter dajanje na voljo javnosti,
+    tudi na način, ki omogoča posameznikom dostop do vsebine s kraja in
+    v času, ki ju sami izberejo.
+
+j.   Sui generis pravice na podatkovnih bazah pomenijo pravice, ki niso
+    avtorske in izhajajo iz Direktive 96/9/EC Evropskega parlamenta in
+    Sveta z dne 11. marca 1996 o pravnem varstvu baz podatkov, s
+    spremembami in/ali nasledstvi, kot tudi druge bistveno enakovredne
+    pravice kjerkoli po svetu.
+
+k.   Uporabnik je fizična ali pravna oseba, ki izkorišča Licencirane
+    pravice iz te Licence.
+
+Oddelek 2 – Obseg
+
+a.  Podelitev licence .
+    1.  V skladu s pogoji te Licence, Dajalec licence podeljuje
+        Uporabniku teritorialno neomejeno, brezplačno, neprenosljivo,
+        neizključno in nepreklicno licenco za izkoriščanje naslednjih
+        Licenciranih pravic na Licencirani vsebini:
+        A.  reproduciranje in Deljenje Licencirane vsebine v celoti ali
+            delno, vendar zgolj v Nekomercialne namene; in
+        B.  produce, reproduce, and Share Adapted Material for
+            NonCommercial purposes only.
+    2.  Izjeme in omejitve . V izogib dvomu, kadar je uporaba
+        Licencirane vsebine mogoča na podlagi Izjem in omejitev, se ta
+        Licenca ne uporablja in Uporabniku ni potrebno ravnati v skladu
+        s pogoji te Licence.
+    3.  Trajanje . Trajanje te Licence je določeno v Oddelku 6(a) .
+    4.  Mediji in formati; dovoljene tehnične spremembe . Dajalec
+        licence dovoljuje Uporabniku izkoriščanje Licenciranih pravic v
+        vseh medijih in formatih, znanih ali ustvarjenih kasneje, in
+        izvedbo tehničnih sprememb, kadar je to potrebno. Dajalec
+        licence se odpoveduje in/ali se strinja, da ne bo uveljavljal
+        nobene pravice, ki bi Uporabniku preprečila izvedbo tehničnih
+        sprememb, ki so potrebne za izkoriščanje Licenciranih pravic,
+        vključno s tehničnimi spremembami, ki so potrebne za zaobid
+        Tehnoloških ukrepov. Za namene te Licence, izvajanje sprememb,
+        ki so dovoljene v skladu s tem Oddelkom 2(a)(4) , ne pomeni
+        ustvarjanja Predelanih vsebin.
+    5.   Nadaljnji prejemniki .
+        A.   Ponudba Dajalca licence – Licencirane vsebine . Vsak
+            prejemnik Licencirane vsebine samodejno prejme ponudbo
+            Dajalca licence za izkoriščanje Licenciranih pravic pod
+            pogoji te Licence.
+        B.   Brez omejitev za nadaljnje prejemnike . Uporabnik ne sme
+            dodati ali zahtevati dodatnih ali drugačnih pogojev ali
+            uporabiti kakršnihkoli Tehnoloških ukrepov na Licenciranih
+            vsebinah, če ta dejanja omejujejo izkoriščanje Licenciranih
+            pravic s strani kateregakoli prejemnika Licenciranih vsebin.
+    6.   Brez odobritev . . Nič v tej Licenci ne predstavlja in se ne
+        sme razlagati kot dovoljenje za trditev ali namigovanje, da je
+        Uporabnik ali njegova uporaba Licencirane vsebine povezana z
+        Dajalcem licence, sponzorirana ali da ji je bil podeljen uradni
+        status s strani Dajalca licence ali drugih, ki jim je potrebno
+        priznati avtorstvo v skladu z Oddelkom 3(a)(1)(A)(i) .
+b.  Druge pravice .
+    1.  Moralne pravice, kot je npr. pravica spoštovanja dela, se ne
+        licencirajo s to Licenco. Prav tako se ne licencirajo pravica do
+        zasebnosti in/ali druge osebnostne pravice, vendar se, kolikor
+        je to zakonsko mogoče, Dajalec licence odpoveduje in/ali se
+        strinja, da ne bo uveljavljal teh pravic, ki mu pripadajo, v
+        obsegu, ki je potreben za Uporabnikovo izkoriščanje Licencirani
+        pravic.
+    2.  Pravice na patentih in znamkah niso predmet te Licence.
+    3.  Kolikor je zakonsko mogoče, se Dajalec licence odpoveduje
+        pravici do nadomestila za izkoriščanje Licenciranih pravic, ki
+        se uveljavljajo neposredno ali preko kolektivne organizacije v
+        skladu s prostovoljnim ali obveznim kolektivnim upravljanjem. V
+        vseh drugih primerih si Dajalec licence izrecno pridružuje vse
+        pravice do tovrstnih nadomestil, tudi kadar se Licencirane
+        vsebine uporabljajo za namen, ki ni Nekomercialen.
+
+Oddelek 3 – Pogoji Licence
+
+Uporabnik lahko izkorišča Licencirane pravice izključno pod naslednjimi
+pogoji.
+
+a.  Priznanje avtorstva .
+
+    1.  If You Share the Licensed Material (including in modified form),
+        You must:
+
+        A.  ohraniti naslednje podatke, če so priloženi s strani Dajalca
+            licence skupaj z Licenciranimi vsebinami:
+            i.  identifikacijo ustvarjalca (ustvarjalcev) Licenciranih
+                vsebin in drugih, katerim je potrebno priznati
+                avtorstvo, na razumen način v skladu z zahtevo Dajalca
+                licence (kar vključuje tudi psevdonim, če je bil ta
+                naveden);
+            ii. obvestilo o avtorskih pravicah;
+            iii. obvestilo, ki se nanaša na to Licenco;
+            iv. obvestilo, ki se nanaša na izjavo o jamstvih;
+            v.  URI ali hiperpovezavo do Licencirane vsebine, kolikor je
+                to razumno mogoče;
+        B.  navesti, da je spremenil Licencirano vsebino in obdržati
+            navedbo morebitnih prejšnjih sprememb; in
+        C.  navesti, da je vsebina licencirana pod to Licenco in
+            vključiti besedilo ali URI ali hiperpovezavo do te Licence.
+
+    2.  Uporabnik lahko zadosti pogojem iz Oddelka 3(a)(1) na
+        kakršenkoli razumen način, glede na medij, sredstva in kontekst,
+        v katerem Uporabnik Deli Licencirano vsebino. Na primer, pogojem
+        je mogoče razumno zadostiti z vključitvijo URI-ja ali
+        hiperpovezave do vira, kjer se nahajajo potrebni podatki.
+
+    3.  Če tako zahteva Dajalec licence, mora Uporabnik odstraniti vse
+        informacije iz Oddelka 3(a)(1)(A) , kolikor je to razumno
+        mogoče.
+
+Oddelek 4 - Sui generis pravice na podatkovnih bazah
+
+Kadar Licencirane pravice vključujejo Sui generis pravice na podatkovnih
+bazah, ki se nanašajo na uporabo Licencirane vsebine:
+
+a.  for the avoidance of doubt, Section 2(a)(1) grants You the right to
+    extract, reuse, reproduce, and Share all or a substantial portion of
+    the contents of the database for NonCommercial purposes only;
+b.  Če Uporabnik vključi vse ali znaten del vsebine podatkovne baze v
+    lastno podatkovno bazo, na kateri ima Sui generis pravice na
+    podatkovnih bazah, potem se šteje, da je ta Uporabnikova podatkovna
+    baza (ne pa tudi posamezni elementi njene vsebine) Predelana
+    vsebina, in
+c.  Uporabnik mora ravnati v skladu s pogoji v Oddelku 3(a) , če Deli
+    vse ali znaten del vsebin, ki jih vsebuje podatkovna baza.
+
+V izogib dvomu je Oddelek 4 dodatek in ne nadomešča dolžnosti Uporabnika
+v skladu s to Licenco, kadar Licencirane pravice vključujejo druge
+Avtorske in podobne pravice.
+
+Oddelek 5 – Izjava o jamstvih in omejitev odgovornosti
+
+a.  Razen v primeru, kadar se je Dajalec licence posebej zavezal
+    drugače, daje Dajalec licence Licencirano vsebino na voljo “kot je”
+    in ne daje nobenih zagotovil ali jamstev, izrecnih, implicitnih,
+    zakonskih ali drugih, glede Licenciranih vsebin. To vključuje zlasti
+    jamstva glede pravnih napak, primernosti za prodajo, primernosti za
+    določen namen, kršitev pravic, odsotnosti skritih ali drugih okvar,
+    točnosti ter glede prisotnosti ali odsotnosti napak, znanih ali
+    neznanih ali takšnih, ki bi jih bilo mogoče odkriti. Kadar izjava o
+    jamstvih v celoti ali delno ni v skladu z zakonom, ta izjava za
+    Uporabnika ne velja.
+b.  Kolikor je zakonsko mogoče, Dajalec licence ne odgovarja Uporabniku
+    po katerikoli pravni teoriji (tudi ne iz malomarnosti) ali kako
+    drugače za kakršnokoli direktno, posebno, indirektno, naključno,
+    posledično, kazensko, kaznovalno ali drugo izgubo, stroške, izdatke
+    ali škodo, ki izhaja iz te Licence ali iz uporabe Licencirane
+    vsebine, tudi če je bil Dajalec licence opozorjen na možnosti takšne
+    izgube, stroškov, izdatkov ali škode. Kadar omejitev odgovornosti v
+    celoti ali delno ni v skladu z zakonom, ta omejitev za Uporabnika ne
+    velja.
+
+c.  Zgornja izjava o jamstvih in omejitvi odgovornosti se razlaga tako,
+    da se, kolikor je zakonsko mogoče, približuje celotni odpovedi
+    jamstva in odgovornosti.
+
+Oddelek 6 – Trajanje in prenehanje veljavnosti
+
+a.  Ta Licenca velja za čas trajanja Avtorske in podobnih pravic, ki so
+    z njo licencirane. V primeru, da Uporabnik krši določila te Licence,
+    pravice, podeljene Uporabniku s to Licenco, samodejno prenehajo.
+
+b.  Kadar je Uporabnikova pravica uporabe Licencirane vsebine prenehala
+    v skladu z Oddelkom 6(a), se obnovi:
+
+    1.  samodejno, z datumom, ko se kršitev odpravi, pod pogojem, da se
+        odpravi v roku 30 dni po tem, ko Uporabnik odkrije kršitev, ali
+    2.  po izrecni obnovitvi s strani Dajalca licence.
+
+    V izogib dvomu, Oddelek 6(b) ne vpliva na pravice Dajalca licence,
+    da uveljavlja pravna sredstva zaradi Uporabnikovih kršitev te
+    Licence.
+
+c.  V izogib dvomu, Dajalec licence lahko kadarkoli ponudi Licencirano
+    vsebino tudi pod drugačnimi pogoji ali kadarkoli preneha ponujati
+    Licencirano vsebino; vendar ta dejanja ne prekinejo trajanja te
+    Licence.
+
+d.  Oddelki 1 , 5 , 6 , 7 in 8 ostanejo v veljavi tudi po prenehanju te
+    Licence.
+
+Oddelek 7 – Druge določbe in pogoji
+
+a.  Dajalca licence ne zavezujejo nobeni dodatni ali drugačni pogoji, ki
+    jih postavi Uporabnik, razen če se Dajalec licence z njimi izrecno
+    strinja.
+b.  Vsi dogovori ali sporazumi v zvezi z Licencirano vsebino, ki niso
+    navedeni v tej Licenci, niso predmet te Licence.
+
+Oddelek 8 – Razlaga
+
+a.  V izogib dvomu se ta Licenca ne sme razlagati na način, da
+    zmanjšuje, omejuje ali postavlja pogoje glede kakršnekoli uporabe
+    Licencirane vsebine, ki se v skladu z veljavno zakonodajo lahko vrši
+    brez dovoljenja, podeljenega s to Licenco.
+b.  Če je katerakoli določba te Licence neveljavna ali neizvršljiva, se
+    samodejno spremeni le toliko, kolikor je nujno, da postane veljavna
+    in izvršljiva. Če se določba ne more spremeniti, se izloči iz te
+    Licence, brez da bi vplivala na veljavnost preostalih določb in
+    pogojev.
+c.  Odpoved katerikoli določbi ali pogoju iz te Licence ali soglasje h
+    kršitvam katerekoli določbe ali pogoja sta veljavna samo, če Dajalec
+    licence s tem izrecno soglaša.
+d.  Nič v tej Licenci se ne sme razlagati kot omejitev ali odpoved
+    kakršnimkoli pravicam ali imunitetam, ki se nanašajo na Dajalca
+    licence ali Uporabnika, vključno s postopki pred sodnimi ali drugimi
+    pristojnimi organi.

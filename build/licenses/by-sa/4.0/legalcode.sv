@@ -910,7 +910,7 @@ Erkännande-DelaPåSammaVillkor 4.0 Internationell
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Erkännande-DelaPåSammaVillkor 4.0 Internationell Publik Licens

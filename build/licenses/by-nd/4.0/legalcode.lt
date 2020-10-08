@@ -910,7 +910,7 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija

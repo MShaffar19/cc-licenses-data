@@ -910,7 +910,7 @@ Attiecinājums-Nekomerciāls 4.0 Starptautisks
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Attiecinājuma-Nekomerciāls 4.0 starptautiskā publiskā licence

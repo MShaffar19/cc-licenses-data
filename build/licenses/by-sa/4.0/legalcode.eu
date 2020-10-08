@@ -910,7 +910,7 @@ Aitortu-PartekatuBerdin 4.0 Nazioartekoa
 
 </h3>
 
-  <div>
+  <div id="plain-text-marker"> 
     <h3 class="padding-bottom-normal b-header">
       
         Creative Commons Aitortu-PartekatuBerdin 4.0 Nazioartekoa Lizentzia Publikoa
