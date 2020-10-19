@@ -6,7 +6,7 @@
 <html lang="lt" class="no-js" dir="ltr">
 <head about="http://creativecommons.org/licenses/by-nd/4.0/">
     <meta charset="utf-8">
-    <title>Creative Commons &mdash;  </title>
+    <title>Creative Commons &mdash; Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -117,16 +117,11 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="#">Pradinis</a></li>
-                <li><a href="#">License</a></li>
-                <li class="is-active"><a href="#" aria-current="page displayed">
-  License Deed for 
+                <li><a href="/">Pradinis</a></li>
+                <li><a href="/licenses/">Licenses</a></li>
+                
+<li class="is-active"><a href="/licenses/by-nd/4.0/deed.lt" aria-current="page displayed">License Deed for CC BY-ND 4.0</a></li>
 
-
-Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
-
-
-</a></li>
             </ul>
           </nav>
           
@@ -439,18 +434,21 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 <div id="deed-body" class="margin-vertical-bigger padding-xxl" >
   
 
-<h3 class="is-vcentered is-hidden-touch">
+
+
+
+<h3 class="is-hidden-touch">
   
     <span class="padding-right-bigger">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -458,13 +456,14 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -472,48 +471,39 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
 ></i>
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
   CC BY-ND 4.0
 </h3>
-<h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
+
+
+
+<h3 class="is-hidden-desktop is-hidden-mobile">
   
     <span class="padding-right-big">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -521,13 +511,14 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -535,48 +526,38 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
 ></i>
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
     CC BY-ND 4.0
 </h3>
-<h3 class="is-hidden-tablet has-text-centered">
+
+
+<h3 class="is-hidden-tablet">
   
     <span>
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -584,13 +565,14 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -598,56 +580,39 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-nd icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
       
 
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
     </span>
 </h3>
 <h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-ND 4.0</h4>
-<h2 class="margin-bottom-larger b-header is-hidden-touch">
-
-
-Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
-
-</h2>
-<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
-
-
-Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
-
-</h3>
+<h2 class="margin-bottom-larger b-header is-hidden-touch">Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija</h2>
+<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija</h3>
 
   
   
+
   <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Jūs galite:</h3>
-  <p class="has-text-black body-big padding-bottom-normal"><strong>Dalintis</strong> &mdash; kopijuoti ir platinti medžiagą bet kokiomis priemonėmis ir formatais.
-  </p>
-  <p class="has-text-black body-big padding-bottom-small"><strong>Adaptuoti</strong> &mdash; remiksuoti, perdirbti ar kurti šios medžiagos pagrindu
-  </p>
+
+  
+    <p class="has-text-black body-big padding-bottom-normal"><strong>Share</strong> — copy and redistribute the material in any medium or format for any purpose, even commercially.</p>
+  
+
+  
+
   <p class="has-text-black body-big padding-bottom-small">
     Licenciaras negali atšaukti šių laisvių, jei Jūs laikysitės licencijos sąlygų.
   </p>
@@ -675,11 +640,16 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
         <span style="font-weight: bold;">Priskyrimas</span> -
-
         Privalote nurodyti <a href="#" id="appropriate_credit_popup" class="helpLink">autorystę</a></span>, įdėti nuorodą į licenciją bei <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">nurodyti, ar atlikote pakeitimų</a></span>. Galite tai daryti bet kokiu protingumo kriterijus atitinkančiu būdu, tačiau ne tokiu būdu, kuris sudarytų įspūdį, kad licenciaras pritaria Jūsų veiksmams ar tam, kaip panaudotoje objektą.
       </p>
     </div>
     
+
+  
+
+  
+
+
     <div class="column is-1">
       
 
@@ -688,42 +658,21 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
+  class="cc-nd icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
 ></i>
 
 
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">Nekomercinis</span> -
-
-        Negalite naudoti medžiagos <a href="#" id="commercial_purposes_popup" class="helpLink">komerciniais tikslais</a>.
+        <span style="font-weight: bold;">Jokių išvestinių kūrinių</span> - Jei <a href="#" id="some_kinds_of_mods_popup" class="helpLink">remiksuojate, perdirbate ar kuriate šios medžiagos pagrindu</a>, negalite platinti atlikus pakeitimus gautos medžiagos.
       </p>
     </div>
-    <div class="column is-1">
-      
 
 
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
-></i>
-
-
-    </div>
-    <div class="column is-11">
-      <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">Analogiškas platinimas</span> - Jei remiksuojate, perdirbate ar kuriate šios medžiagos pagrindu, tokios veiklos rezultatus privalote platinti panaudodami <a href="#" id="same_license_popup" class="helpLink">tą pačią licenciją</a>, kuri naudota originalui.
-      </p>
-    </div>
     <div class="column is-1">
     </div>
     <div class="column is-11">
@@ -741,17 +690,8 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
   </p>
 </div>
 
-<style>
-  #deed-body {
-    background-color: rgb(255, 255, 255);
-    border-top: 10px solid rgb(60, 92, 153);
-    border-bottom: 5px solid rgb(176, 176, 176);
-    border-left: 5px solid rgb(176, 176, 176);
-    border-right: 5px solid rgb(176, 176, 176);
-  }
-</style>
-
     
+      
 
 
 
@@ -768,6 +708,7 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
   </p>
 </div>
 
+    
     <div class="columns margin-top-normal is-vcentered" >
       
 
@@ -786,12 +727,12 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
       
       <ul>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
         
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/cclicenses/" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/donate/" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://chooser-beta.creativecommons.org/" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
         
       </ul>
     </li>
@@ -822,6 +763,18 @@ Priskyrimo — Jokių išvestinių kūrinių 4.0 tarptautinė licencija
 
     </div>
   </div>
+
+
+<style>
+  #deed-body {
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(60, 92, 153);
+    border-bottom: 5px solid rgb(176, 176, 176);
+    border-left: 5px solid rgb(176, 176, 176);
+    border-right: 5px solid rgb(176, 176, 176);
+  }
+</style>
+
 
     </section>
   </main>

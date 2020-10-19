@@ -117,16 +117,11 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="#">Domů</a></li>
-                <li><a href="#">License</a></li>
-                <li class="is-active"><a href="#" aria-current="page displayed">
-  Legal Code for 
+                <li><a href="/">Domů</a></li>
+                <li><a href="/licenses/">Licenses</a></li>
+                
+  <li class="is-active"><a href="/licenses/by/4.0/legalcode.cs" aria-current="page displayed">Legal Code for CC BY 4.0</a></li>
 
-
-Uveďte původ 4.0 Mezinárodní
-
-
-</a></li>
             </ul>
           </nav>
           
@@ -434,8 +429,6 @@ Uveďte původ 4.0 Mezinárodní
       Version 4.0 &#8226;
       See the <a href="#">errata page</a> for any corrections and the date of change
       
-        &#8226; Translation published 2020/10/05
-      
     </div>
     <div class="column">
       <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by/4.0/deed.cs">See the deed</button>
@@ -449,16 +442,12 @@ Uveďte původ 4.0 Mezinárodní
 
 <div class="column is-one-quarter sidebar-container">
   <aside class="menu sidebar-menu">
-    <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
-
-
-Uveďte původ 4.0 Mezinárodní
-
-</a>
+    <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">Uveďte původ 4.0 Mezinárodní</a>
     <ul class="menu-list" >
       <li>
         <ul>
           
+        
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
             <a class="is-block column" href="#s1">Článek 1 - Definice.</a>
@@ -491,6 +480,7 @@ Uveďte původ 4.0 Mezinárodní
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
             <a class=" is-block column" href="#s8">Článek 8 – Výklad.</a>
           </li>
+        
         </ul>
       </li>
     </ul>
@@ -501,11 +491,10 @@ Uveďte původ 4.0 Mezinárodní
       
 
 
-
 <div id="licenses-header" class="padding-larger margin-bottom-bigger has-text-black is-hidden-touch is-hidden-desktop-only" >
   <h2 class="is-vcentered">
     
-      <span class="padding-right-bigger">
+    <span class="padding-right-bigger">
       
         
 
@@ -521,6 +510,7 @@ Uveďte původ 4.0 Mezinárodní
 ></i>
 
 
+      
         
 
 
@@ -535,52 +525,19 @@ Uveďte původ 4.0 Mezinárodní
 ></i>
 
 
-        
-
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-        
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
       
-      </span>
+    </span>
 
     CC BY 4.0 
   </h2>
   
-  <h1 class="b-header">
-
-
-Uveďte původ 4.0 Mezinárodní
-
-</h1>
+  <h1 class="b-header">Uveďte původ 4.0 Mezinárodní</h1>
 </div>
 
 <div id="licenses-header" class="padding-larger margin-bottom-bigger has-text-black is-hidden-widescreen" >
   <h2 class="has-text-centered">
     
-      <span>
+    <span>
       
         
 
@@ -589,13 +546,14 @@ Uveďte původ 4.0 Mezinárodní
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
+      
         
 
 
@@ -603,38 +561,10 @@ Uveďte původ 4.0 Mezinárodní
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-        
-
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-        
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
@@ -644,12 +574,7 @@ Uveďte původ 4.0 Mezinárodní
   <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY 4.0</h2>
   <h3 class="has-text-centered is-hidden-touch">CC BY 4.0</h3>
   <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY 4.0</h4>
-  <h2 class="b-header has-text-centered">
-
-
-Uveďte původ 4.0 Mezinárodní
-
-</h2>
+  <h2 class="b-header has-text-centered">Uveďte původ 4.0 Mezinárodní</h2>
 </div>
 
 <style>
@@ -712,21 +637,25 @@ Uveďte původ 4.0 Mezinárodní
 </style>
 
       
+        
 <div id="legal-code-body" class="padding-larger margin-top-bigger has-text-black">
   
 
-<h3 class="is-vcentered is-hidden-touch">
+
+
+
+<h3 class="is-hidden-touch">
   
     <span class="padding-right-bigger">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -734,13 +663,14 @@ Uveďte původ 4.0 Mezinárodní
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -748,48 +678,24 @@ Uveďte původ 4.0 Mezinárodní
 
 
       
-
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
   CC BY 4.0
 </h3>
-<h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
+
+
+
+<h3 class="is-hidden-desktop is-hidden-mobile">
   
     <span class="padding-right-big">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -797,13 +703,14 @@ Uveďte původ 4.0 Mezinárodní
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -811,48 +718,23 @@ Uveďte původ 4.0 Mezinárodní
 
 
       
-
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
     CC BY 4.0
 </h3>
-<h3 class="is-hidden-tablet has-text-centered">
+
+
+<h3 class="is-hidden-tablet">
   
     <span>
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -860,13 +742,14 @@ Uveďte původ 4.0 Mezinárodní
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -875,54 +758,14 @@ Uveďte původ 4.0 Mezinárodní
 
       
 
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
     </span>
 </h3>
 <h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY 4.0</h4>
-<h2 class="margin-bottom-larger b-header is-hidden-touch">
-
-
-Uveďte původ 4.0 Mezinárodní
-
-</h2>
-<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
-
-
-Uveďte původ 4.0 Mezinárodní
-
-</h3>
+<h2 class="margin-bottom-larger b-header is-hidden-touch">Uveďte původ 4.0 Mezinárodní</h2>
+<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">Uveďte původ 4.0 Mezinárodní</h3>
 
   <div>
-    <h3 class="padding-bottom-normal b-header">
-      
-        Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-      
-    </h3>
+    <h3 class="padding-bottom-normal b-header">Creative Commons Uveďte původ 4.0 Mezinárodní</h3>
     <p class="body-big padding-bottom-larger">
     
 Výkonem Licencovaných práv (jak jsou definována níže) souhlasíte s licenčními podmínkami Creative Commons Uveďte původ 4.0 Mezinárodní veřejná licence (dále jen „Veřejná licence“) a zavazujete se je dodržovat. V rozsahu, v jakém lze tuto Veřejnou licenci chápat jako smlouvu, je Vám oprávnění vykonávat Licencovaná práva uděleno jako protiplnění za Váš souhlas s těmito licenčními podmínkami. Poskytovatel Vám toto oprávnění poskytuje jako protiplnění za výhody, které pro něj vyplývají z toho, že je Licencovaný obsah zpřístupňován za těchto licenčních podmínek.
@@ -1168,6 +1011,7 @@ Výkonem Licencovaných práv (jak jsou definována níže) souhlasíte s licen�
 </style>
   
       
+      
 
 <div id="legal-code-plain-text" style="font-weight: bold;" class="padding-vertical-normal" >
   <p class="body-big"><a href="#" class="link">View Legal Code as plain text</a></p>
@@ -1202,12 +1046,12 @@ Výkonem Licencovaných práv (jak jsou definována níže) souhlasíte s licen�
       
       <ul>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
         
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/cclicenses/" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/donate/" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://chooser-beta.creativecommons.org/" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
         
       </ul>
     </li>
@@ -1216,6 +1060,17 @@ Výkonem Licencovaných práv (jak jsou definována níže) souhlasíte s licen�
 
     </div>
   </div>
+
+
+<style>
+  #legal-code-body {
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(60, 92, 153);
+    border-bottom: 5px solid rgb(176, 176, 176);
+    border-left: 5px solid rgb(176, 176, 176);
+    border-right: 5px solid rgb(176, 176, 176);
+  }
+</style>
 
     </section>
   </main>

@@ -6,7 +6,7 @@
 <html lang="pl" class="no-js" dir="ltr">
 <head about="http://creativecommons.org/licenses/by/4.0/">
     <meta charset="utf-8">
-    <title>Creative Commons &mdash;  </title>
+    <title>Creative Commons &mdash; Uznanie autorstwa 4.0 Międzynarodowa </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -117,16 +117,11 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="#">Strona główna</a></li>
-                <li><a href="#">License</a></li>
-                <li class="is-active"><a href="#" aria-current="page displayed">
-  License Deed for 
+                <li><a href="/">Strona główna</a></li>
+                <li><a href="/licenses/">Licenses</a></li>
+                
+<li class="is-active"><a href="/licenses/by/4.0/deed.pl" aria-current="page displayed">License Deed for CC BY 4.0</a></li>
 
-
-Uznanie autorstwa 4.0 Międzynarodowa
-
-
-</a></li>
             </ul>
           </nav>
           
@@ -439,18 +434,21 @@ Uznanie autorstwa 4.0 Międzynarodowa
 <div id="deed-body" class="margin-vertical-bigger padding-xxl" >
   
 
-<h3 class="is-vcentered is-hidden-touch">
+
+
+
+<h3 class="is-hidden-touch">
   
     <span class="padding-right-bigger">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -458,13 +456,14 @@ Uznanie autorstwa 4.0 Międzynarodowa
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -472,48 +471,24 @@ Uznanie autorstwa 4.0 Międzynarodowa
 
 
       
-
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
   CC BY 4.0
 </h3>
-<h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
+
+
+
+<h3 class="is-hidden-desktop is-hidden-mobile">
   
     <span class="padding-right-big">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -521,13 +496,14 @@ Uznanie autorstwa 4.0 Międzynarodowa
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -535,48 +511,23 @@ Uznanie autorstwa 4.0 Międzynarodowa
 
 
       
-
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
     CC BY 4.0
 </h3>
-<h3 class="is-hidden-tablet has-text-centered">
+
+
+<h3 class="is-hidden-tablet">
   
     <span>
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -584,13 +535,14 @@ Uznanie autorstwa 4.0 Międzynarodowa
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -599,55 +551,28 @@ Uznanie autorstwa 4.0 Międzynarodowa
 
       
 
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
     </span>
 </h3>
 <h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY 4.0</h4>
-<h2 class="margin-bottom-larger b-header is-hidden-touch">
-
-
-Uznanie autorstwa 4.0 Międzynarodowa
-
-</h2>
-<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
-
-
-Uznanie autorstwa 4.0 Międzynarodowa
-
-</h3>
+<h2 class="margin-bottom-larger b-header is-hidden-touch">Uznanie autorstwa 4.0 Międzynarodowa</h2>
+<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">Uznanie autorstwa 4.0 Międzynarodowa</h3>
 
   
   
+
   <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Wolno:</h3>
-  <p class="has-text-black body-big padding-bottom-normal"><strong>Dzielenie się</strong> &mdash; kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie
-  </p>
-  <p class="has-text-black body-big padding-bottom-small"><strong>Adaptacje</strong> &mdash; remiksuj, zmieniaj i twórz na bazie utworu
-  </p>
+
+  
+   <p class="has-text-black body-big padding-bottom-normal"><strong>Dzielenie się</strong> &mdash; kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie</p>
+  
+
+  
+    
+      <p class="has-text-black body-big padding-bottom-small"><strong>Adapt</strong>  &mdash; remix, transform, and build upon the material for any purpose, even commercially.
+      </p>
+    
+  
+
   <p class="has-text-black body-big padding-bottom-small">
     Licencjodawca nie może odwołać udzielonych praw, o ile są przestrzegane warunki licencji.
   </p>
@@ -675,55 +600,17 @@ Uznanie autorstwa 4.0 Międzynarodowa
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
         <span style="font-weight: bold;">Uznanie autorstwa</span> -
-
         Utwór należy <a href="#" id="appropriate_credit_popup" class="helpLink">odpowiednio oznaczyć</a></span>, podać link do licencji i <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">wskazać jeśli zostały dokonane w nim zmiany </a></span>. Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór. 
       </p>
     </div>
     
-    <div class="column is-1">
-      
+
+  
+
+  
 
 
 
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
-></i>
-
-
-    </div>
-    <div class="column is-11">
-      <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">Użycie niekomercyjne</span> -
-
-        Nie należy wykorzystywać utworu do <a href="#" id="commercial_purposes_popup" class="helpLink">celów komercyjnych</a>
-      </p>
-    </div>
-    <div class="column is-1">
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
-></i>
-
-
-    </div>
-    <div class="column is-11">
-      <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">Na tych samych warunkach</span> - Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na <a href="#" id="same_license_popup" class="helpLink">tej samej licencji</a>, co oryginał.
-      </p>
-    </div>
     <div class="column is-1">
     </div>
     <div class="column is-11">
@@ -741,17 +628,8 @@ Uznanie autorstwa 4.0 Międzynarodowa
   </p>
 </div>
 
-<style>
-  #deed-body {
-    background-color: rgb(255, 255, 255);
-    border-top: 10px solid rgb(60, 92, 153);
-    border-bottom: 5px solid rgb(176, 176, 176);
-    border-left: 5px solid rgb(176, 176, 176);
-    border-right: 5px solid rgb(176, 176, 176);
-  }
-</style>
-
     
+      
 
 
 
@@ -768,6 +646,7 @@ Uznanie autorstwa 4.0 Międzynarodowa
   </p>
 </div>
 
+    
     <div class="columns margin-top-normal is-vcentered" >
       
 
@@ -786,12 +665,12 @@ Uznanie autorstwa 4.0 Międzynarodowa
       
       <ul>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
         
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/cclicenses/" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/donate/" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://chooser-beta.creativecommons.org/" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
         
       </ul>
     </li>
@@ -822,6 +701,18 @@ Uznanie autorstwa 4.0 Międzynarodowa
 
     </div>
   </div>
+
+
+<style>
+  #deed-body {
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(60, 92, 153);
+    border-bottom: 5px solid rgb(176, 176, 176);
+    border-left: 5px solid rgb(176, 176, 176);
+    border-right: 5px solid rgb(176, 176, 176);
+  }
+</style>
+
 
     </section>
   </main>

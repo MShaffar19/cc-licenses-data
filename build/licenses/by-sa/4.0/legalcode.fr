@@ -117,16 +117,11 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="#">Accueil</a></li>
-                <li><a href="#">License</a></li>
-                <li class="is-active"><a href="#" aria-current="page displayed">
-  Legal Code for 
+                <li><a href="/">Accueil</a></li>
+                <li><a href="/licenses/">Licenses</a></li>
+                
+  <li class="is-active"><a href="/licenses/by-sa/4.0/legalcode.fr" aria-current="page displayed">Legal Code for CC BY-SA 4.0</a></li>
 
-
-Attribution - Partage dans les mêmes conditions 4.0 International
-
-
-</a></li>
             </ul>
           </nav>
           
@@ -434,8 +429,6 @@ Attribution - Partage dans les mêmes conditions 4.0 International
       Version 4.0 &#8226;
       See the <a href="#">errata page</a> for any corrections and the date of change
       
-        &#8226; Translation published 2020/10/05
-      
     </div>
     <div class="column">
       <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-sa/4.0/deed.fr">See the deed</button>
@@ -449,16 +442,12 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 <div class="column is-one-quarter sidebar-container">
   <aside class="menu sidebar-menu">
-    <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
-
-
-Attribution - Partage dans les mêmes conditions 4.0 International
-
-</a>
+    <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">Attribution - Partage dans les mêmes conditions 4.0 International</a>
     <ul class="menu-list" >
       <li>
         <ul>
           
+        
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
             <a class="is-block column" href="#s1">Article 1 - Définitions.</a>
@@ -491,6 +480,7 @@ Attribution - Partage dans les mêmes conditions 4.0 International
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
             <a class=" is-block column" href="#s8">Article 8 – Interprétation.</a>
           </li>
+        
         </ul>
       </li>
     </ul>
@@ -501,11 +491,10 @@ Attribution - Partage dans les mêmes conditions 4.0 International
       
 
 
-
 <div id="licenses-header" class="padding-larger margin-bottom-bigger has-text-black is-hidden-touch is-hidden-desktop-only" >
   <h2 class="is-vcentered">
     
-      <span class="padding-right-bigger">
+    <span class="padding-right-bigger">
       
         
 
@@ -521,6 +510,7 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 ></i>
 
 
+      
         
 
 
@@ -535,20 +525,7 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 ></i>
 
 
-        
-
-
-
-
-
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
+      
         
 
 
@@ -564,23 +541,18 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
       
-      </span>
+    </span>
 
     CC BY-SA 4.0 
   </h2>
   
-  <h1 class="b-header">
-
-
-Attribution - Partage dans les mêmes conditions 4.0 International
-
-</h1>
+  <h1 class="b-header">Attribution - Partage dans les mêmes conditions 4.0 International</h1>
 </div>
 
 <div id="licenses-header" class="padding-larger margin-bottom-bigger has-text-black is-hidden-widescreen" >
   <h2 class="has-text-centered">
     
-      <span>
+    <span>
       
         
 
@@ -589,13 +561,14 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
+      
         
 
 
@@ -603,13 +576,14 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
+      
         
 
 
@@ -617,24 +591,10 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-        
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
@@ -644,12 +604,7 @@ Attribution - Partage dans les mêmes conditions 4.0 International
   <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-SA 4.0</h2>
   <h3 class="has-text-centered is-hidden-touch">CC BY-SA 4.0</h3>
   <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-SA 4.0</h4>
-  <h2 class="b-header has-text-centered">
-
-
-Attribution - Partage dans les mêmes conditions 4.0 International
-
-</h2>
+  <h2 class="b-header has-text-centered">Attribution - Partage dans les mêmes conditions 4.0 International</h2>
 </div>
 
 <style>
@@ -712,21 +667,25 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 </style>
 
       
+        
 <div id="legal-code-body" class="padding-larger margin-top-bigger has-text-black">
   
 
-<h3 class="is-vcentered is-hidden-touch">
+
+
+
+<h3 class="is-hidden-touch">
   
     <span class="padding-right-bigger">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -734,13 +693,14 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -748,48 +708,39 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-sa icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
 ></i>
 
 
+      
     </span>
   CC BY-SA 4.0
 </h3>
-<h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
+
+
+
+<h3 class="is-hidden-desktop is-hidden-mobile">
   
     <span class="padding-right-big">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -797,13 +748,14 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -811,48 +763,38 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-sa icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
 ></i>
 
 
+      
     </span>
     CC BY-SA 4.0
 </h3>
-<h3 class="is-hidden-tablet has-text-centered">
+
+
+<h3 class="is-hidden-tablet">
   
     <span>
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -860,13 +802,14 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -874,55 +817,30 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
-      
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-sa icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
+      
+
     </span>
 </h3>
 <h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-SA 4.0</h4>
-<h2 class="margin-bottom-larger b-header is-hidden-touch">
-
-
-Attribution - Partage dans les mêmes conditions 4.0 International
-
-</h2>
-<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
-
-
-Attribution - Partage dans les mêmes conditions 4.0 International
-
-</h3>
+<h2 class="margin-bottom-larger b-header is-hidden-touch">Attribution - Partage dans les mêmes conditions 4.0 International</h2>
+<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">Attribution - Partage dans les mêmes conditions 4.0 International</h3>
 
   <div>
-    <h3 class="padding-bottom-normal b-header">
-      
-        Licence publique Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International
-      
-    </h3>
+    <h3 class="padding-bottom-normal b-header">Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International</h3>
     <p class="body-big padding-bottom-larger">
     
     Lorsque Vous exercez les Droits accordés par la licence (définis ci-dessous), Vous acceptez d'être lié par les termes et conditions de la présente Licence publique Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International (la « Licence publique »). Dans la mesure où la présente Licence publique peut être interprétée comme un contrat, Vous bénéficiez des Droits accordés par la licence en contrepartie de Votre acceptation des présents termes et conditions, et le Donneur de licence Vous accorde ces droits en contrepartie des avantages que lui procure le fait de mettre à disposition l’Œuvre sous licence en vertu des présents termes et conditions.
@@ -1185,6 +1103,7 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 </style>
   
       
+      
 
 <div id="legal-code-plain-text" style="font-weight: bold;" class="padding-vertical-normal" >
   <p class="body-big"><a href="#" class="link">View Legal Code as plain text</a></p>
@@ -1219,12 +1138,12 @@ Attribution - Partage dans les mêmes conditions 4.0 International
       
       <ul>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
         
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/cclicenses/" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/donate/" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://chooser-beta.creativecommons.org/" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
         
       </ul>
     </li>
@@ -1233,6 +1152,17 @@ Attribution - Partage dans les mêmes conditions 4.0 International
 
     </div>
   </div>
+
+
+<style>
+  #legal-code-body {
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(60, 92, 153);
+    border-bottom: 5px solid rgb(176, 176, 176);
+    border-left: 5px solid rgb(176, 176, 176);
+    border-right: 5px solid rgb(176, 176, 176);
+  }
+</style>
 
     </section>
   </main>

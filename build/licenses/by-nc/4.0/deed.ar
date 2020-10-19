@@ -6,7 +6,7 @@
 <html lang="ar" class="no-js" dir="rtl">
 <head about="http://creativecommons.org/licenses/by-nc/4.0/">
     <meta charset="utf-8">
-    <title>Creative Commons &mdash;  </title>
+    <title>Creative Commons &mdash; نَسْبُ الـمُصنَّف، غير تجاري 4.0 دولي </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -117,16 +117,11 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="#">الرئيسية</a></li>
-                <li><a href="#">License</a></li>
-                <li class="is-active"><a href="#" aria-current="page displayed">
-  License Deed for 
+                <li><a href="/">الرئيسية</a></li>
+                <li><a href="/licenses/">Licenses</a></li>
+                
+<li class="is-active"><a href="/licenses/by-nc/4.0/deed.ar" aria-current="page displayed">License Deed for CC BY-NC 4.0</a></li>
 
-
-نَسْبُ الـمُصنَّف، غير تجاري 4.0 دولي
-
-
-</a></li>
             </ul>
           </nav>
           
@@ -439,18 +434,21 @@ a.skip-link:focus, a.skip-link:active {
 <div id="deed-body" class="margin-vertical-bigger padding-xxl" >
   
 
-<h3 class="is-vcentered is-hidden-touch">
+
+
+
+<h3 class="is-hidden-touch">
   
     <span class="padding-left-bigger">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -458,13 +456,14 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -472,13 +471,14 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nc icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-nc icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -486,34 +486,24 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
   CC BY-NC 4.0
 </h3>
-<h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
+
+
+
+<h3 class="is-hidden-desktop is-hidden-mobile">
   
     <span class="padding-left-big">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -521,13 +511,14 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -535,13 +526,14 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nc icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-nc icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -549,34 +541,23 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
     CC BY-NC 4.0
 </h3>
-<h3 class="is-hidden-tablet has-text-centered">
+
+
+<h3 class="is-hidden-tablet">
   
     <span>
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -584,13 +565,14 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -598,13 +580,14 @@ a.skip-link:focus, a.skip-link:active {
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-nc icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-nc icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -613,41 +596,28 @@ a.skip-link:focus, a.skip-link:active {
 
       
 
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
     </span>
 </h3>
 <h4 class="has-text-centered is-hidden-tablet padding-right-normal">CC BY-NC 4.0</h4>
-<h2 class="margin-bottom-larger b-header is-hidden-touch">
-
-
-نَسْبُ الـمُصنَّف، غير تجاري 4.0 دولي
-
-</h2>
-<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
-
-
-نَسْبُ الـمُصنَّف، غير تجاري 4.0 دولي
-
-</h3>
+<h2 class="margin-bottom-larger b-header is-hidden-touch">نَسْبُ الـمُصنَّف، غير تجاري 4.0 دولي</h2>
+<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">نَسْبُ الـمُصنَّف، غير تجاري 4.0 دولي</h3>
 
   
   
+
   <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">لك مطلق الحرية في:</h3>
-  <p class="has-text-black body-big padding-bottom-normal"><strong>المشاركة</strong> &mdash; نسخ وتوزيع ونقل العمل لأي وسط أو شكل.
-  </p>
-  <p class="has-text-black body-big padding-bottom-small"><strong>التعديل</strong> &mdash; المزج، التحويل، والإضافة على العمل.
-  </p>
+
+  
+   <p class="has-text-black body-big padding-bottom-normal"><strong>المشاركة</strong> &mdash; نسخ وتوزيع ونقل العمل لأي وسط أو شكل.</p>
+  
+
+  
+    
+      <p class="has-text-black body-big padding-bottom-small"><strong>التعديل</strong> &mdash; المزج، التحويل، والإضافة على العمل.
+      </p>
+    
+  
+
   <p class="has-text-black body-big padding-bottom-small">
     لا يمكن للمرخِّص إلغاء هذه الصلاحيات طالما اتبعت شروط الرخصة.
   </p>
@@ -675,11 +645,12 @@ a.skip-link:focus, a.skip-link:active {
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
         <span style="font-weight: bold;">نَسْبُ الـمُصنَّف:</span> -
-
         يجب عليك نَسب العمل لصاحبه <a href="#" id="appropriate_credit_popup" class="helpLink">بطريقة مناسبة</a></span>، وتوفير رابط للترخيص، <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">وبيان إذا ما قد أُجريت أي تعديلات على العمل</a></span>. يمكنك القيام بهذا بأي طريقة مناسبة، ولكن على ألا يتم ذلك بطريقة توحي بأن المؤلف أو المرخِّص مؤيد لك أو لعملك.
       </p>
     </div>
     
+
+  
     <div class="column is-1">
       
 
@@ -699,31 +670,15 @@ a.skip-link:focus, a.skip-link:active {
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
         <span style="font-weight: bold;">غير تجاري</span> -
-
         لا يمكنك استخدام هذا العمل <a href="#" id="commercial_purposes_popup" class="helpLink">لأغراض تجارية</a>.
       </p>
     </div>
-    <div class="column is-1">
-      
+  
+
+  
 
 
 
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-right-big is-hidden-touch "
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-right-normal is-hidden-desktop "
-></i>
-
-
-    </div>
-    <div class="column is-11">
-      <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">الترخيص بالمثل</span> - إذا قمت بأي تعديل، تغيير، أو إضافة على هذا العمل، فيجب عليك توزيع العمل الناتج <a href="#" id="same_license_popup" class="helpLink">بنفس شروط ترخيص</a> العمل الأصلي.
-      </p>
-    </div>
     <div class="column is-1">
     </div>
     <div class="column is-11">
@@ -741,17 +696,8 @@ a.skip-link:focus, a.skip-link:active {
   </p>
 </div>
 
-<style>
-  #deed-body {
-    background-color: rgb(255, 255, 255);
-    border-top: 10px solid rgb(60, 92, 153);
-    border-bottom: 5px solid rgb(176, 176, 176);
-    border-left: 5px solid rgb(176, 176, 176);
-    border-right: 5px solid rgb(176, 176, 176);
-  }
-</style>
-
     
+      
 
 
 
@@ -768,6 +714,7 @@ a.skip-link:focus, a.skip-link:active {
   </p>
 </div>
 
+    
     <div class="columns margin-top-normal is-vcentered" >
       
 
@@ -786,12 +733,12 @@ a.skip-link:focus, a.skip-link:active {
       
       <ul>
         
-          <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
+          <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
         
-        <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
-        <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
+        <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/cclicenses/" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
+        <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/donate/" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
         
-          <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
+          <li><span class="body-bigger padding-left-normal padding-top-small">&#8226;</span><a href="https://chooser-beta.creativecommons.org/" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
         
       </ul>
     </li>
@@ -822,6 +769,18 @@ a.skip-link:focus, a.skip-link:active {
 
     </div>
   </div>
+
+
+<style>
+  #deed-body {
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(60, 92, 153);
+    border-bottom: 5px solid rgb(176, 176, 176);
+    border-left: 5px solid rgb(176, 176, 176);
+    border-right: 5px solid rgb(176, 176, 176);
+  }
+</style>
+
 
     </section>
   </main>

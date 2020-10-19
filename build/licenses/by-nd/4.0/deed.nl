@@ -6,7 +6,7 @@
 <html lang="nl" class="no-js" dir="ltr">
 <head about="http://creativecommons.org/licenses/by-nd/4.0/">
     <meta charset="utf-8">
-    <title>Creative Commons &mdash;  </title>
+    <title>Creative Commons &mdash; Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -117,16 +117,11 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="#">Voorpagina</a></li>
-                <li><a href="#">License</a></li>
-                <li class="is-active"><a href="#" aria-current="page displayed">
-  License Deed for 
+                <li><a href="/">Voorpagina</a></li>
+                <li><a href="/licenses/">Licenses</a></li>
+                
+<li class="is-active"><a href="/licenses/by-nd/4.0/deed.nl" aria-current="page displayed">License Deed for CC BY-ND 4.0</a></li>
 
-
-Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
-
-
-</a></li>
             </ul>
           </nav>
           
@@ -439,18 +434,21 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 <div id="deed-body" class="margin-vertical-bigger padding-xxl" >
   
 
-<h3 class="is-vcentered is-hidden-touch">
+
+
+
+<h3 class="is-hidden-touch">
   
     <span class="padding-right-bigger">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -458,13 +456,14 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -472,48 +471,39 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
 ></i>
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
   CC BY-ND 4.0
 </h3>
-<h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
+
+
+
+<h3 class="is-hidden-desktop is-hidden-mobile">
   
     <span class="padding-right-big">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -521,13 +511,14 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -535,48 +526,38 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
 ></i>
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
     CC BY-ND 4.0
 </h3>
-<h3 class="is-hidden-tablet has-text-centered">
+
+
+<h3 class="is-hidden-tablet">
   
     <span>
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -584,13 +565,14 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -598,56 +580,39 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-nd icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
       
 
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
     </span>
 </h3>
 <h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-ND 4.0</h4>
-<h2 class="margin-bottom-larger b-header is-hidden-touch">
-
-
-Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
-
-</h2>
-<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
-
-
-Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
-
-</h3>
+<h2 class="margin-bottom-larger b-header is-hidden-touch">Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal</h2>
+<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal</h3>
 
   
   
+
   <h3 class="b-header has-text-black padding-bottom-big padding-top-normal" style="font-weight: bold;">Je bent vrij om:</h3>
-  <p class="has-text-black body-big padding-bottom-normal"><strong>het werk te delen</strong> &mdash; te kopiëren, te verspreiden en door te geven via elk medium of bestandsformaat
-  </p>
-  <p class="has-text-black body-big padding-bottom-small"><strong>het werk te bewerken</strong> &mdash; te remixen, te veranderen en afgeleide werken te maken
-  </p>
+
+  
+    <p class="has-text-black body-big padding-bottom-normal"><strong>Share</strong> — copy and redistribute the material in any medium or format for any purpose, even commercially.</p>
+  
+
+  
+
   <p class="has-text-black body-big padding-bottom-small">
     De licentiegever kan deze toestemming niet intrekken zolang aan de licentievoorwaarden voldaan wordt.
   </p>
@@ -675,11 +640,16 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
         <span style="font-weight: bold;">Naamsvermelding</span> -
-
         De gebruiker dient de maker van het werk te <a href="#" id="appropriate_credit_popup" class="helpLink">vermelden</a>, een link naar de licentie te plaatsen en <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">aan te geven of het werk veranderd is</a>. Je mag dat op redelijke wijze doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk.
       </p>
     </div>
     
+
+  
+
+  
+
+
     <div class="column is-1">
       
 
@@ -688,42 +658,21 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
+  class="cc-nd icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
+  class="cc-nd icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
 ></i>
 
 
     </div>
     <div class="column is-11">
       <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">NietCommercieel</span> -
-
-        Je mag het werk niet gebruiken voor <a href="#" id="commercial_purposes_popup" class="helpLink">commerciële doeleinden</a>.
+        <span style="font-weight: bold;">GeenAfgeleideWerken</span> - Je mag het veranderde materiaal niet verspreiden als je het werk hebt <a href="#" id="some_kinds_of_mods_popup" class="helpLink">geremixt, veranderd, of op het werk hebt voortgebouwd</a>.
       </p>
     </div>
-    <div class="column is-1">
-      
 
 
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch "
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop "
-></i>
-
-
-    </div>
-    <div class="column is-11">
-      <p class="has-text-black body-big padding-bottom-normal">
-        <span style="font-weight: bold;">GelijkDelen</span> - Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, moet je het veranderde materiaal verspreiden onder <a href="#" id="same_license_popup" class="helpLink">dezelfde licentie</a> als het originele werk.
-      </p>
-    </div>
     <div class="column is-1">
     </div>
     <div class="column is-11">
@@ -741,17 +690,8 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
   </p>
 </div>
 
-<style>
-  #deed-body {
-    background-color: rgb(255, 255, 255);
-    border-top: 10px solid rgb(60, 92, 153);
-    border-bottom: 5px solid rgb(176, 176, 176);
-    border-left: 5px solid rgb(176, 176, 176);
-    border-right: 5px solid rgb(176, 176, 176);
-  }
-</style>
-
     
+      
 
 
 
@@ -768,6 +708,7 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
   </p>
 </div>
 
+    
     <div class="columns margin-top-normal is-vcentered" >
       
 
@@ -786,12 +727,12 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
       
       <ul>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
         
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/cclicenses/" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/donate/" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://chooser-beta.creativecommons.org/" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
         
       </ul>
     </li>
@@ -822,6 +763,18 @@ Naamsvermelding-GeenAfgeleideWerken 4.0 Internationaal
 
     </div>
   </div>
+
+
+<style>
+  #deed-body {
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(60, 92, 153);
+    border-bottom: 5px solid rgb(176, 176, 176);
+    border-left: 5px solid rgb(176, 176, 176);
+    border-right: 5px solid rgb(176, 176, 176);
+  }
+</style>
+
 
     </section>
   </main>

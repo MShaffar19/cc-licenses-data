@@ -117,16 +117,11 @@ a.skip-link:focus, a.skip-link:active {
 
           <nav class="breadcrumb level-left caption bold" aria-label="breadcrumbs">
             <ul>
-                <li><a href="#">Hem</a></li>
-                <li><a href="#">License</a></li>
-                <li class="is-active"><a href="#" aria-current="page displayed">
-  Legal Code for 
+                <li><a href="/">Hem</a></li>
+                <li><a href="/licenses/">Licenses</a></li>
+                
+  <li class="is-active"><a href="/licenses/by-nc/4.0/legalcode.sv" aria-current="page displayed">Legal Code for CC BY-NC 4.0</a></li>
 
-
-Erkännande-Icke-Kommersiell 4.0 Internationell
-
-
-</a></li>
             </ul>
           </nav>
           
@@ -434,8 +429,6 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
       Version 4.0 &#8226;
       See the <a href="#">errata page</a> for any corrections and the date of change
       
-        &#8226; Translation published 2020/10/05
-      
     </div>
     <div class="column">
       <button id="next-btn" class="button tiny is-pulled-right" data-href="/licenses/by-nc/4.0/deed.sv">See the deed</button>
@@ -449,16 +442,12 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 <div class="column is-one-quarter sidebar-container">
   <aside class="menu sidebar-menu">
-    <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">
-
-
-Erkännande-Icke-Kommersiell 4.0 Internationell
-
-</a>
+    <a class="link has-text-black is-block padding-bottom-normal" href="#legal-code-body">Erkännande-Icke-Kommersiell 4.0 Internationell</a>
     <ul class="menu-list" >
       <li>
         <ul>
           
+        
           <li class="columns">
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
             <a class="is-block column" href="#s1">Avsnitt 1 – Definitioner.</a>
@@ -491,6 +480,7 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
             <div class="body-bigger is-inline-block column is-1 py-0 my-0">&#8226;</div>
             <a class=" is-block column" href="#s8">Avsnitt 8 – Tolkning.</a>
           </li>
+        
         </ul>
       </li>
     </ul>
@@ -501,11 +491,10 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
       
 
 
-
 <div id="licenses-header" class="padding-larger margin-bottom-bigger has-text-black is-hidden-touch is-hidden-desktop-only" >
   <h2 class="is-vcentered">
     
-      <span class="padding-right-bigger">
+    <span class="padding-right-bigger">
       
         
 
@@ -521,6 +510,7 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 ></i>
 
 
+      
         
 
 
@@ -535,6 +525,7 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 ></i>
 
 
+      
         
 
 
@@ -549,38 +540,19 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 ></i>
 
 
-        
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
       
-      </span>
+    </span>
 
     CC BY-NC 4.0 
   </h2>
   
-  <h1 class="b-header">
-
-
-Erkännande-Icke-Kommersiell 4.0 Internationell
-
-</h1>
+  <h1 class="b-header">Erkännande-Icke-Kommersiell 4.0 Internationell</h1>
 </div>
 
 <div id="licenses-header" class="padding-larger margin-bottom-bigger has-text-black is-hidden-widescreen" >
   <h2 class="has-text-centered">
     
-      <span>
+    <span>
       
         
 
@@ -589,13 +561,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
+      
         
 
 
@@ -603,13 +576,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
+      
         
 
 
@@ -617,24 +591,10 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
+  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
-        
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-big padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
+  class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 
 
@@ -644,12 +604,7 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
   <h2 class="has-text-centered is-hidden-touch is-hidden-desktop-only padding-left-normal">CC BY-NC 4.0</h2>
   <h3 class="has-text-centered is-hidden-touch">CC BY-NC 4.0</h3>
   <h4 class="has-text-centered is-hidden-desktop-only is-hidden-widescreen">CC BY-NC 4.0</h4>
-  <h2 class="b-header has-text-centered">
-
-
-Erkännande-Icke-Kommersiell 4.0 Internationell
-
-</h2>
+  <h2 class="b-header has-text-centered">Erkännande-Icke-Kommersiell 4.0 Internationell</h2>
 </div>
 
 <style>
@@ -712,21 +667,25 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 </style>
 
       
+        
 <div id="legal-code-body" class="padding-larger margin-top-bigger has-text-black">
   
 
-<h3 class="is-vcentered is-hidden-touch">
+
+
+
+<h3 class="is-hidden-touch">
   
     <span class="padding-right-bigger">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -734,13 +693,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -748,13 +708,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nc icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -762,34 +723,24 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
   CC BY-NC 4.0
 </h3>
-<h3 class="is-vcentered is-hidden-desktop is-hidden-mobile has-text-centered">
+
+
+
+<h3 class="is-hidden-desktop is-hidden-mobile">
   
     <span class="padding-right-big">
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -797,13 +748,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -811,13 +763,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
+  class="cc-nc icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small"
 ></i>
 <i
   class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
@@ -825,34 +778,23 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
-
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small"
-></i>
-
-
     </span>
     CC BY-NC 4.0
 </h3>
-<h3 class="is-hidden-tablet has-text-centered">
+
+
+<h3 class="is-hidden-tablet">
   
     <span>
-    
       
+        
 
 
 
 
 
 <i
-  class="cc-logo icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-logo icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-logo icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -860,13 +802,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-by icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-by icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-by icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -874,13 +817,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
 
       
+        
 
 
 
 
 
 <i
-  class="cc-nc icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
+  class="cc-nc icon has-text-black has-background-white is-size-1 is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
 ></i>
 <i
   class="cc-nc icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
@@ -889,40 +833,14 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
       
 
-
-
-
-
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-1 padding-left-big is-hidden-touch margin-normal padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-<i
-  class="cc-sa icon has-text-black has-background-white is-size-2 padding-left-normal is-hidden-desktop margin-small padding-bottom-small margin-horizontal-smaller margin-vertical-small"
-></i>
-
-
     </span>
 </h3>
 <h4 class="has-text-centered is-hidden-tablet padding-left-normal">CC BY-NC 4.0</h4>
-<h2 class="margin-bottom-larger b-header is-hidden-touch">
-
-
-Erkännande-Icke-Kommersiell 4.0 Internationell
-
-</h2>
-<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">
-
-
-Erkännande-Icke-Kommersiell 4.0 Internationell
-
-</h3>
+<h2 class="margin-bottom-larger b-header is-hidden-touch">Erkännande-Icke-Kommersiell 4.0 Internationell</h2>
+<h3 class="margin-bottom-larger b-header is-hidden-desktop has-text-centered">Erkännande-Icke-Kommersiell 4.0 Internationell</h3>
 
   <div>
-    <h3 class="padding-bottom-normal b-header">
-      
-        Creative Commons Erkännande-Icke-Kommersiell 4.0 Internationell Publik Licens
-      
-    </h3>
+    <h3 class="padding-bottom-normal b-header">Creative Commons Erkännande-Icke-Kommersiell 4.0 Internationell</h3>
     <p class="body-big padding-bottom-larger">
     
       Genom att nyttja Licensrättigheterna (definierade nedan), accepterar och godkänner Du att Du är bunden av villkoren i denna Creative Commons Erkännande-Icke-Kommersiell 4.0 Internationella Publika Licens ("Publik Licens"). I den mån den Publika Licensen kan tolkas som ett kontrakt, beviljas Du Licensrättigheterna under förutsättning att Du accepterar dessa villkor, och Licensgivaren beviljar Dig sådana rättigheter i förhållande till den nytta Licensgivaren har genom att göra Licensmaterialet tillgängligt under dessa villkor.
@@ -1172,6 +1090,7 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 </style>
   
       
+      
 
 <div id="legal-code-plain-text" style="font-weight: bold;" class="padding-vertical-normal" >
   <p class="body-big"><a href="#" class="link">View Legal Code as plain text</a></p>
@@ -1206,12 +1125,12 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
       
       <ul>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/" class="is-inline body-big" style="font-weight: bold;">Learn more about our work</a></li>
         
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
-        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/about/cclicenses/" class="is-inline body-big" style="font-weight: bold;">Learn more about CC Licensing</a></li>
+        <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://creativecommons.org/donate/" class="is-inline body-big" style="font-weight: bold;">Support our work</a></li>
         
-          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="#" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
+          <li><span class="body-bigger padding-right-normal padding-top-small">&#8226;</span><a href="https://chooser-beta.creativecommons.org/" class="is-inline body-big" style="font-weight: bold;">Use the license for your own material.<i class="icon external-link padding-bottom-small caption"></i></a></li>
         
       </ul>
     </li>
@@ -1220,6 +1139,17 @@ Erkännande-Icke-Kommersiell 4.0 Internationell
 
     </div>
   </div>
+
+
+<style>
+  #legal-code-body {
+    background-color: rgb(255, 255, 255);
+    border-top: 10px solid rgb(60, 92, 153);
+    border-bottom: 5px solid rgb(176, 176, 176);
+    border-left: 5px solid rgb(176, 176, 176);
+    border-right: 5px solid rgb(176, 176, 176);
+  }
+</style>
 
     </section>
   </main>
